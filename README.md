@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-closed.svg) [[Messenger] Fix TypeError getWaitingTime with float multiplier](https://github.com/symfony/symfony/pull/46798) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- ![](./assets/pr-open.svg) [[DependencyInjection] add `#[Exclude]` in order to not register as a service](https://github.com/symfony/symfony/pull/46655) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
+- ![](./assets/pr-open.svg) [[DependencyInjection] add `#[Exclude]` in order to not register as a service](https://github.com/symfony/symfony/pull/46655) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Fix ignore attribute in Xml files](https://github.com/symfony/symfony/pull/46577) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-open.svg) [[Security] Add the ability for voter to return decision reason](https://github.com/symfony/symfony/pull/46493) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-closed.svg) [Change github pull request template from 6.1 to 6.2](https://github.com/symfony/symfony/pull/46433) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
