@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Serializer] Fix XmlEncoder encoding attribute false](https://github.com/symfony/symfony/pull/47048) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Fix link to samples folder](https://github.com/Azure/azure-storage-php/pull/333) on [Azure/azure-storage-php](https://github.com/Azure/azure-storage-php) (5 days ago)
 - ![](./assets/pr-merged.svg) [[Form] ChoiceType choices must support TranslatableInterface](https://github.com/symfony/symfony/pull/46946) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-closed.svg) [[Messenger] Fix TypeError getWaitingTime with float multiplier](https://github.com/symfony/symfony/pull/46798) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
@@ -11,7 +12,6 @@
 - ![](./assets/pr-closed.svg) [Change github pull request template from 6.1 to 6.2](https://github.com/symfony/symfony/pull/46433) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-open.svg) [[Serializer] Allow to add groups to SerializedName annotation/attribute](https://github.com/symfony/symfony/pull/46432) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Mime] Throw exception when body in Email attach method is not ok](https://github.com/symfony/symfony/pull/46367) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-open.svg) [[Notifier] [WIP]  Add from in SmsMessage and support it in bridge transports](https://github.com/symfony/symfony-docs/pull/16701) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 
 
 #### 📜 My recent blog posts
