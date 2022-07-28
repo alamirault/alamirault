@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Messenger] Deprecate MessageHandlerInterface and MessageSubscriberIn…](https://github.com/symfony/symfony/pull/47068) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[Messenger] Deprecate MessageHandlerInterface and MessageSubscriberInterface](https://github.com/symfony/symfony/pull/47068) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Form] Allow TranslatableInterface to the FormType help option](https://github.com/symfony/symfony/pull/47050) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Form] Allow TranslatableInterface to the FormType help option](https://github.com/symfony/symfony-docs/pull/17055) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Fix XmlEncoder encoding attribute false](https://github.com/symfony/symfony/pull/47048) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
