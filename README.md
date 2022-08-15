@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Config] Deprecate ArrayNodeDefinition::ignoreExtraKeys in favor of s…](https://github.com/symfony/symfony/pull/47284) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-closed.svg) [[Translation] Crowdin provider throw Exception when status is 50x](https://github.com/symfony/symfony/pull/47216) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix Crowdin documentation urls](https://github.com/symfony/symfony/pull/47214) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [[Messenger] Deprecate MessageHandlerInterface and MessageSubscriberInterface](https://github.com/symfony/symfony/pull/47068) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Notifier] Add `from` in `SmsMessage`](https://github.com/symfony/symfony/pull/45987) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - ![](./assets/pr-merged.svg) [[Messenger] DoctrineTransportFactory works with notify and decorated PostgreSQL driver](https://github.com/symfony/symfony/pull/45983) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - ![](./assets/pr-merged.svg) [[Notifier] [OvhCloud] Add `no_stop_clause` to DSN](https://github.com/symfony/symfony/pull/45951) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Add TaggedIteratorArgument unit tests](https://github.com/symfony/symfony/pull/45929) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 
 
 #### 📜 My recent blog posts
