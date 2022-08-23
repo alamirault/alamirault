@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Console] Fix OutputFormatterStyleStack::getCurrent return type](https://github.com/symfony/symfony/pull/47372) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Remove usage of empty function when possible](https://github.com/symfony/symfony/pull/47370) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[HttpKernel] FileProfilerStorage remove expired profiles mechanism](https://github.com/symfony/symfony/pull/47352) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-open.svg) [[Config] Deprecate ArrayNodeDefinition::ignoreExtraKeys in favor of s etIgnoreExtraKeys and setRemoveExtraKeys](https://github.com/symfony/symfony/pull/47284) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [[Serializer] Allow to add groups to SerializedName annotation/attribute](https://github.com/symfony/symfony/pull/46432) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Mime] Throw exception when body in Email attach method is not ok](https://github.com/symfony/symfony/pull/46367) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-open.svg) [[Notifier] [WIP]  Add from in SmsMessage and support it in bridge transports](https://github.com/symfony/symfony-docs/pull/16701) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [[Notifier] Add `from` in `SmsMessage`](https://github.com/symfony/symfony/pull/45987) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 
 
 #### 📜 My recent blog posts
