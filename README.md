@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Console] Fix OutputFormatterStyleStack::getCurrent return type](https://github.com/symfony/symfony/pull/47372) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Console] Fix OutputFormatterStyleStack::getCurrent return type](https://github.com/symfony/symfony/pull/47372) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-closed.svg) [Remove usage of empty function when possible](https://github.com/symfony/symfony/pull/47370) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-open.svg) [[HttpKernel] FileProfilerStorage remove expired profiles mechanism](https://github.com/symfony/symfony/pull/47352) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-open.svg) [[Config] Deprecate ArrayNodeDefinition::ignoreExtraKeys in favor of s etIgnoreExtraKeys and setRemoveExtraKeys](https://github.com/symfony/symfony/pull/47284) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
