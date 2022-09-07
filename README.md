@@ -21,7 +21,7 @@
 - ![](./assets/pr-closed.svg) [Change github pull request template from 6.1 to 6.2](https://github.com/symfony/symfony/pull/46433) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-open.svg) [[Serializer] Allow to add groups to SerializedName annotation/attribute](https://github.com/symfony/symfony/pull/46432) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Mime] Throw exception when body in Email attach method is not ok](https://github.com/symfony/symfony/pull/46367) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- ![](./assets/pr-open.svg) [[Notifier] [WIP]  Add from in SmsMessage and support it in bridge transports](https://github.com/symfony/symfony-docs/pull/16701) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
+- ![](./assets/pr-open.svg) [[Notifier] [WIP]  Add from in SmsMessage and support it in bridge transports](https://github.com/symfony/symfony-docs/pull/16701) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 months ago)
 
 
 #### 📜 My recent blog posts
