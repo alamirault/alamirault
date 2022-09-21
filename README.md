@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Fix typo github worklfow](https://github.com/rectorphp/rector-src/pull/2944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - ![](./assets/pr-merged.svg) [[Console] Fix OutputFormatterStyleStack::getCurrent return type](https://github.com/symfony/symfony/pull/47372) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - ![](./assets/pr-closed.svg) [Remove usage of empty function when possible](https://github.com/symfony/symfony/pull/47370) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - ![](./assets/pr-open.svg) [[HttpKernel] FileProfilerStorage remove expired profiles mechanism](https://github.com/symfony/symfony/pull/47352) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [Change github pull request template from 6.1 to 6.2](https://github.com/symfony/symfony/pull/46433) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - ![](./assets/pr-open.svg) [[Serializer] Allow to add groups to SerializedName annotation/attribute](https://github.com/symfony/symfony/pull/46432) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - ![](./assets/pr-merged.svg) [[Mime] Throw exception when body in Email attach method is not ok](https://github.com/symfony/symfony/pull/46367) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
-- ![](./assets/pr-open.svg) [[Notifier] [WIP]  Add from in SmsMessage and support it in bridge transports](https://github.com/symfony/symfony-docs/pull/16701) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 months ago)
 
 
 #### 📜 My recent blog posts
