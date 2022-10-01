@@ -9,7 +9,7 @@
 - ![](./assets/pr-open.svg) [[Config] Deprecate ArrayNodeDefinition::ignoreExtraKeys in favor of s etIgnoreExtraKeys and setRemoveExtraKeys](https://github.com/symfony/symfony/pull/47284) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-closed.svg) [[Translation] Crowdin provider throw Exception when status is 50x](https://github.com/symfony/symfony/pull/47216) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix Crowdin documentation urls](https://github.com/symfony/symfony/pull/47214) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-open.svg) [[Messenger] Deprecate MessageHandlerInterface and MessageSubscriberInterface](https://github.com/symfony/symfony/pull/47068) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
+- ![](./assets/pr-merged.svg) [[Messenger] Deprecate MessageHandlerInterface and MessageSubscriberInterface](https://github.com/symfony/symfony/pull/47068) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Form] Allow TranslatableInterface to the FormType help option](https://github.com/symfony/symfony/pull/47050) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Form] Allow TranslatableInterface to the FormType help option](https://github.com/symfony/symfony-docs/pull/17055) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Fix XmlEncoder encoding attribute false](https://github.com/symfony/symfony/pull/47048) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
