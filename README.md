@@ -2,7 +2,10 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Package is 7.1 compatible](https://github.com/alamirault/fftt-api-src/pull/9) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (today)
+- ![](./assets/pr-merged.svg) [Hotfix Github actions tags](https://github.com/alamirault/fftt-api-src/pull/8) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (today)
 - ![](./assets/pr-merged.svg) [Fix typo github worklfow](https://github.com/rectorphp/rector-src/pull/2944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Migration](https://github.com/alamirault/fftt-api-src/pull/1) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Console] Fix OutputFormatterStyleStack::getCurrent return type](https://github.com/symfony/symfony/pull/47372) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-closed.svg) [Remove usage of empty function when possible](https://github.com/symfony/symfony/pull/47370) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-open.svg) [[HttpKernel] FileProfilerStorage remove expired profiles mechanism](https://github.com/symfony/symfony/pull/47352) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-closed.svg) [[DependencyInjection] add `#[Exclude]` in order to not register as a service](https://github.com/symfony/symfony/pull/46655) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Fix ignore attribute in Xml files](https://github.com/symfony/symfony/pull/46577) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - ![](./assets/pr-open.svg) [[Security] Add the ability for voter to return decision reason](https://github.com/symfony/symfony/pull/46493) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
-- ![](./assets/pr-closed.svg) [Change github pull request template from 6.1 to 6.2](https://github.com/symfony/symfony/pull/46433) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
-- ![](./assets/pr-open.svg) [[Serializer] Allow to add groups to SerializedName annotation/attribute](https://github.com/symfony/symfony/pull/46432) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
-- ![](./assets/pr-merged.svg) [[Mime] Throw exception when body in Email attach method is not ok](https://github.com/symfony/symfony/pull/46367) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 
 
 #### 📜 My recent blog posts
