@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Notifier] Check Discord embed limitations](https://github.com/symfony/symfony/pull/47859) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[Serializer] Add PropertyNormalizer::NORMALIZE_VISIBILITY documentation](https://github.com/symfony/symfony-docs/pull/17347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Package is 7.1 compatible](https://github.com/alamirault/fftt-api-src/pull/9) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (4 days ago)
 - ![](./assets/pr-merged.svg) [Hotfix Github actions tags](https://github.com/alamirault/fftt-api-src/pull/8) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (4 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Form] ChoiceType choices must support TranslatableInterface](https://github.com/symfony/symfony/pull/46946) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-closed.svg) [[Messenger] Fix TypeError getWaitingTime with float multiplier](https://github.com/symfony/symfony/pull/46798) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-closed.svg) [[DependencyInjection] add `#[Exclude]` in order to not register as a service](https://github.com/symfony/symfony/pull/46655) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Fix ignore attribute in Xml files](https://github.com/symfony/symfony/pull/46577) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 
 
 #### 📜 My recent blog posts
