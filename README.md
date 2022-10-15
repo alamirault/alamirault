@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Notifier] Check Discord embed limitations](https://github.com/symfony/symfony/pull/47859) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-open.svg) [[Serializer] Add PropertyNormalizer::NORMALIZE_VISIBILITY documentation](https://github.com/symfony/symfony-docs/pull/17347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-merged.svg) [Package is 7.1 compatible](https://github.com/alamirault/fftt-api-src/pull/9) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (5 days ago)
-- ![](./assets/pr-merged.svg) [Hotfix Github actions tags](https://github.com/alamirault/fftt-api-src/pull/8) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (5 days ago)
+- ![](./assets/pr-open.svg) [[Notifier] Check Discord embed limitations](https://github.com/symfony/symfony/pull/47859) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[Serializer] Add PropertyNormalizer::NORMALIZE_VISIBILITY documentation](https://github.com/symfony/symfony-docs/pull/17347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [Package is 7.1 compatible](https://github.com/alamirault/fftt-api-src/pull/9) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (6 days ago)
+- ![](./assets/pr-merged.svg) [Hotfix Github actions tags](https://github.com/alamirault/fftt-api-src/pull/8) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (6 days ago)
 - ![](./assets/pr-merged.svg) [Fix typo github worklfow](https://github.com/rectorphp/rector-src/pull/2944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Migration](https://github.com/alamirault/fftt-api-src/pull/1) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Console] Fix OutputFormatterStyleStack::getCurrent return type](https://github.com/symfony/symfony/pull/47372) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
