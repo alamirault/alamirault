@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix phpunit deprecation](https://github.com/symfony-tools/carsonbot/pull/208) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 day ago)
+- ![](./assets/pr-merged.svg) [Fix phpunit deprecation](https://github.com/symfony-tools/carsonbot/pull/208) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 day ago)
 - ![](./assets/pr-open.svg) [Add PR message if branch desc mismatch branch target](https://github.com/symfony-tools/carsonbot/pull/207) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 day ago)
 - ![](./assets/pr-open.svg) [[Notifier] Check Discord embed limitations](https://github.com/symfony/symfony/pull/47859) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Add PropertyNormalizer::NORMALIZE_VISIBILITY documentation](https://github.com/symfony/symfony-docs/pull/17347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
