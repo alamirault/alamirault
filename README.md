@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add missing args to trigger_deprecation](https://github.com/symfony/symfony/pull/47955) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[Dotenv] DebugCommand must respect dotenv_path runtime configuration](https://github.com/symfony/symfony/pull/47901) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [Fix phpunit deprecation](https://github.com/symfony-tools/carsonbot/pull/208) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (6 days ago)
 - ![](./assets/pr-open.svg) [Add PR message if branch desc mismatch branch target](https://github.com/symfony-tools/carsonbot/pull/207) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (6 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Form] Allow TranslatableInterface to the FormType help option](https://github.com/symfony/symfony/pull/47050) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Form] Allow TranslatableInterface to the FormType help option](https://github.com/symfony/symfony-docs/pull/17055) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Fix XmlEncoder encoding attribute false](https://github.com/symfony/symfony/pull/47048) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- ![](./assets/pr-open.svg) [Fix link to samples folder](https://github.com/Azure/azure-storage-php/pull/333) on [Azure/azure-storage-php](https://github.com/Azure/azure-storage-php) (3 months ago)
 
 
 #### 📜 My recent blog posts
