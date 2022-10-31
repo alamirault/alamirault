@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[SecurityBundle] Set request stateless when firewall is stateless](https://github.com/symfony/symfony/pull/48044) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-open.svg) [[SecurityBundle] Deprecate enabling bundle and not configuring it](https://github.com/symfony/symfony/pull/48043) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-open.svg) [[SecurityBundle] Set request stateless when firewall is stateless](https://github.com/symfony/symfony/pull/48044) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[SecurityBundle] Deprecate enabling bundle and not configuring it](https://github.com/symfony/symfony/pull/48043) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Security][Serializer] Add missing args to trigger_deprecation](https://github.com/symfony/symfony/pull/47955) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [[Dotenv] DebugCommand must respect dotenv_path runtime configuration](https://github.com/symfony/symfony/pull/47901) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix phpunit deprecation](https://github.com/symfony-tools/carsonbot/pull/208) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (2 weeks ago)
