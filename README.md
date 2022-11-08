@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Yaml] Extract duplicate code to private function](https://github.com/symfony/symfony/pull/48163) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony/pull/48127) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-open.svg) [[SecurityBundle] Set request stateless when firewall is stateless](https://github.com/symfony/symfony/pull/48044) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [[SecurityBundle] Deprecate enabling bundle and not configuring it](https://github.com/symfony/symfony/pull/48043) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [[Config] Deprecate ArrayNodeDefinition::ignoreExtraKeys in favor of s etIgnoreExtraKeys and setRemoveExtraKeys](https://github.com/symfony/symfony/pull/47284) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-closed.svg) [[Translation] Crowdin provider throw Exception when status is 50x](https://github.com/symfony/symfony/pull/47216) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix Crowdin documentation urls](https://github.com/symfony/symfony/pull/47214) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- ![](./assets/pr-merged.svg) [[Messenger] Deprecate MessageHandlerInterface and MessageSubscriberInterface](https://github.com/symfony/symfony/pull/47068) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 
 
 #### 📜 My recent blog posts
