@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Security] Improve LogoutUrlGenerator exception message](https://github.com/symfony/symfony/pull/48212) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [[Messenger] Fix time-limit check exception](https://github.com/symfony/symfony/pull/48198) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Extract duplicate code to private function](https://github.com/symfony/symfony/pull/48163) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-open.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony/pull/48127) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [Remove usage of empty function when possible](https://github.com/symfony/symfony/pull/47370) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-open.svg) [[HttpKernel] FileProfilerStorage remove expired profiles mechanism](https://github.com/symfony/symfony/pull/47352) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-open.svg) [[Config] Deprecate ArrayNodeDefinition::ignoreExtraKeys in favor of s etIgnoreExtraKeys and setRemoveExtraKeys](https://github.com/symfony/symfony/pull/47284) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- ![](./assets/pr-closed.svg) [[Translation] Crowdin provider throw Exception when status is 50x](https://github.com/symfony/symfony/pull/47216) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 
 
 #### 📜 My recent blog posts
