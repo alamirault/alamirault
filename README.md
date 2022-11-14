@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Messenger] Fix time-limit check exception](https://github.com/symfony/symfony/pull/48198) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Messenger] Fix time-limit check exception](https://github.com/symfony/symfony/pull/48198) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Extract duplicate code to private function](https://github.com/symfony/symfony/pull/48163) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-open.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony/pull/48127) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [[SecurityBundle] Set request stateless when firewall is stateless](https://github.com/symfony/symfony/pull/48044) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
