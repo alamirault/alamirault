@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [enable_annotations read also attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Validator] File: fix versionadded of extensionsMessage option](https://github.com/symfony/symfony-docs/pull/17437) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Serializer] Add PropertyNormalizer::NORMALIZE_VISIBILITY documentation](https://github.com/symfony/symfony-docs/pull/17347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Package is 7.1 compatible](https://github.com/alamirault/fftt-api-src/pull/9) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 month ago)
 - ![](./assets/pr-merged.svg) [Hotfix Github actions tags](https://github.com/alamirault/fftt-api-src/pull/8) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix typo github worklfow](https://github.com/rectorphp/rector-src/pull/2944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 months ago)
 
 
 #### 📜 My recent blog posts
