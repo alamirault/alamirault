@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [enable_annotations read also attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [`enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Validator] File: fix versionadded of extensionsMessage option](https://github.com/symfony/symfony-docs/pull/17437) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
