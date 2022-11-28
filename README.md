@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (today)
 - ![](./assets/pr-open.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [`enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add PR message if branch desc mismatch branch target](https://github.com/symfony-tools/carsonbot/pull/207) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Check Discord embed limitations](https://github.com/symfony/symfony/pull/47859) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Add PropertyNormalizer::NORMALIZE_VISIBILITY documentation](https://github.com/symfony/symfony-docs/pull/17347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Package is 7.1 compatible](https://github.com/alamirault/fftt-api-src/pull/9) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 month ago)
 
 
 #### 📜 My recent blog posts
