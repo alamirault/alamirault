@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (today)
 - ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (5 days ago)
 - ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-open.svg) [`enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-open.svg) [[Dotenv] DebugCommand must respect dotenv_path runtime configuration](https://github.com/symfony/symfony/pull/47901) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix phpunit deprecation](https://github.com/symfony-tools/carsonbot/pull/208) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add PR message if branch desc mismatch branch target](https://github.com/symfony-tools/carsonbot/pull/207) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Notifier] Check Discord embed limitations](https://github.com/symfony/symfony/pull/47859) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Add PropertyNormalizer::NORMALIZE_VISIBILITY documentation](https://github.com/symfony/symfony-docs/pull/17347) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 
 #### 📜 My recent blog posts
