@@ -2,17 +2,17 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-open.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 day ago)
-- ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (6 days ago)
-- ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-open.svg) [Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (2 days ago)
+- ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 week ago)
+- ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-open.svg) [`enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-open.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Validator] File: fix versionadded of extensionsMessage option](https://github.com/symfony/symfony-docs/pull/17437) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Validator] Add `pattern` in `Regex` constraint violations](https://github.com/symfony/symfony-docs/pull/17436) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Validator] Add `{{pattern}}` to `Regex` constraint violations](https://github.com/symfony/symfony/pull/48232) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- ![](./assets/pr-closed.svg) [[Security] Improve `LogoutUrlGenerator` exception message](https://github.com/symfony/symfony/pull/48212) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- ![](./assets/pr-closed.svg) [[Security] Improve `LogoutUrlGenerator` exception message](https://github.com/symfony/symfony/pull/48212) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Messenger] Fix time-limit check exception](https://github.com/symfony/symfony/pull/48198) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Extract duplicate code to private function](https://github.com/symfony/symfony/pull/48163) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony/pull/48127) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
