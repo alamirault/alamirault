@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[DependencyInjection] Fix typo in RemoveBuildParametersPassTest](https://github.com/symfony/symfony/pull/48490) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (2 days ago)
 - ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Security][Serializer] Add missing args to trigger_deprecation](https://github.com/symfony/symfony/pull/47955) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-open.svg) [[Dotenv] DebugCommand must respect dotenv_path runtime configuration](https://github.com/symfony/symfony/pull/47901) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix phpunit deprecation](https://github.com/symfony-tools/carsonbot/pull/208) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add PR message if branch desc mismatch branch target](https://github.com/symfony-tools/carsonbot/pull/207) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 
 
 #### 📜 My recent blog posts
