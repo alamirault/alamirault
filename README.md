@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- ![](./assets/pr-open.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (2 days ago)
+- ![](./assets/pr-merged.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (2 days ago)
 - ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 week ago)
 - ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-open.svg) [`enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
