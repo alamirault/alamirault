@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[DependencyInjection] Fix `ContainerBuilder` stats env usage with enum](https://github.com/symfony/symfony/pull/48502) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix `ContainerBuilder` stats env usage with enum](https://github.com/symfony/symfony/pull/48502) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix typo in `RemoveBuildParametersPassTest`](https://github.com/symfony/symfony/pull/48490) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (3 days ago)
