@@ -13,7 +13,7 @@
 - ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Validator] File: fix versionadded of extensionsMessage option](https://github.com/symfony/symfony-docs/pull/17437) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[Validator] Add `pattern` in `Regex` constraint violations](https://github.com/symfony/symfony-docs/pull/17436) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-open.svg) [[Validator] Add `{{pattern}}` to `Regex` constraint violations](https://github.com/symfony/symfony/pull/48232) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [[Validator] Add `{{pattern}}` to `Regex` constraint violations](https://github.com/symfony/symfony/pull/48232) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [[Security] Improve `LogoutUrlGenerator` exception message](https://github.com/symfony/symfony/pull/48212) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Messenger] Fix time-limit check exception](https://github.com/symfony/symfony/pull/48198) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Extract duplicate code to private function](https://github.com/symfony/symfony/pull/48163) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
