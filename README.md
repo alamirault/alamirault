@@ -9,7 +9,7 @@
 - ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Validator] `enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-open.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Validator] File: fix versionadded of extensionsMessage option](https://github.com/symfony/symfony-docs/pull/17437) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Validator] Add `pattern` in `Regex` constraint violations](https://github.com/symfony/symfony-docs/pull/17436) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
