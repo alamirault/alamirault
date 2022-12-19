@@ -2,15 +2,15 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [Hotfix Expression language example lower than](https://github.com/symfony/symfony-docs/pull/17587) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix `ContainerBuilder` stats env usage with enum](https://github.com/symfony/symfony/pull/48502) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix typo in `RemoveBuildParametersPassTest`](https://github.com/symfony/symfony/pull/48490) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- ![](./assets/pr-open.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Hotfix Expression language example lower than](https://github.com/symfony/symfony-docs/pull/17587) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix `ContainerBuilder` stats env usage with enum](https://github.com/symfony/symfony/pull/48502) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix typo in `RemoveBuildParametersPassTest`](https://github.com/symfony/symfony/pull/48490) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Validator] `enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
