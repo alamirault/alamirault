@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-open.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Hotfix Expression language example lower than](https://github.com/symfony/symfony-docs/pull/17587) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix `ContainerBuilder` stats env usage with enum](https://github.com/symfony/symfony/pull/48502) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix typo in `RemoveBuildParametersPassTest`](https://github.com/symfony/symfony/pull/48490) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
