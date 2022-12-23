@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Translation] Fix undefined variable messages in ConstraintVisitor](https://github.com/symfony/symfony/pull/48774) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-merged.svg) [[Translation] Fix undefined variable messages in ConstraintVisitor](https://github.com/symfony/symfony/pull/48774) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[VarDumper] Display invisible characters](https://github.com/symfony/symfony/pull/48748) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-merged.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
