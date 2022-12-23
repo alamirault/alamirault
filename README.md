@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Translation] Fix undefined variable messages in ConstraintVisitor](https://github.com/symfony/symfony/pull/48774) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[VarDumper] Display invisible characters](https://github.com/symfony/symfony/pull/48748) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-merged.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [[Security] Improve `LogoutUrlGenerator` exception message](https://github.com/symfony/symfony/pull/48212) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Messenger] Fix time-limit check exception](https://github.com/symfony/symfony/pull/48198) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Extract duplicate code to private function](https://github.com/symfony/symfony/pull/48163) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony/pull/48127) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
