@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-open.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony-docs/pull/17615) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Update confusing first class callable syntax](https://github.com/symfony/symfony-docs/pull/17614) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-open.svg) [[HttpKernel] Add option to render Surrogate fragment with absolute URIs](https://github.com/symfony/symfony-docs/pull/17613) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [[HttpKernel] Add option to render Surrogate fragment with absolute URIs](https://github.com/symfony/symfony-docs/pull/17613) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix undefined variable messages in ConstraintVisitor](https://github.com/symfony/symfony/pull/48774) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-open.svg) [[VarDumper] Display invisible characters](https://github.com/symfony/symfony/pull/48748) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-merged.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
