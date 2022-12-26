@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Translation] Translatable parameters](https://github.com/symfony/symfony-docs/pull/17622) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[HttpKernel] Add an helper to generate fragments URL](https://github.com/symfony/symfony-docs/pull/17621) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony-docs/pull/17615) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Update confusing first class callable syntax](https://github.com/symfony/symfony-docs/pull/17614) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Add option to render Surrogate fragment with absolute URIs](https://github.com/symfony/symfony-docs/pull/17613) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] File: fix versionadded of extensionsMessage option](https://github.com/symfony/symfony-docs/pull/17437) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Validator] Add `pattern` in `Regex` constraint violations](https://github.com/symfony/symfony-docs/pull/17436) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Validator] Add `{{pattern}}` to `Regex` constraint violations](https://github.com/symfony/symfony/pull/48232) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
