@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[DependencyInjection] Add env and param parameters for Autowire attri…](https://github.com/symfony/symfony-docs/pull/17626) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Mailer] Add a way to change the Bus transport dynamically](https://github.com/symfony/symfony-docs/pull/17623) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Translation] Translatable parameters](https://github.com/symfony/symfony-docs/pull/17622) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Add an helper to generate fragments URL](https://github.com/symfony/symfony-docs/pull/17621) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Validator] `enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Mime] Rename SMimeEncryptorTest to SMimeEncrypterTest](https://github.com/symfony/symfony/pull/48344) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
