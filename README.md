@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-open.svg) [[Mailer] Add a way to change the Bus transport dynamically](https://github.com/symfony/symfony-docs/pull/17623) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Translation] Translatable parameters](https://github.com/symfony/symfony-docs/pull/17622) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [[HttpKernel] Add an helper to generate fragments URL](https://github.com/symfony/symfony-docs/pull/17621) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[HttpKernel] Add an helper to generate fragments URL](https://github.com/symfony/symfony-docs/pull/17621) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony-docs/pull/17615) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [Update confusing first class callable syntax](https://github.com/symfony/symfony-docs/pull/17614) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Add option to render Surrogate fragment with absolute URIs](https://github.com/symfony/symfony-docs/pull/17613) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
