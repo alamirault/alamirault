@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[DomCrawler][FrameworkBundle] Add assertSelectorCount](https://github.com/symfony/symfony-docs/pull/17640) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Add env and param parameters for Autowire attribute](https://github.com/symfony/symfony-docs/pull/17626) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Add a way to change the Bus transport dynamically](https://github.com/symfony/symfony-docs/pull/17623) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Translation] Translatable parameters](https://github.com/symfony/symfony-docs/pull/17622) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 month ago)
 - ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] `enable_annotations` also read attributes](https://github.com/symfony/symfony-docs/pull/17473) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Validator] Update ValidatorBuilder comment for enableAnnotationMapping](https://github.com/symfony/symfony/pull/48345) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
