@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Standardize the name of the container configurator variable](https://github.com/symfony/symfony-docs/pull/17664) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Add doc for stateless firewall](https://github.com/symfony/symfony-docs/pull/17648) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add assertSelectorCount](https://github.com/symfony/symfony-docs/pull/17640) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add env and param parameters for Autowire attribute](https://github.com/symfony/symfony-docs/pull/17626) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix xml encoding](https://github.com/alamirault/fftt-api-src/pull/10) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 month ago)
-- ![](./assets/pr-merged.svg) [Replace an URL by a URL](https://github.com/symfony/symfony-docs/pull/17477) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 
 #### 📜 My recent blog posts
