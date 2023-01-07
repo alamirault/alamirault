@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Update constraint Type types](https://github.com/symfony/symfony-docs/pull/17677) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Validator] Update constraint Type types](https://github.com/symfony/symfony-docs/pull/17677) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable](https://github.com/symfony/symfony-docs/pull/17664) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Add doc for stateless firewall](https://github.com/symfony/symfony-docs/pull/17648) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add assertSelectorCount](https://github.com/symfony/symfony-docs/pull/17640) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
