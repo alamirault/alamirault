@@ -2,6 +2,9 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.2](https://github.com/symfony/symfony-docs/pull/17682) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.1](https://github.com/symfony/symfony-docs/pull/17679) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.0](https://github.com/symfony/symfony-docs/pull/17678) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Validator] Update constraint Type types](https://github.com/symfony/symfony-docs/pull/17677) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable](https://github.com/symfony/symfony-docs/pull/17664) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Add doc for stateless firewall](https://github.com/symfony/symfony-docs/pull/17648) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Hotfix Expression language example lower than](https://github.com/symfony/symfony-docs/pull/17587) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix `ContainerBuilder` stats env usage with enum](https://github.com/symfony/symfony/pull/48502) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix typo in `RemoveBuildParametersPassTest`](https://github.com/symfony/symfony/pull/48490) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] Improve UX ConfigDebugCommand has not yaml component](https://github.com/symfony/symfony/pull/48457) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [Improve Mismatch branch when there is markdown comment](https://github.com/symfony-tools/carsonbot/pull/211) on [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) (1 month ago)
 
 
 #### 📜 My recent blog posts
