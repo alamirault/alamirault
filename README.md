@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Standardize the name of the container builder variable 5.4](https://github.com/symfony/symfony-docs/pull/17683) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.2](https://github.com/symfony/symfony-docs/pull/17682) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.1](https://github.com/symfony/symfony-docs/pull/17679) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.0](https://github.com/symfony/symfony-docs/pull/17678) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Tell composer action is need to regenerate autoload](https://github.com/symfony/symfony-docs/pull/17588) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Hotfix Expression language example lower than](https://github.com/symfony/symfony-docs/pull/17587) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix `ContainerBuilder` stats env usage with enum](https://github.com/symfony/symfony/pull/48502) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
