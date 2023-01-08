@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Improve caution resolve doctrine example](https://github.com/symfony/symfony-docs/pull/17689) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Standardize the name of the container builder variable 6.1](https://github.com/symfony/symfony-docs/pull/17687) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[EventDispatcher] Allow to omit the event name when registering listeners](https://github.com/symfony/symfony-docs/pull/17685) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container builder variable 5.4](https://github.com/symfony/symfony-docs/pull/17683) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[HttpKernel] Add option to render Surrogate fragment with absolute URIs](https://github.com/symfony/symfony-docs/pull/17613) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix undefined variable messages in ConstraintVisitor](https://github.com/symfony/symfony/pull/48774) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[VarDumper] Display invisible characters](https://github.com/symfony/symfony/pull/48748) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
