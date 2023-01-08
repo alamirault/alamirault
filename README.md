@@ -2,16 +2,16 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Standardize the name of the container builder variable 6.1](https://github.com/symfony/symfony-docs/pull/17687) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [[EventDispatcher] Allow to omit the event name when registering listeners](https://github.com/symfony/symfony-docs/pull/17685) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [Standardize the name of the container builder variable 5.4](https://github.com/symfony/symfony-docs/pull/17683) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.2](https://github.com/symfony/symfony-docs/pull/17682) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.1](https://github.com/symfony/symfony-docs/pull/17679) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.0](https://github.com/symfony/symfony-docs/pull/17678) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [[Validator] Update constraint Type types](https://github.com/symfony/symfony-docs/pull/17677) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable](https://github.com/symfony/symfony-docs/pull/17664) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-open.svg) [Add doc for stateless firewall](https://github.com/symfony/symfony-docs/pull/17648) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
-- ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add assertSelectorCount](https://github.com/symfony/symfony-docs/pull/17640) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-open.svg) [Standardize the name of the container builder variable 6.1](https://github.com/symfony/symfony-docs/pull/17687) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [[EventDispatcher] Allow to omit the event name when registering listeners](https://github.com/symfony/symfony-docs/pull/17685) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Standardize the name of the container builder variable 5.4](https://github.com/symfony/symfony-docs/pull/17683) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.2](https://github.com/symfony/symfony-docs/pull/17682) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.1](https://github.com/symfony/symfony-docs/pull/17679) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.0](https://github.com/symfony/symfony-docs/pull/17678) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Validator] Update constraint Type types](https://github.com/symfony/symfony-docs/pull/17677) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable](https://github.com/symfony/symfony-docs/pull/17664) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-open.svg) [Add doc for stateless firewall](https://github.com/symfony/symfony-docs/pull/17648) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add assertSelectorCount](https://github.com/symfony/symfony-docs/pull/17640) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add env and param parameters for Autowire attribute](https://github.com/symfony/symfony-docs/pull/17626) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Add a way to change the Bus transport dynamically](https://github.com/symfony/symfony-docs/pull/17623) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Translation] Translatable parameters](https://github.com/symfony/symfony-docs/pull/17622) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -21,7 +21,7 @@
 - ![](./assets/pr-merged.svg) [[HttpKernel] Add option to render Surrogate fragment with absolute URIs](https://github.com/symfony/symfony-docs/pull/17613) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Translation] Fix undefined variable messages in ConstraintVisitor](https://github.com/symfony/symfony/pull/48774) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[VarDumper] Display invisible characters](https://github.com/symfony/symfony/pull/48748) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Remove reference to 2.x, 3.x, 4.x versions](https://github.com/symfony/symfony-docs/pull/17589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
