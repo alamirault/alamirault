@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [New rule: Ensure exactly one space before directive type](https://github.com/OskarStark/doctor-rst/pull/1231) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
+- ![](./assets/pr-merged.svg) [New rule: Ensure exactly one space before directive type](https://github.com/OskarStark/doctor-rst/pull/1231) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-open.svg) [Improve caution resolve doctrine example](https://github.com/symfony/symfony-docs/pull/17689) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Standardize the name of the container builder variable 6.1](https://github.com/symfony/symfony-docs/pull/17687) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [[EventDispatcher] Allow to omit the event name when registering listeners](https://github.com/symfony/symfony-docs/pull/17685) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
