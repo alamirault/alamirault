@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [New rule: Ensure argument type match name](https://github.com/OskarStark/doctor-rst/pull/1233) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [[Yaml] Minor: Update Inline parse phpdoc](https://github.com/symfony/symfony/pull/48932) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [New rule: Ensure exactly one space before directive type](https://github.com/OskarStark/doctor-rst/pull/1231) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Doctrine] Improve caution resolve doctrine example](https://github.com/symfony/symfony-docs/pull/17689) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[HttpKernel] Add an helper to generate fragments URL](https://github.com/symfony/symfony-docs/pull/17621) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony-docs/pull/17615) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Update confusing first class callable syntax](https://github.com/symfony/symfony-docs/pull/17614) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[HttpKernel] Add option to render Surrogate fragment with absolute URIs](https://github.com/symfony/symfony-docs/pull/17613) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
