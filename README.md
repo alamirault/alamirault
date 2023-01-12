@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [Enable `ensure_link_definition_contains_valid_url` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17702) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-open.svg) [New rule: Ensure argument type match name](https://github.com/OskarStark/doctor-rst/pull/1233) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
+- ![](./assets/pr-merged.svg) [New rule: Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1233) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Minor: Update Inline parse phpdoc](https://github.com/symfony/symfony/pull/48932) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure exactly one space before directive type](https://github.com/OskarStark/doctor-rst/pull/1231) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Doctrine] Improve caution resolve doctrine example](https://github.com/symfony/symfony-docs/pull/17689) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
