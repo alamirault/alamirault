@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Adjust Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1237) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-merged.svg) [Enable `ensure_link_definition_contains_valid_url` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17702) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [New rule: Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1233) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Minor: Update Inline parse phpdoc](https://github.com/symfony/symfony/pull/48932) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Mailer] Add a way to change the Bus transport dynamically](https://github.com/symfony/symfony-docs/pull/17623) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Translation] Translatable parameters](https://github.com/symfony/symfony-docs/pull/17622) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Add an helper to generate fragments URL](https://github.com/symfony/symfony-docs/pull/17621) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Yaml] Add flag to dump numeric key as string](https://github.com/symfony/symfony-docs/pull/17615) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
