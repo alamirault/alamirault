@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- ![](./assets/pr-merged.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [New rule: No contraction](https://github.com/OskarStark/doctor-rst/pull/1239) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [Clean doctor-rst whitelist configuration](https://github.com/symfony/symfony-docs/pull/17744) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Adjust Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1237) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
