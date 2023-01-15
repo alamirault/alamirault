@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [New rule: No contraction](https://github.com/OskarStark/doctor-rst/pull/1239) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [Clean doctor-rst whitelist configuration](https://github.com/symfony/symfony-docs/pull/17744) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Adjust Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1237) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [Add doc for stateless firewall](https://github.com/symfony/symfony-docs/pull/17648) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add assertSelectorCount](https://github.com/symfony/symfony-docs/pull/17640) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add env and param parameters for Autowire attribute](https://github.com/symfony/symfony-docs/pull/17626) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Mailer] Add a way to change the Bus transport dynamically](https://github.com/symfony/symfony-docs/pull/17623) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
