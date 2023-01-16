@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Enable `argument_variable_must_match_type doctor-rst` rule](https://github.com/symfony/symfony-docs/pull/17751) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-closed.svg) [Enable `argument_variable_must_match_type` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17751) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-open.svg) [New rule: No contraction](https://github.com/OskarStark/doctor-rst/pull/1239) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-open.svg) [Clean doctor-rst whitelist configuration](https://github.com/symfony/symfony-docs/pull/17744) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
