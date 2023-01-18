@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [Remove extra space before parenthesis](https://github.com/symfony/symfony-docs/pull/17766) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [Not use contraction](https://github.com/symfony/symfony-docs/pull/17765) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-closed.svg) [Not use contraction](https://github.com/symfony/symfony-docs/pull/17765) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [No contraction missing cases](https://github.com/OskarStark/doctor-rst/pull/1244) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-closed.svg) [Enable `argument_variable_must_match_type` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17751) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
