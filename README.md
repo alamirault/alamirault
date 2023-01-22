@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add report of unused whitelist rules](https://github.com/OskarStark/doctor-rst/pull/1255) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-merged.svg) [Remove extra space before parenthesis](https://github.com/symfony/symfony-docs/pull/17766) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-closed.svg) [Not use contraction](https://github.com/symfony/symfony-docs/pull/17765) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-merged.svg) [No contraction missing cases](https://github.com/OskarStark/doctor-rst/pull/1244) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.2](https://github.com/symfony/symfony-docs/pull/17682) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.1](https://github.com/symfony/symfony-docs/pull/17679) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container configurator variable 6.0](https://github.com/symfony/symfony-docs/pull/17678) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Validator] Update constraint Type types](https://github.com/symfony/symfony-docs/pull/17677) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
