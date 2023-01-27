@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add report of unused whitelist rules](https://github.com/OskarStark/doctor-rst/pull/1255) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
+- ![](./assets/pr-open.svg) [Add report of unused whitelist rules](https://github.com/OskarStark/doctor-rst/pull/1255) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
 - ![](./assets/pr-merged.svg) [Remove extra space before parenthesis](https://github.com/symfony/symfony-docs/pull/17766) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-closed.svg) [Not use contraction](https://github.com/symfony/symfony-docs/pull/17765) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [No contraction missing cases](https://github.com/OskarStark/doctor-rst/pull/1244) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
@@ -10,7 +10,7 @@
 - ![](./assets/pr-merged.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - ![](./assets/pr-merged.svg) [New rule: No contraction](https://github.com/OskarStark/doctor-rst/pull/1239) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - ![](./assets/pr-merged.svg) [Clean doctor-rst whitelist configuration](https://github.com/symfony/symfony-docs/pull/17744) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- ![](./assets/pr-merged.svg) [Adjust Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1237) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
+- ![](./assets/pr-merged.svg) [Adjust Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1237) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Enable `ensure_link_definition_contains_valid_url` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17702) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [New rule: Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1233) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Minor: Update Inline parse phpdoc](https://github.com/symfony/symfony/pull/48932) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
