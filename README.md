@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Update example to match actual make::entity output](https://github.com/symfony/symfony-docs/pull/17821) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Doctrine] Update example to match actual make::entity output](https://github.com/symfony/symfony-docs/pull/17821) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Validator] Avoid TypeError and improve DX when null groups](https://github.com/symfony/symfony/pull/49137) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [Add report of unused whitelist rules](https://github.com/OskarStark/doctor-rst/pull/1255) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (6 days ago)
 - ![](./assets/pr-merged.svg) [Remove extra space before parenthesis](https://github.com/symfony/symfony-docs/pull/17766) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
