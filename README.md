@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [[Config] Fix phpdoc nullable](https://github.com/symfony/symfony/pull/49248) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [Fix code block for routing troubleshooting examples](https://github.com/symfony/symfony-docs/pull/17866) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Doctrine] Update example to match actual make::entity output](https://github.com/symfony/symfony-docs/pull/17821) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-open.svg) [[Validator] Avoid TypeError and improve DX when null groups](https://github.com/symfony/symfony/pull/49137) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Doctrine] Improve caution resolve doctrine example](https://github.com/symfony/symfony-docs/pull/17689) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Standardize the name of the container builder variable 6.1](https://github.com/symfony/symfony-docs/pull/17687) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[EventDispatcher] Allow to omit the event name when registering listeners](https://github.com/symfony/symfony-docs/pull/17685) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Standardize the name of the container builder variable 5.4](https://github.com/symfony/symfony-docs/pull/17683) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
