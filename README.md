@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Dotenv] Fix phpdoc Dotenv](https://github.com/symfony/symfony/pull/49249) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Dotenv] Fix phpdoc Dotenv](https://github.com/symfony/symfony/pull/49249) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Config] Fix phpdoc nullable](https://github.com/symfony/symfony/pull/49248) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix code block for routing troubleshooting examples](https://github.com/symfony/symfony-docs/pull/17866) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Doctrine] Update example to match actual make::entity output](https://github.com/symfony/symfony-docs/pull/17821) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
