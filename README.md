@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Notifier] Add link to readme bridges](https://github.com/symfony/symfony-docs/pull/17902) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Filesystem] Remove always true condition](https://github.com/symfony/symfony/pull/49341) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add ReplaceCodeBlockTypes tests](https://github.com/OskarStark/doctor-rst/pull/1316) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix some phpdoc](https://github.com/symfony/symfony/pull/49337) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Adjust Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1237) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [Enable `ensure_link_definition_contains_valid_url` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17702) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [New rule: Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1233) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Yaml] Minor: Update Inline parse phpdoc](https://github.com/symfony/symfony/pull/48932) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
