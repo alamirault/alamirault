@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Filesystem] Remove always true condition](https://github.com/symfony/symfony/pull/49341) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Filesystem] Remove always true condition](https://github.com/symfony/symfony/pull/49341) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add ReplaceCodeBlockTypes tests](https://github.com/OskarStark/doctor-rst/pull/1316) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix some phpdoc](https://github.com/symfony/symfony/pull/49337) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Dotenv] Fix phpdoc Dotenv](https://github.com/symfony/symfony/pull/49249) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
