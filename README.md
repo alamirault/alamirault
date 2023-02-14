@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[DependencyInjection] Add doc for `RUNTIME_EXCEPTION_ON_INVALID_REFERENCE` behavior](https://github.com/symfony/symfony/pull/49377) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [Add file reference](https://github.com/symfony-tools/docs-builder/pull/149) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (today)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Document Container invalid behavior](https://github.com/symfony/symfony-docs/pull/17903) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Notifier] Add link to readme bridges](https://github.com/symfony/symfony-docs/pull/17902) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Filesystem] Remove always true condition](https://github.com/symfony/symfony/pull/49341) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [New rule: No contraction](https://github.com/OskarStark/doctor-rst/pull/1239) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [Clean doctor-rst whitelist configuration](https://github.com/symfony/symfony-docs/pull/17744) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Adjust Argument variable must match type](https://github.com/OskarStark/doctor-rst/pull/1237) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
-- ![](./assets/pr-merged.svg) [Enable `ensure_link_definition_contains_valid_url` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17702) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 
 #### 📜 My recent blog posts
