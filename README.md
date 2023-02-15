@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Adapt CsvEncoder `no_headers` context](https://github.com/symfony/symfony-docs/pull/17907) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Add Form is_empty_callback option](https://github.com/symfony/symfony-docs/pull/17906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Fix autowire attribute with nullable parameters](https://github.com/symfony/symfony/pull/49379) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add doc for `RUNTIME_EXCEPTION_ON_INVALID_REFERENCE` behavior](https://github.com/symfony/symfony/pull/49377) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [Not use contraction](https://github.com/symfony/symfony-docs/pull/17765) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [No contraction missing cases](https://github.com/OskarStark/doctor-rst/pull/1244) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 weeks ago)
 - ![](./assets/pr-closed.svg) [Enable `argument_variable_must_match_type` doctor-rst rule](https://github.com/symfony/symfony-docs/pull/17751) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [NoExplicitUseOfCodeBlockPhp can have image has previous directive or terminal code block](https://github.com/OskarStark/doctor-rst/pull/1240) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 
 
 #### 📜 My recent blog posts
