@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-open.svg) [Adapt CsvEncoder `no_headers` context](https://github.com/symfony/symfony-docs/pull/17907) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Add Form is_empty_callback option](https://github.com/symfony/symfony-docs/pull/17906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [[DependencyInjection] Fix autowire attribute with nullable parameters](https://github.com/symfony/symfony/pull/49379) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix autowire attribute with nullable parameters](https://github.com/symfony/symfony/pull/49379) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add doc for `RUNTIME_EXCEPTION_ON_INVALID_REFERENCE` behavior](https://github.com/symfony/symfony/pull/49377) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-open.svg) [Add file reference](https://github.com/symfony-tools/docs-builder/pull/149) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (2 days ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Document Container invalid behavior](https://github.com/symfony/symfony-docs/pull/17903) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
