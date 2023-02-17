@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Remove unused local variable](https://github.com/symfony/symfony/pull/49435) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Fix phpdocs in HttpClient, HttpFoundation, HttpKernel, Intl components](https://github.com/symfony/symfony/pull/49432) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Adapt CsvEncoder `no_headers` context](https://github.com/symfony/symfony-docs/pull/17907) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Add Form is_empty_callback option](https://github.com/symfony/symfony-docs/pull/17906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add report of unused whitelist rules](https://github.com/OskarStark/doctor-rst/pull/1255) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove extra space before parenthesis](https://github.com/symfony/symfony-docs/pull/17766) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-closed.svg) [Not use contraction](https://github.com/symfony/symfony-docs/pull/17765) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [No contraction missing cases](https://github.com/OskarStark/doctor-rst/pull/1244) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 
 
 #### 📜 My recent blog posts
