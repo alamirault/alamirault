@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Remove unused private methods](https://github.com/symfony/symfony/pull/49517) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[Form] Change FormTypeValidatorExtension construct signature](https://github.com/symfony/symfony/pull/49502) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[String] Remove unused private constant](https://github.com/symfony/symfony/pull/49501) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix phpdocs in components](https://github.com/symfony/symfony/pull/49482) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Dotenv] Fix phpdoc Dotenv](https://github.com/symfony/symfony/pull/49249) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Config] Fix phpdoc nullable](https://github.com/symfony/symfony/pull/49248) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix code block for routing troubleshooting examples](https://github.com/symfony/symfony-docs/pull/17866) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Doctrine] Update example to match actual make::entity output](https://github.com/symfony/symfony-docs/pull/17821) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
