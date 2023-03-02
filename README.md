@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Remove unused private methods](https://github.com/symfony/symfony/pull/49517) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-merged.svg) [Remove unused private methods](https://github.com/symfony/symfony/pull/49517) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [[Form] Change FormTypeValidatorExtension construct signature](https://github.com/symfony/symfony/pull/49502) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[String] Remove unused private constant](https://github.com/symfony/symfony/pull/49501) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix phpdocs in components](https://github.com/symfony/symfony/pull/49482) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
