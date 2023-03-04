@@ -18,10 +18,10 @@
 - ![](./assets/pr-open.svg) [[Notifier] Add link to readme bridges](https://github.com/symfony/symfony-docs/pull/17902) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Filesystem] Remove always true condition](https://github.com/symfony/symfony/pull/49341) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Add ReplaceCodeBlockTypes tests](https://github.com/OskarStark/doctor-rst/pull/1316) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix some phpdoc](https://github.com/symfony/symfony/pull/49337) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix some phpdoc](https://github.com/symfony/symfony/pull/49337) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Dotenv] Fix phpdoc Dotenv](https://github.com/symfony/symfony/pull/49249) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Config] Fix phpdoc nullable](https://github.com/symfony/symfony/pull/49248) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix code block for routing troubleshooting examples](https://github.com/symfony/symfony-docs/pull/17866) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix code block for routing troubleshooting examples](https://github.com/symfony/symfony-docs/pull/17866) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
