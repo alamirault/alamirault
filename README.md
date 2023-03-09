@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add `BackedEnumNormalizer::ALLOW_INVALID_VALUES` context option](https://github.com/symfony/symfony-docs/pull/18037) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Change security title for checking if user is logged in](https://github.com/symfony/symfony-docs/pull/18036) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[TwigBridge] Fix flagged malicious url](https://github.com/symfony/symfony/pull/49602) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [Remove unused private methods](https://github.com/symfony/symfony/pull/49517) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Filesystem] Remove always true condition](https://github.com/symfony/symfony/pull/49341) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Add ReplaceCodeBlockTypes tests](https://github.com/OskarStark/doctor-rst/pull/1316) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix some phpdoc](https://github.com/symfony/symfony/pull/49337) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Dotenv] Fix phpdoc Dotenv](https://github.com/symfony/symfony/pull/49249) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
