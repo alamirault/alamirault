@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Form] Remove evasive `getOrigin` sentence](https://github.com/symfony/symfony-docs/pull/18047) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Dotenv] Improve `Dotenv::usePutenv` phpdoc](https://github.com/symfony/symfony/pull/49649) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add `BackedEnumNormalizer::ALLOW_INVALID_VALUES` context option](https://github.com/symfony/symfony-docs/pull/18037) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Change security title for checking if user is logged in](https://github.com/symfony/symfony-docs/pull/18036) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Document Container invalid behavior](https://github.com/symfony/symfony-docs/pull/17903) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[Notifier] Add link to readme bridges](https://github.com/symfony/symfony-docs/pull/17902) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Filesystem] Remove always true condition](https://github.com/symfony/symfony/pull/49341) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add ReplaceCodeBlockTypes tests](https://github.com/OskarStark/doctor-rst/pull/1316) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
