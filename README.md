@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Form] Remove evasive `getOrigin` sentence](https://github.com/symfony/symfony-docs/pull/18047) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Form] Remove evasive `getOrigin` sentence](https://github.com/symfony/symfony-docs/pull/18047) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Dotenv] Improve `Dotenv::usePutenv` phpdoc](https://github.com/symfony/symfony/pull/49649) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [Add `BackedEnumNormalizer::ALLOW_INVALID_VALUES` context option](https://github.com/symfony/symfony-docs/pull/18037) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-open.svg) [Change security title for checking if user is logged in](https://github.com/symfony/symfony-docs/pull/18036) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [Change security title for checking if user is logged in](https://github.com/symfony/symfony-docs/pull/18036) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[TwigBridge] Fix flagged malicious url](https://github.com/symfony/symfony/pull/49602) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-merged.svg) [Remove unused private methods](https://github.com/symfony/symfony/pull/49517) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Form] Change FormTypeValidatorExtension construct signature](https://github.com/symfony/symfony/pull/49502) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
