@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [[CssSelector] Add support for :scope](https://github.com/symfony/symfony-docs/pull/18109) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [Request is stateless when firewall is stateless](https://github.com/symfony/symfony-docs/pull/18108) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Request is stateless when firewall is stateless](https://github.com/symfony/symfony-docs/pull/18108) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Form] Remove evasive `getOrigin` sentence](https://github.com/symfony/symfony-docs/pull/18047) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Dotenv] Improve `Dotenv::usePutenv` phpdoc](https://github.com/symfony/symfony/pull/49649) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add `BackedEnumNormalizer::ALLOW_INVALID_VALUES` context option](https://github.com/symfony/symfony-docs/pull/18037) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
