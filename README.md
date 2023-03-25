@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Built after changes](https://github.com/alamirault/sf-doc-output/pull/1) on [alamirault/sf-doc-output](https://github.com/alamirault/sf-doc-output) (today)
 - ![](./assets/pr-merged.svg) [[CssSelector] Add support for :scope](https://github.com/symfony/symfony-docs/pull/18109) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [Request is stateless when firewall is stateless](https://github.com/symfony/symfony-docs/pull/18108) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Form] Remove evasive `getOrigin` sentence](https://github.com/symfony/symfony-docs/pull/18047) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix autowire attribute with nullable parameters](https://github.com/symfony/symfony/pull/49379) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add doc for `RUNTIME_EXCEPTION_ON_INVALID_REFERENCE` behavior](https://github.com/symfony/symfony/pull/49377) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Replace `{version}` in URLs](https://github.com/symfony-tools/docs-builder/pull/149) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (1 month ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Document Container invalid behavior](https://github.com/symfony/symfony-docs/pull/17903) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 
 #### 📜 My recent blog posts
