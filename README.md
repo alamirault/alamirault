@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Remove `index` directive](https://github.com/symfony/symfony-docs/pull/18130) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Avoid link with same ID&#39;s](https://github.com/symfony-tools/docs-builder/pull/152) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (2 days ago)
 - ![](./assets/pr-closed.svg) [Built after changes](https://github.com/alamirault/sf-doc-output/pull/1) on [alamirault/sf-doc-output](https://github.com/alamirault/sf-doc-output) (2 days ago)
 - ![](./assets/pr-merged.svg) [[CssSelector] Add support for :scope](https://github.com/symfony/symfony-docs/pull/18109) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [Adapt CsvEncoder `no_headers` context](https://github.com/symfony/symfony-docs/pull/17907) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Form] Add Form is_empty_callback option](https://github.com/symfony/symfony-docs/pull/17906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix autowire attribute with nullable parameters](https://github.com/symfony/symfony/pull/49379) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Add doc for `RUNTIME_EXCEPTION_ON_INVALID_REFERENCE` behavior](https://github.com/symfony/symfony/pull/49377) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
