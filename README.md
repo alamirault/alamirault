@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add ForbiddenDirectives rule](https://github.com/OskarStark/doctor-rst/pull/1360) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [[BrowserKit] Improve the error message when `submitForm()` can&#39;t find the form](https://github.com/symfony/symfony/pull/49839) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [Remove `index` directive](https://github.com/symfony/symfony-docs/pull/18130) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Avoid link with same ID&#39;s](https://github.com/symfony-tools/docs-builder/pull/152) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (3 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Remove unused local variable](https://github.com/symfony/symfony/pull/49435) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix phpdocs in HttpClient, HttpFoundation, HttpKernel, Intl components](https://github.com/symfony/symfony/pull/49432) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-open.svg) [Adapt CsvEncoder `no_headers` context](https://github.com/symfony/symfony-docs/pull/17907) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Form] Add Form is_empty_callback option](https://github.com/symfony/symfony-docs/pull/17906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 
 #### 📜 My recent blog posts
