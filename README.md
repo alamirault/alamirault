@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[BrowserKit] Improve the error message when `submitForm()` can&#39;t find the form](https://github.com/symfony/symfony/pull/49839) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- ![](./assets/pr-open.svg) [Remove `index` directive](https://github.com/symfony/symfony-docs/pull/18130) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [Avoid link with same ID&#39;s](https://github.com/symfony-tools/docs-builder/pull/152) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (2 days ago)
-- ![](./assets/pr-closed.svg) [Built after changes](https://github.com/alamirault/sf-doc-output/pull/1) on [alamirault/sf-doc-output](https://github.com/alamirault/sf-doc-output) (2 days ago)
-- ![](./assets/pr-merged.svg) [[CssSelector] Add support for :scope](https://github.com/symfony/symfony-docs/pull/18109) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
-- ![](./assets/pr-merged.svg) [Request is stateless when firewall is stateless](https://github.com/symfony/symfony-docs/pull/18108) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-open.svg) [[BrowserKit] Improve the error message when `submitForm()` can&#39;t find the form](https://github.com/symfony/symfony/pull/49839) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-open.svg) [Remove `index` directive](https://github.com/symfony/symfony-docs/pull/18130) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Avoid link with same ID&#39;s](https://github.com/symfony-tools/docs-builder/pull/152) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (3 days ago)
+- ![](./assets/pr-closed.svg) [Built after changes](https://github.com/alamirault/sf-doc-output/pull/1) on [alamirault/sf-doc-output](https://github.com/alamirault/sf-doc-output) (3 days ago)
+- ![](./assets/pr-merged.svg) [[CssSelector] Add support for :scope](https://github.com/symfony/symfony-docs/pull/18109) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
+- ![](./assets/pr-merged.svg) [Request is stateless when firewall is stateless](https://github.com/symfony/symfony-docs/pull/18108) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Form] Remove evasive `getOrigin` sentence](https://github.com/symfony/symfony-docs/pull/18047) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Dotenv] Improve `Dotenv::usePutenv` phpdoc](https://github.com/symfony/symfony/pull/49649) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Add `BackedEnumNormalizer::ALLOW_INVALID_VALUES` context option](https://github.com/symfony/symfony-docs/pull/18037) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
