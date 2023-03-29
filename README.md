@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add ForbiddenDirectives rule](https://github.com/OskarStark/doctor-rst/pull/1360) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
+- ![](./assets/pr-open.svg) [Add `ForbiddenDirectives` rule](https://github.com/OskarStark/doctor-rst/pull/1360) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-open.svg) [[BrowserKit] Improve the error message when `submitForm()` can&#39;t find the form](https://github.com/symfony/symfony/pull/49839) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove `index` directive](https://github.com/symfony/symfony-docs/pull/18130) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Avoid link with same ID&#39;s](https://github.com/symfony-tools/docs-builder/pull/152) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (4 days ago)
