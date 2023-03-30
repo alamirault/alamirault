@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix attribute ForbiddenDirectives and default config value](https://github.com/OskarStark/doctor-rst/pull/1364) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- ![](./assets/pr-open.svg) [Use Doctor RST 1.42.0 and new Rule `ForbiddenDirectives`](https://github.com/symfony/symfony-docs/pull/18148) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Replace annotation by attribute](https://github.com/OskarStark/doctor-rst/pull/1362) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add `ForbiddenDirectives` rule](https://github.com/OskarStark/doctor-rst/pull/1360) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - ![](./assets/pr-open.svg) [[BrowserKit] Improve the error message when `submitForm()` can&#39;t find the form](https://github.com/symfony/symfony/pull/49839) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[String] Remove unused private constant](https://github.com/symfony/symfony/pull/49501) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix phpdocs in components](https://github.com/symfony/symfony/pull/49482) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Remove unused local variable](https://github.com/symfony/symfony/pull/49481) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [Remove unused local variable](https://github.com/symfony/symfony/pull/49435) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix phpdocs in HttpClient, HttpFoundation, HttpKernel, Intl components](https://github.com/symfony/symfony/pull/49432) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
