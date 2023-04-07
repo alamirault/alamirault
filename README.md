@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[DependencyInjection] Document ServiceConfigurator remove method](https://github.com/symfony/symfony-docs/pull/18178) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[Security] Improve DX when invalid custom authenticators](https://github.com/symfony/symfony/pull/49938) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-open.svg) [Harmonize command formats and ensure autocompletion is same](https://github.com/symfony/symfony/pull/49929) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [Fix attribute ForbiddenDirectives and default config value](https://github.com/OskarStark/doctor-rst/pull/1364) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[TwigBridge] Fix flagged malicious url](https://github.com/symfony/symfony/pull/49602) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Remove unused private methods](https://github.com/symfony/symfony/pull/49517) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-open.svg) [[Form] Change FormTypeValidatorExtension construct signature](https://github.com/symfony/symfony/pull/49502) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[String] Remove unused private constant](https://github.com/symfony/symfony/pull/49501) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
