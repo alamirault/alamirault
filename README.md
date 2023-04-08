@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[DependencyInjection] Document ServiceConfigurator remove method](https://github.com/symfony/symfony-docs/pull/18178) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [[DependencyInjection] Document `ServiceConfigurator` remove method](https://github.com/symfony/symfony-docs/pull/18178) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Security] Improve DX when invalid custom authenticators](https://github.com/symfony/symfony/pull/49938) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [Harmonize command formats and ensure autocompletion is same](https://github.com/symfony/symfony/pull/49929) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [Fix attribute ForbiddenDirectives and default config value](https://github.com/OskarStark/doctor-rst/pull/1364) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
