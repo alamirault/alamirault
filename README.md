@@ -17,7 +17,7 @@
 - ![](./assets/pr-merged.svg) [Add `ForbiddenDirectives` rule](https://github.com/OskarStark/doctor-rst/pull/1360) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[BrowserKit] Improve the error message when `submitForm()` can&#39;t find the form](https://github.com/symfony/symfony/pull/49839) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove `index` directive](https://github.com/symfony/symfony-docs/pull/18130) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-open.svg) [Avoid link with same ID&#39;s](https://github.com/symfony-tools/docs-builder/pull/152) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Avoid link with same ID&#39;s](https://github.com/symfony-tools/docs-builder/pull/152) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (2 weeks ago)
 - ![](./assets/pr-closed.svg) [Built after changes](https://github.com/alamirault/sf-doc-output/pull/1) on [alamirault/sf-doc-output](https://github.com/alamirault/sf-doc-output) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CssSelector] Add support for :scope](https://github.com/symfony/symfony-docs/pull/18109) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Request is stateless when firewall is stateless](https://github.com/symfony/symfony-docs/pull/18108) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
