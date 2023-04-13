@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [Flex private recipes with Gitlab](https://github.com/symfony/symfony-docs/pull/18196) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [Set request stateless only if the attribute is not defined](https://github.com/symfony/symfony-docs/pull/18195) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Set request stateless only if the attribute is not defined](https://github.com/symfony/symfony-docs/pull/18195) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Link to bridges READMEs](https://github.com/symfony/symfony-docs/pull/18185) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Add bridge documentation](https://github.com/symfony/symfony/pull/49991) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Firebase options object in readme](https://github.com/symfony/symfony/pull/49980) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
