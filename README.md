@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Security] Document SecurityTokenValueResolver for Security Token](https://github.com/symfony/symfony-docs/pull/18246) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Flex private recipes with Gitlab](https://github.com/symfony/symfony-docs/pull/18196) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Set request stateless only if the attribute is not defined](https://github.com/symfony/symfony-docs/pull/18195) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Link to bridges READMEs](https://github.com/symfony/symfony-docs/pull/18185) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [Built after changes](https://github.com/alamirault/sf-doc-output/pull/1) on [alamirault/sf-doc-output](https://github.com/alamirault/sf-doc-output) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[CssSelector] Add support for :scope](https://github.com/symfony/symfony-docs/pull/18109) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Request is stateless when firewall is stateless](https://github.com/symfony/symfony-docs/pull/18108) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Form] Remove evasive `getOrigin` sentence](https://github.com/symfony/symfony-docs/pull/18047) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 
 #### 📜 My recent blog posts
