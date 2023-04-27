@@ -5,7 +5,7 @@
 - ![](./assets/pr-open.svg) [Remove space end of line](https://github.com/symfony/symfony-docs/pull/18262) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Mime] Fix method name in Changelog](https://github.com/symfony/symfony/pull/50166) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[HttpClient] Adjust `JsonMockResponse` exception](https://github.com/symfony/symfony/pull/50123) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-open.svg) [[HttpClient] Add `JsonMockResponse`](https://github.com/symfony/symfony-docs/pull/18247) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[HttpClient] Add `JsonMockResponse`](https://github.com/symfony/symfony-docs/pull/18247) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Security] Document `SecurityTokenValueResolver` for Security Token](https://github.com/symfony/symfony-docs/pull/18246) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-open.svg) [Flex private recipes with Gitlab](https://github.com/symfony/symfony-docs/pull/18196) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Set request stateless only if the attribute is not defined](https://github.com/symfony/symfony-docs/pull/18195) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
