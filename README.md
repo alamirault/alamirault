@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
+- ![](./assets/pr-merged.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
 - ![](./assets/pr-merged.svg) [Remove space end of line](https://github.com/symfony/symfony-docs/pull/18262) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Mime] Fix method name in Changelog](https://github.com/symfony/symfony/pull/50166) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-merged.svg) [[HttpClient] Adjust `JsonMockResponse` exception](https://github.com/symfony/symfony/pull/50123) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
