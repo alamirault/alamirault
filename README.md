@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Improve security logout options](https://github.com/symfony/symfony-docs/pull/18277) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Use Doctor RST 1.45.0 and new Rule `RemoveTrailingWhitespace`](https://github.com/symfony/symfony-docs/pull/18276) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[WebProfilerBundle] Profiler respect stateless attribute](https://github.com/symfony/symfony/pull/50218) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Harmonize command formats and ensure autocompletion is same](https://github.com/symfony/symfony/pull/49929) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix attribute ForbiddenDirectives and default config value](https://github.com/OskarStark/doctor-rst/pull/1364) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.42.1 and new Rule `ForbiddenDirectives`](https://github.com/symfony/symfony-docs/pull/18148) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Replace annotation by attribute](https://github.com/OskarStark/doctor-rst/pull/1362) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 
 
 #### 📜 My recent blog posts
