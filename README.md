@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- ![](./assets/pr-merged.svg) [Remove space end of line](https://github.com/symfony/symfony-docs/pull/18262) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Mime] Fix method name in Changelog](https://github.com/symfony/symfony/pull/50166) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-open.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
+- ![](./assets/pr-merged.svg) [Remove space end of line](https://github.com/symfony/symfony-docs/pull/18262) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Mime] Fix method name in Changelog](https://github.com/symfony/symfony/pull/50166) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-merged.svg) [[HttpClient] Adjust `JsonMockResponse` exception](https://github.com/symfony/symfony/pull/50123) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[HttpClient] Add `JsonMockResponse`](https://github.com/symfony/symfony-docs/pull/18247) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Security] Document `SecurityTokenValueResolver` for Security Token](https://github.com/symfony/symfony-docs/pull/18246) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -16,7 +16,7 @@
 - ![](./assets/pr-merged.svg) [[Security] Document required badges](https://github.com/symfony/symfony-docs/pull/18180) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Document `ServiceConfigurator` remove method](https://github.com/symfony/symfony-docs/pull/18178) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[Security] Improve DX when invalid custom authenticators](https://github.com/symfony/symfony/pull/49938) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Harmonize command formats and ensure autocompletion is same](https://github.com/symfony/symfony/pull/49929) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Harmonize command formats and ensure autocompletion is same](https://github.com/symfony/symfony/pull/49929) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix attribute ForbiddenDirectives and default config value](https://github.com/OskarStark/doctor-rst/pull/1364) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.42.1 and new Rule `ForbiddenDirectives`](https://github.com/symfony/symfony-docs/pull/18148) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Replace annotation by attribute](https://github.com/OskarStark/doctor-rst/pull/1362) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
