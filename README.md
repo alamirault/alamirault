@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-merged.svg) [[Security] Improve security logout options](https://github.com/symfony/symfony-docs/pull/18277) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.45.0 and new Rule `RemoveTrailingWhitespace`](https://github.com/symfony/symfony-docs/pull/18276) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-open.svg) [Profiler respect stateless attribute](https://github.com/symfony/symfony/pull/50218) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- ![](./assets/pr-merged.svg) [Profiler respect stateless attribute](https://github.com/symfony/symfony/pull/50218) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove space end of line](https://github.com/symfony/symfony-docs/pull/18262) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Mime] Fix method name in Changelog](https://github.com/symfony/symfony/pull/50166) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
