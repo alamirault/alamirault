@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-open.svg) [Add exclude_rule_for_file option in configuration](https://github.com/OskarStark/doctor-rst/pull/1395) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add NoDuplicateUseStatements rule](https://github.com/OskarStark/doctor-rst/pull/1394) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
-- ![](./assets/pr-open.svg) [[Fix pipeline] multiple_kernels.rst must respect doctor-rst](https://github.com/symfony/symfony-docs/pull/18295) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-closed.svg) [[Fix pipeline] multiple_kernels.rst must respect doctor-rst](https://github.com/symfony/symfony-docs/pull/18295) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Add missing backticks to defaults](https://github.com/symfony/symfony-docs/pull/18294) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Not add quote in default values](https://github.com/symfony/symfony-docs/pull/18293) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Security] Improve security logout options](https://github.com/symfony/symfony-docs/pull/18277) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
