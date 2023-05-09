@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add exclude_rule_for_file option in configuration](https://github.com/OskarStark/doctor-rst/pull/1395) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
-- ![](./assets/pr-merged.svg) [Add NoDuplicateUseStatements rule](https://github.com/OskarStark/doctor-rst/pull/1394) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
-- ![](./assets/pr-open.svg) [[Fix pipeline] multiple_kernels.rst must respect doctor-rst](https://github.com/symfony/symfony-docs/pull/18295) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [Add missing backticks to defaults](https://github.com/symfony/symfony-docs/pull/18294) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [Not add quote in default values](https://github.com/symfony/symfony-docs/pull/18293) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Security] Improve security logout options](https://github.com/symfony/symfony-docs/pull/18277) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
-- ![](./assets/pr-merged.svg) [Use Doctor RST 1.45.0 and new Rule `RemoveTrailingWhitespace`](https://github.com/symfony/symfony-docs/pull/18276) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
-- ![](./assets/pr-merged.svg) [Profiler respect stateless attribute](https://github.com/symfony/symfony/pull/50218) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-open.svg) [Add exclude_rule_for_file option in configuration](https://github.com/OskarStark/doctor-rst/pull/1395) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add NoDuplicateUseStatements rule](https://github.com/OskarStark/doctor-rst/pull/1394) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
+- ![](./assets/pr-open.svg) [[Fix pipeline] multiple_kernels.rst must respect doctor-rst](https://github.com/symfony/symfony-docs/pull/18295) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-open.svg) [Add missing backticks to defaults](https://github.com/symfony/symfony-docs/pull/18294) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-open.svg) [Not add quote in default values](https://github.com/symfony/symfony-docs/pull/18293) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Security] Improve security logout options](https://github.com/symfony/symfony-docs/pull/18277) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
+- ![](./assets/pr-merged.svg) [Use Doctor RST 1.45.0 and new Rule `RemoveTrailingWhitespace`](https://github.com/symfony/symfony-docs/pull/18276) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
+- ![](./assets/pr-merged.svg) [Profiler respect stateless attribute](https://github.com/symfony/symfony/pull/50218) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove space end of line](https://github.com/symfony/symfony-docs/pull/18262) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Mime] Fix method name in Changelog](https://github.com/symfony/symfony/pull/50166) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
