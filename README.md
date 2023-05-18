@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Method reference generate link with scoll to text fragment](https://github.com/symfony-tools/docs-builder/pull/160) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (today)
 - ![](./assets/pr-merged.svg) [[Notifier] Use english link in AmazonSns documentation](https://github.com/symfony/symfony/pull/50350) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-open.svg) [[Notifier] Document Notifier options in README files](https://github.com/symfony/symfony/pull/50349) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Fix pipeline] Remove versionadded 5.2 on 6.x branch](https://github.com/symfony/symfony-docs/pull/18303) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[HttpClient] Add `JsonMockResponse`](https://github.com/symfony/symfony-docs/pull/18247) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Security] Document `SecurityTokenValueResolver` for Security Token](https://github.com/symfony/symfony-docs/pull/18246) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-open.svg) [Flex private recipes with Gitlab](https://github.com/symfony/symfony-docs/pull/18196) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Set request stateless only if the attribute is not defined](https://github.com/symfony/symfony-docs/pull/18195) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 
 #### 📜 My recent blog posts
