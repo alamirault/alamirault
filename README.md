@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files 5.4](https://github.com/symfony/symfony/pull/50379) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files](https://github.com/symfony/symfony/pull/50378) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [Method reference generate link with scroll to text fragment](https://github.com/symfony-tools/docs-builder/pull/160) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files 5.4](https://github.com/symfony/symfony/pull/50379) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files](https://github.com/symfony/symfony/pull/50378) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [Method reference generate link with scroll to text fragment](https://github.com/symfony-tools/docs-builder/pull/160) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Use english link in AmazonSns documentation](https://github.com/symfony/symfony/pull/50350) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files](https://github.com/symfony/symfony/pull/50349) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Fix pipeline] Remove versionadded 5.2 on 6.x branch](https://github.com/symfony/symfony-docs/pull/18303) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
