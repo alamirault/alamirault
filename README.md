@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Update flex_private_recipes.rst](https://github.com/symfony/symfony-docs/pull/18366) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Minor: Use connection instead connecton in phpdoc](https://github.com/getsentry/sentry-symfony/pull/722) on [getsentry/sentry-symfony](https://github.com/getsentry/sentry-symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files 5.4](https://github.com/symfony/symfony/pull/50379) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files](https://github.com/symfony/symfony/pull/50378) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add `RemoveTrailingWhitespace` rule](https://github.com/OskarStark/doctor-rst/pull/1388) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [Remove space end of line](https://github.com/symfony/symfony-docs/pull/18262) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Mime] Fix method name in Changelog](https://github.com/symfony/symfony/pull/50166) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[HttpClient] Adjust `JsonMockResponse` exception](https://github.com/symfony/symfony/pull/50123) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
