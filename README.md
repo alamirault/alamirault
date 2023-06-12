@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [Update flex_private_recipes.rst](https://github.com/symfony/symfony-docs/pull/18366) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- ![](./assets/pr-open.svg) [Minor: Use connection instead connecton in phpdoc](https://github.com/getsentry/sentry-symfony/pull/722) on [getsentry/sentry-symfony](https://github.com/getsentry/sentry-symfony) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Minor: Use connection instead connecton in phpdoc](https://github.com/getsentry/sentry-symfony/pull/722) on [getsentry/sentry-symfony](https://github.com/getsentry/sentry-symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files 5.4](https://github.com/symfony/symfony/pull/50379) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files](https://github.com/symfony/symfony/pull/50378) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Method reference generate link with scroll to text fragment](https://github.com/symfony-tools/docs-builder/pull/160) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (3 weeks ago)
