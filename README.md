@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[DoctrineBridge] Improve subscriber deprecation message](https://github.com/symfony/symfony/pull/50709) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-merged.svg) [Remove symfony 5.x version references](https://github.com/symfony/symfony-docs/pull/18431) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-merged.svg) [Remove PHPUnit 5.3 references](https://github.com/symfony/symfony-docs/pull/18430) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-merged.svg) [[SecurityBundle] Remove last usages of tag `security.remember_me_aware`](https://github.com/symfony/symfony/pull/50694) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[DoctrineBridge] Improve subscriber deprecation message](https://github.com/symfony/symfony/pull/50709) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-merged.svg) [Remove symfony 5.x version references](https://github.com/symfony/symfony-docs/pull/18431) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [Remove PHPUnit 5.3 references](https://github.com/symfony/symfony-docs/pull/18430) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [[SecurityBundle] Remove last usages of tag `security.remember_me_aware`](https://github.com/symfony/symfony/pull/50694) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [Update flex_private_recipes.rst](https://github.com/symfony/symfony-docs/pull/18366) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Minor: Use connection instead connecton in phpdoc](https://github.com/getsentry/sentry-symfony/pull/722) on [getsentry/sentry-symfony](https://github.com/getsentry/sentry-symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files 5.4](https://github.com/symfony/symfony/pull/50379) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
