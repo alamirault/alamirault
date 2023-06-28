@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Console] Improve OutputInterface PHPDoc](https://github.com/symfony/symfony/pull/50755) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Console] Improve OutputInterface PHPDoc](https://github.com/symfony/symfony/pull/50755) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-open.svg) [[DoctrineBridge] Improve subscriber deprecation message](https://github.com/symfony/symfony/pull/50709) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove symfony 5.x version references](https://github.com/symfony/symfony-docs/pull/18431) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove PHPUnit 5.3 references](https://github.com/symfony/symfony-docs/pull/18430) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
