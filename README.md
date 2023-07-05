@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix comma space](https://github.com/symfony/symfony-docs/pull/18521) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Console] Improve OutputInterface PHPDoc](https://github.com/symfony/symfony/pull/50755) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[DoctrineBridge] Improve subscriber deprecation message](https://github.com/symfony/symfony/pull/50709) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove symfony 5.x version references](https://github.com/symfony/symfony-docs/pull/18431) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [[Fix pipeline] multiple_kernels.rst must respect doctor-rst](https://github.com/symfony/symfony-docs/pull/18295) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add missing backticks to defaults](https://github.com/symfony/symfony-docs/pull/18294) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Not add quote in default values](https://github.com/symfony/symfony-docs/pull/18293) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Security] Improve security logout options](https://github.com/symfony/symfony-docs/pull/18277) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
