@@ -23,17 +23,10 @@
 - ![](./assets/pr-merged.svg) [Not add quote in default values](https://github.com/symfony/symfony-docs/pull/18293) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Security] Improve security logout options](https://github.com/symfony/symfony-docs/pull/18277) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
-
-#### 📜 My recent blog posts
-
-- [Symfony: Protéger l’accès de certaines pages avec un OTP](https://alamirault.medium.com/symfony-prot%C3%A9ger-lacc%C3%A8s-de-certaines-pages-avec-un-otp-4d72458e3d08?source=rss-cebacd5f419e------2) (2 years ago)
-- [EnumType Symfony](https://alamirault.medium.com/enumtype-symfony-cf7dc32ca2f2?source=rss-cebacd5f419e------2) (2 years ago)
-- [How to marry Symfony forms and ElasticSearch ?](https://alamirault.medium.com/how-to-marry-symfony-forms-and-elasticsearch-24a9ccefa185?source=rss-cebacd5f419e------2) (3 years ago)
-- [Symfony: Authentification double facteur](https://alamirault.medium.com/symfony-authentification-double-facteur-a2be5d405420?source=rss-cebacd5f419e------2) (4 years ago)
-
 #### 📫 How to reach me
 
 - [Twitter](https://twitter.com/a_lamirault)
 - [Linkedin](https://www.linkedin.com/in/antoine-lamirault-9a9a9a107/)
+- [Medium](https://alamirault.medium.com)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
