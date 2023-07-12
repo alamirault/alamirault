@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Fix comma space](https://github.com/symfony/symfony-docs/pull/18521) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [Fix comma space](https://github.com/symfony/symfony-docs/pull/18521) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Console] Improve OutputInterface PHPDoc](https://github.com/symfony/symfony/pull/50755) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DoctrineBridge] Improve subscriber deprecation message](https://github.com/symfony/symfony/pull/50709) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove symfony 5.x version references](https://github.com/symfony/symfony-docs/pull/18431) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
