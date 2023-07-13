@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Allow compatibility with guzzle 7](https://github.com/rtheunissen/guzzle-rate-limiter/pull/11) on [rtheunissen/guzzle-rate-limiter](https://github.com/rtheunissen/guzzle-rate-limiter) (today)
 - ![](./assets/pr-merged.svg) [Fix comma space](https://github.com/symfony/symfony-docs/pull/18521) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Console] Improve OutputInterface PHPDoc](https://github.com/symfony/symfony/pull/50755) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DoctrineBridge] Improve subscriber deprecation message](https://github.com/symfony/symfony/pull/50709) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add NoDuplicateUseStatements rule](https://github.com/OskarStark/doctor-rst/pull/1394) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
 - ![](./assets/pr-closed.svg) [[Fix pipeline] multiple_kernels.rst must respect doctor-rst](https://github.com/symfony/symfony-docs/pull/18295) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [Add missing backticks to defaults](https://github.com/symfony/symfony-docs/pull/18294) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [Not add quote in default values](https://github.com/symfony/symfony-docs/pull/18293) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
