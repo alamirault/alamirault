@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Feature remove TODO for php &lt; 5](https://github.com/stripe/stripe-php/pull/1536) on [stripe/stripe-php](https://github.com/stripe/stripe-php) (today)
+- ![](./assets/pr-merged.svg) [Feature remove TODO for php &lt; 5](https://github.com/stripe/stripe-php/pull/1536) on [stripe/stripe-php](https://github.com/stripe/stripe-php) (today)
 - ![](./assets/pr-merged.svg) [Remove unecessary code](https://github.com/symfony/maker-bundle/pull/1339) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (5 days ago)
 - ![](./assets/pr-merged.svg) [Allow compatibility with guzzle 7](https://github.com/rtheunissen/guzzle-rate-limiter/pull/11) on [rtheunissen/guzzle-rate-limiter](https://github.com/rtheunissen/guzzle-rate-limiter) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix comma space](https://github.com/symfony/symfony-docs/pull/18521) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
