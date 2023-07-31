@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix false positive in PhpPrefixBeforeBinConsole rule](https://github.com/OskarStark/doctor-rst/pull/1465) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- ![](./assets/pr-open.svg) [Use Doctor RST 1.48.0](https://github.com/symfony/symfony-docs/pull/18651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Update kernel.reset explanation](https://github.com/symfony/symfony-docs/pull/18635) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove some unused use](https://github.com/symfony/symfony-docs/pull/18634) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Document abstract arguments](https://github.com/symfony/symfony-docs/pull/18633) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Minor: Use connection instead connecton in phpdoc](https://github.com/getsentry/sentry-symfony/pull/722) on [getsentry/sentry-symfony](https://github.com/getsentry/sentry-symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files 5.4](https://github.com/symfony/symfony/pull/50379) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Notifier options in README files](https://github.com/symfony/symfony/pull/50378) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-merged.svg) [Method reference generate link with scroll to text fragment](https://github.com/symfony-tools/docs-builder/pull/160) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Notifier] Use english link in AmazonSns documentation](https://github.com/symfony/symfony/pull/50350) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### 📫 How to reach me
 
