@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [Update kernel.reset explanation](https://github.com/symfony/symfony-docs/pull/18635) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-open.svg) [Remove some unused use](https://github.com/symfony/symfony-docs/pull/18634) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [Remove some unused use](https://github.com/symfony/symfony-docs/pull/18634) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Document abstract arguments](https://github.com/symfony/symfony-docs/pull/18633) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Webhook] Allow slash in webhook type](https://github.com/symfony/symfony/pull/51102) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-merged.svg) [Add `exclude_rule_for_file` option](https://github.com/OskarStark/doctor-rst/pull/1456) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (6 days ago)
