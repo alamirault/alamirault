@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix false positive in PhpPrefixBeforeBinConsole rule](https://github.com/OskarStark/doctor-rst/pull/1465) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
-- ![](./assets/pr-open.svg) [Use Doctor RST 1.48.0](https://github.com/symfony/symfony-docs/pull/18651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [Update kernel.reset explanation](https://github.com/symfony/symfony-docs/pull/18635) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [Fix false positive in PhpPrefixBeforeBinConsole rule](https://github.com/OskarStark/doctor-rst/pull/1465) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
+- ![](./assets/pr-merged.svg) [Use Doctor RST 1.48.0](https://github.com/symfony/symfony-docs/pull/18651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[DependencyInjection] Update kernel.reset explanation](https://github.com/symfony/symfony-docs/pull/18635) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [Remove some unused use](https://github.com/symfony/symfony-docs/pull/18634) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Document abstract arguments](https://github.com/symfony/symfony-docs/pull/18633) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Webhook] Allow slash in webhook type](https://github.com/symfony/symfony/pull/51102) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
