@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[DomCrawler][FrameworkBundle] Add `assertAnySelectorText*`](https://github.com/symfony/symfony-docs/pull/18704) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Add `tests` and `docker` folders in .gitattributes](https://github.com/KnpLabs/Gaufrette/pull/704) on [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) (3 days ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/hamcrest/hamcrest-php/pull/81) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (3 days ago)
 - ![](./assets/pr-closed.svg) [Add `tests` folder in `.gitattributes`](https://github.com/squizlabs/PHP_CodeSniffer/pull/3866) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (3 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Remove unecessary code](https://github.com/symfony/maker-bundle/pull/1339) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Allow compatibility with guzzle 7](https://github.com/rtheunissen/guzzle-rate-limiter/pull/11) on [rtheunissen/guzzle-rate-limiter](https://github.com/rtheunissen/guzzle-rate-limiter) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix comma space](https://github.com/symfony/symfony-docs/pull/18521) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Console] Improve OutputInterface PHPDoc](https://github.com/symfony/symfony/pull/50755) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[DoctrineBridge] Improve subscriber deprecation message](https://github.com/symfony/symfony/pull/50709) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
