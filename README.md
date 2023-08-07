@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [Update components marked experimental](https://github.com/symfony/symfony-docs/pull/18706) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-open.svg) [Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Testing] Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [[DomCrawler][FrameworkBundle] Add `assertAnySelectorText*`](https://github.com/symfony/symfony-docs/pull/18704) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-open.svg) [Add `tests` and `docker` folders in .gitattributes](https://github.com/KnpLabs/Gaufrette/pull/704) on [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) (5 days ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/hamcrest/hamcrest-php/pull/81) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (5 days ago)
