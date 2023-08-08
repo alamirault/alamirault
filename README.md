@@ -9,7 +9,7 @@
 - ![](./assets/pr-open.svg) [Add `tests` and `docker` folders in .gitattributes](https://github.com/KnpLabs/Gaufrette/pull/704) on [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) (6 days ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/hamcrest/hamcrest-php/pull/81) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (6 days ago)
 - ![](./assets/pr-closed.svg) [Add `tests` folder in `.gitattributes`](https://github.com/squizlabs/PHP_CodeSniffer/pull/3866) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (6 days ago)
-- ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/djoos/Symfony-coding-standard/pull/198) on [djoos/Symfony-coding-standard](https://github.com/djoos/Symfony-coding-standard) (6 days ago)
+- ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/djoos/Symfony-coding-standard/pull/198) on [djoos/Symfony-coding-standard](https://github.com/djoos/Symfony-coding-standard) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier SSLMODE option](https://github.com/symfony/symfony/pull/51217) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier options](https://github.com/symfony/symfony/pull/51216) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-closed.svg) [Use Doctor RST 1.48.1](https://github.com/symfony/symfony-docs/pull/18675) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
