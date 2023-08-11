@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[SecurityBundle] Remove the `require_previous_session` config option](https://github.com/symfony/symfony/pull/51333) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-open.svg) [[SecurityBundle] Deprecate the `require_previous_session` config option](https://github.com/symfony/symfony/pull/51332) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-merged.svg) [Remove hidden toctree](https://github.com/symfony/symfony-docs/pull/18724) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-merged.svg) [`bin/console` in array is allowed](https://github.com/OskarStark/doctor-rst/pull/1469) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- ![](./assets/pr-merged.svg) [Update components marked experimental](https://github.com/symfony/symfony-docs/pull/18706) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Testing] Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add `assertAnySelectorText*`](https://github.com/symfony/symfony-docs/pull/18704) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-open.svg) [[SecurityBundle] Remove the `require_previous_session` config option](https://github.com/symfony/symfony/pull/51333) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[SecurityBundle] Deprecate the `require_previous_session` config option](https://github.com/symfony/symfony/pull/51332) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-merged.svg) [Remove hidden toctree](https://github.com/symfony/symfony-docs/pull/18724) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [`bin/console` in array is allowed](https://github.com/OskarStark/doctor-rst/pull/1469) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
+- ![](./assets/pr-merged.svg) [Update components marked experimental](https://github.com/symfony/symfony-docs/pull/18706) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Testing] Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add `assertAnySelectorText*`](https://github.com/symfony/symfony-docs/pull/18704) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-open.svg) [Add `tests` and `docker` folders in .gitattributes](https://github.com/KnpLabs/Gaufrette/pull/704) on [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) (1 week ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/hamcrest/hamcrest-php/pull/81) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (1 week ago)
 - ![](./assets/pr-closed.svg) [Add `tests` folder in `.gitattributes`](https://github.com/squizlabs/PHP_CodeSniffer/pull/3866) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (1 week ago)
