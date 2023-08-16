@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[DependencyInjection] Remove unused test file](https://github.com/symfony/symfony/pull/51404) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [[SecurityBundle] Remove unused test files](https://github.com/symfony/symfony/pull/51362) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-merged.svg) [[SecurityBundle] Remove the `require_previous_session` config option](https://github.com/symfony/symfony/pull/51333) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-closed.svg) [[SecurityBundle] Deprecate the `require_previous_session` config option](https://github.com/symfony/symfony/pull/51332) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.48.0](https://github.com/symfony/symfony-docs/pull/18651) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Update kernel.reset explanation](https://github.com/symfony/symfony-docs/pull/18635) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove some unused use](https://github.com/symfony/symfony-docs/pull/18634) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Document abstract arguments](https://github.com/symfony/symfony-docs/pull/18633) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 
 #### 📫 How to reach me
 
