@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[VarExporter] Remove unused test files](https://github.com/symfony/symfony/pull/51406) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[VarExporter] Remove unused test files](https://github.com/symfony/symfony/pull/51406) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[FrameworkBundle] Remove unused test file](https://github.com/symfony/symfony/pull/51405) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Remove unused test file](https://github.com/symfony/symfony/pull/51404) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[SecurityBundle] Remove unused test files](https://github.com/symfony/symfony/pull/51362) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
