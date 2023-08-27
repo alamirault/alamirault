@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Security] Remove `isAuthenticated` and `setAuthenticated` token methods in tests](https://github.com/symfony/symfony/pull/51499) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [Update phpdoc to not reference removed classes](https://github.com/symfony/symfony/pull/51498) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[VarExporter] Remove unused test files](https://github.com/symfony/symfony/pull/51406) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Remove unused test file](https://github.com/symfony/symfony/pull/51405) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/djoos/Symfony-coding-standard/pull/198) on [djoos/Symfony-coding-standard](https://github.com/djoos/Symfony-coding-standard) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier SSLMODE option](https://github.com/symfony/symfony/pull/51217) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier options](https://github.com/symfony/symfony/pull/51216) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-closed.svg) [Use Doctor RST 1.48.1](https://github.com/symfony/symfony-docs/pull/18675) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix false positive in PhpPrefixBeforeBinConsole rule](https://github.com/OskarStark/doctor-rst/pull/1465) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 
 #### 📫 How to reach me
 
