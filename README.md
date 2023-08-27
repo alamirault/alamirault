@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Remove `getUsername` methods in tests](https://github.com/symfony/symfony/pull/51500) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[Security] Remove `isAuthenticated` and `setAuthenticated` token methods in tests](https://github.com/symfony/symfony/pull/51499) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Update phpdoc to not reference removed classes](https://github.com/symfony/symfony/pull/51498) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [Add `tests` folder in `.gitattributes`](https://github.com/squizlabs/PHP_CodeSniffer/pull/3866) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/djoos/Symfony-coding-standard/pull/198) on [djoos/Symfony-coding-standard](https://github.com/djoos/Symfony-coding-standard) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier SSLMODE option](https://github.com/symfony/symfony/pull/51217) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier options](https://github.com/symfony/symfony/pull/51216) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 
 #### 📫 How to reach me
 
