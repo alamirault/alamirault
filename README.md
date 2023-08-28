@@ -5,7 +5,7 @@
 - ![](./assets/pr-open.svg) [Remove `getUsername` methods in tests](https://github.com/symfony/symfony/pull/51500) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[Security] Remove `isAuthenticated` and `setAuthenticated` token methods in tests](https://github.com/symfony/symfony/pull/51499) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [Update phpdoc to not reference removed classes](https://github.com/symfony/symfony/pull/51498) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-open.svg) [Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Validator] Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[VarExporter] Remove unused test files](https://github.com/symfony/symfony/pull/51406) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Remove unused test file](https://github.com/symfony/symfony/pull/51405) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Remove unused test file](https://github.com/symfony/symfony/pull/51404) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
