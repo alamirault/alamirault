@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Remove `getUsername` methods in tests](https://github.com/symfony/symfony/pull/51500) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Security] Remove `isAuthenticated` and `setAuthenticated` token methods in tests](https://github.com/symfony/symfony/pull/51499) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- ![](./assets/pr-merged.svg) [Update phpdoc to not reference removed classes](https://github.com/symfony/symfony/pull/51498) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Validator] Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [Remove `getUsername` methods in tests](https://github.com/symfony/symfony/pull/51500) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Security] Remove `isAuthenticated` and `setAuthenticated` token methods in tests](https://github.com/symfony/symfony/pull/51499) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-merged.svg) [Update phpdoc to not reference removed classes](https://github.com/symfony/symfony/pull/51498) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Validator] Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [[VarExporter] Remove unused test files](https://github.com/symfony/symfony/pull/51406) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Remove unused test file](https://github.com/symfony/symfony/pull/51405) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Remove unused test file](https://github.com/symfony/symfony/pull/51404) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
@@ -21,7 +21,7 @@
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/hamcrest/hamcrest-php/pull/81) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (4 weeks ago)
 - ![](./assets/pr-closed.svg) [Add `tests` folder in `.gitattributes`](https://github.com/squizlabs/PHP_CodeSniffer/pull/3866) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/djoos/Symfony-coding-standard/pull/198) on [djoos/Symfony-coding-standard](https://github.com/djoos/Symfony-coding-standard) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier SSLMODE option](https://github.com/symfony/symfony/pull/51217) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier SSLMODE option](https://github.com/symfony/symfony/pull/51217) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
