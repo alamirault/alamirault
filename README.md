@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Replace footnote by ref](https://github.com/symfony/symfony-docs/pull/18816) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [Update blackfire free plan explanation](https://github.com/symfony/symfony-docs/pull/18815) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Remove `getUsername` methods in tests](https://github.com/symfony/symfony/pull/51500) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-merged.svg) [[Security] Remove `isAuthenticated` and `setAuthenticated` token methods in tests](https://github.com/symfony/symfony/pull/51499) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-merged.svg) [Update phpdoc to not reference removed classes](https://github.com/symfony/symfony/pull/51498) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-open.svg) [Add `tests` and `docker` folders in .gitattributes](https://github.com/KnpLabs/Gaufrette/pull/704) on [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) (1 month ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/hamcrest/hamcrest-php/pull/81) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (1 month ago)
 - ![](./assets/pr-closed.svg) [Add `tests` folder in `.gitattributes`](https://github.com/squizlabs/PHP_CodeSniffer/pull/3866) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/djoos/Symfony-coding-standard/pull/198) on [djoos/Symfony-coding-standard](https://github.com/djoos/Symfony-coding-standard) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Notifier] Document Amazon Notifier SSLMODE option](https://github.com/symfony/symfony/pull/51217) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
