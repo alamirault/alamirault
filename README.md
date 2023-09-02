@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Security] always use `getUserIdentifier` in `InMemoryTokenProvider`](https://github.com/symfony/symfony/pull/51535) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-open.svg) [Embedding images support custom cid](https://github.com/symfony/symfony-docs/pull/18817) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [[Security] always use `getUserIdentifier` in `InMemoryTokenProvider`](https://github.com/symfony/symfony/pull/51535) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[DoctrineBridge][Security] Rename `loadUserByUsername` tests to `loadUserByIdentifier`](https://github.com/symfony/symfony/pull/51534) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [Replace footnote by ref](https://github.com/symfony/symfony-docs/pull/18816) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Update blackfire free plan explanation](https://github.com/symfony/symfony-docs/pull/18815) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Update components marked experimental](https://github.com/symfony/symfony-docs/pull/18706) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Testing] Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add `assertAnySelectorText*`](https://github.com/symfony/symfony-docs/pull/18704) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- ![](./assets/pr-open.svg) [Add `tests` and `docker` folders in .gitattributes](https://github.com/KnpLabs/Gaufrette/pull/704) on [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) (1 month ago)
 
 #### 📫 How to reach me
 
