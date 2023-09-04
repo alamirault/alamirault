@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Embedding images support custom cid](https://github.com/symfony/symfony-docs/pull/18817) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Mailer] Embedding images support custom cid](https://github.com/symfony/symfony-docs/pull/18817) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Security] always use `getUserIdentifier` in `InMemoryTokenProvider`](https://github.com/symfony/symfony/pull/51535) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-open.svg) [[DoctrineBridge][Security] Rename `loadUserByUsername` tests to `loadUserByIdentifier`](https://github.com/symfony/symfony/pull/51534) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [Replace footnote by ref](https://github.com/symfony/symfony-docs/pull/18816) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
