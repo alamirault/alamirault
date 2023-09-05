@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [New rule: No footnotes](https://github.com/OskarStark/doctor-rst/pull/1494) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- ![](./assets/pr-open.svg) [Document middleware to log when transaction has been left open](https://github.com/symfony/symfony-docs/pull/18833) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Document session cookie in response](https://github.com/symfony/symfony-docs/pull/18832) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Mailer] Embedding images support custom cid](https://github.com/symfony/symfony-docs/pull/18817) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Security] always use `getUserIdentifier` in `InMemoryTokenProvider`](https://github.com/symfony/symfony/pull/51535) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-closed.svg) [[SecurityBundle] Deprecate the `require_previous_session` config option](https://github.com/symfony/symfony/pull/51332) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove hidden toctree](https://github.com/symfony/symfony-docs/pull/18724) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [`bin/console` in array is allowed](https://github.com/OskarStark/doctor-rst/pull/1469) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Update components marked experimental](https://github.com/symfony/symfony-docs/pull/18706) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Testing] Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
