@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Document session cookie in response](https://github.com/symfony/symfony-docs/pull/18832) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Mailer] Embedding images support custom cid](https://github.com/symfony/symfony-docs/pull/18817) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Security] always use `getUserIdentifier` in `InMemoryTokenProvider`](https://github.com/symfony/symfony/pull/51535) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-open.svg) [[DoctrineBridge][Security] Rename `loadUserByUsername` tests to `loadUserByIdentifier`](https://github.com/symfony/symfony/pull/51534) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [`bin/console` in array is allowed](https://github.com/OskarStark/doctor-rst/pull/1469) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Update components marked experimental](https://github.com/symfony/symfony-docs/pull/18706) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Testing] Fix Crawler assertSelectorTextSame documentation](https://github.com/symfony/symfony-docs/pull/18705) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[DomCrawler][FrameworkBundle] Add `assertAnySelectorText*`](https://github.com/symfony/symfony-docs/pull/18704) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
