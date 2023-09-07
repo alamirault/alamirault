@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[DoctrineBridge][Messenger] Always use `executeStatement` method](https://github.com/symfony/symfony/pull/51587) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[DoctrineBridge][Messenger] Always use `executeStatement` method](https://github.com/symfony/symfony/pull/51587) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [New rule: No footnotes](https://github.com/OskarStark/doctor-rst/pull/1494) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Doctrine][Messenger] Document middleware to log when transaction has been left open](https://github.com/symfony/symfony-docs/pull/18833) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Document session cookie in response](https://github.com/symfony/symfony-docs/pull/18832) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
