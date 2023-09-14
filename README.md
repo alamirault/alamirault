@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Multi reference same file](https://github.com/doctrine/rst-parser/pull/276) on [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (4 days ago)
-- ![](./assets/pr-merged.svg) [[PropertyInfo] Remove checking if `AttributeMetadataInterface::setIgnore` method exists](https://github.com/symfony/symfony/pull/51607) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle][VarDumper] Remove checking if `OutputFormatterStyle::setHref` method exist](https://github.com/symfony/symfony/pull/51606) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [[DebugBundle][HttpKernel] Remove checking if `CliDumper::setDisplayOptions` method exists](https://github.com/symfony/symfony/pull/51605) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-open.svg) [Multi reference same file](https://github.com/doctrine/rst-parser/pull/276) on [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (5 days ago)
+- ![](./assets/pr-merged.svg) [[PropertyInfo] Remove checking if `AttributeMetadataInterface::setIgnore` method exists](https://github.com/symfony/symfony/pull/51607) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle][VarDumper] Remove checking if `OutputFormatterStyle::setHref` method exist](https://github.com/symfony/symfony/pull/51606) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [[DebugBundle][HttpKernel] Remove checking if `CliDumper::setDisplayOptions` method exists](https://github.com/symfony/symfony/pull/51605) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-merged.svg) [[DoctrineBridge][Messenger] Always use `executeStatement` method](https://github.com/symfony/symfony/pull/51587) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [New rule: No footnotes](https://github.com/OskarStark/doctor-rst/pull/1494) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Doctrine][Messenger] Document middleware to log when transaction has been left open](https://github.com/symfony/symfony-docs/pull/18833) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
