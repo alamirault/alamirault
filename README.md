@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Use Doctor RST 1.49.0](https://github.com/symfony/symfony-docs/pull/18908) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Multi reference same file](https://github.com/doctrine/rst-parser/pull/276) on [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (1 week ago)
 - ![](./assets/pr-merged.svg) [[PropertyInfo] Remove checking if `AttributeMetadataInterface::setIgnore` method exists](https://github.com/symfony/symfony/pull/51607) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle][VarDumper] Remove checking if `OutputFormatterStyle::setHref` method exist](https://github.com/symfony/symfony/pull/51606) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Validator] Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[VarExporter] Remove unused test files](https://github.com/symfony/symfony/pull/51406) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Remove unused test file](https://github.com/symfony/symfony/pull/51405) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Remove unused test file](https://github.com/symfony/symfony/pull/51404) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
