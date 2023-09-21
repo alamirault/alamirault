@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [[DependencyInjection] Remove checking if Kernel stripComment` method exists](https://github.com/symfony/symfony/pull/51712) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- ![](./assets/pr-open.svg) [New rule: Ensure php reference syntax](https://github.com/OskarStark/doctor-rst/pull/1519) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- ![](./assets/pr-merged.svg) [New rule: Ensure php reference syntax](https://github.com/OskarStark/doctor-rst/pull/1519) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.49.0](https://github.com/symfony/symfony-docs/pull/18908) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Multi reference same file](https://github.com/doctrine/rst-parser/pull/276) on [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (1 week ago)
 - ![](./assets/pr-merged.svg) [[PropertyInfo] Remove checking if `AttributeMetadataInterface::setIgnore` method exists](https://github.com/symfony/symfony/pull/51607) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
