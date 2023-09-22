@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-closed.svg) [Symfony v6.4](https://github.com/twigphp/intl-extra/pull/9) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (today)
 - ![](./assets/pr-open.svg) [Test Symfony v6.4](https://github.com/KnpLabs/KnpPaginatorBundle/pull/773) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (today)
-- ![](./assets/pr-open.svg) [[Messenger] Add support for multiple Redis Sentinel hosts](https://github.com/symfony/symfony-docs/pull/18920) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [[Messenger] Add support for multiple Redis Sentinel hosts](https://github.com/symfony/symfony-docs/pull/18920) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.51.0](https://github.com/symfony/symfony-docs/pull/18918) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Remove checking if Kernel stripComment` method exists](https://github.com/symfony/symfony/pull/51712) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure php reference syntax](https://github.com/OskarStark/doctor-rst/pull/1519) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
