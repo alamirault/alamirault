@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Use Doctor RST 1.51.0](https://github.com/symfony/symfony-docs/pull/18918) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Remove checking if Kernel stripComment` method exists](https://github.com/symfony/symfony/pull/51712) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure php reference syntax](https://github.com/OskarStark/doctor-rst/pull/1519) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.49.0](https://github.com/symfony/symfony-docs/pull/18908) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Remove `getUsername` methods in tests](https://github.com/symfony/symfony/pull/51500) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Security] Remove `isAuthenticated` and `setAuthenticated` token methods in tests](https://github.com/symfony/symfony/pull/51499) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Update phpdoc to not reference removed classes](https://github.com/symfony/symfony/pull/51498) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Validator] Missing information about payload in callback](https://github.com/symfony/symfony-docs/pull/18791) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 #### 📫 How to reach me
 
