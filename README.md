@@ -2,11 +2,12 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Remove `setAccessible` reflection call in tests](https://github.com/symfony/symfony/pull/51727) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-closed.svg) [Symfony v6.4](https://github.com/twigphp/intl-extra/pull/9) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (1 day ago)
 - ![](./assets/pr-closed.svg) [Test Symfony v6.4](https://github.com/KnpLabs/KnpPaginatorBundle/pull/773) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Messenger] Add support for multiple Redis Sentinel hosts](https://github.com/symfony/symfony-docs/pull/18920) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.51.0](https://github.com/symfony/symfony-docs/pull/18918) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [[HttpKernel] Deprecate `Kernel::stripComments()`](https://github.com/symfony/symfony/pull/51712) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [Deprecate `Kernel::stripComments()`](https://github.com/symfony/symfony/pull/51712) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure php reference syntax](https://github.com/OskarStark/doctor-rst/pull/1519) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.49.0](https://github.com/symfony/symfony-docs/pull/18908) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-open.svg) [Multi reference same file](https://github.com/doctrine/rst-parser/pull/276) on [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Security] always use `getUserIdentifier` in `InMemoryTokenProvider`](https://github.com/symfony/symfony/pull/51535) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[DoctrineBridge][Security] Rename `loadUserByUsername` tests to `loadUserByIdentifier`](https://github.com/symfony/symfony/pull/51534) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Replace footnote by ref](https://github.com/symfony/symfony-docs/pull/18816) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Update blackfire free plan explanation](https://github.com/symfony/symfony-docs/pull/18815) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 #### 📫 How to reach me
 
