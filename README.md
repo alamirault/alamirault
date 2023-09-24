@@ -2,6 +2,9 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/php-amqplib/RabbitMqBundle/pull/713) on [php-amqplib/RabbitMqBundle](https://github.com/php-amqplib/RabbitMqBundle) (today)
+- ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/marcj/topsort.php/pull/13) on [marcj/topsort.php](https://github.com/marcj/topsort.php) (today)
+- ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/liuggio/fastest/pull/190) on [liuggio/fastest](https://github.com/liuggio/fastest) (today)
 - ![](./assets/pr-open.svg) [Remove `setAccessible` reflection call in tests](https://github.com/symfony/symfony/pull/51727) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-closed.svg) [Symfony v6.4](https://github.com/twigphp/intl-extra/pull/9) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (2 days ago)
 - ![](./assets/pr-closed.svg) [Test Symfony v6.4](https://github.com/KnpLabs/KnpPaginatorBundle/pull/773) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (2 days ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Doctrine][Messenger] Document middleware to log when transaction has been left open](https://github.com/symfony/symfony-docs/pull/18833) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Document session cookie in response](https://github.com/symfony/symfony-docs/pull/18832) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Embedding images support custom cid](https://github.com/symfony/symfony-docs/pull/18817) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Security] always use `getUserIdentifier` in `InMemoryTokenProvider`](https://github.com/symfony/symfony/pull/51535) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[DoctrineBridge][Security] Rename `loadUserByUsername` tests to `loadUserByIdentifier`](https://github.com/symfony/symfony/pull/51534) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Replace footnote by ref](https://github.com/symfony/symfony-docs/pull/18816) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 #### 📫 How to reach me
 
