@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add documentation for the `Spoofchecker::setRestrictionLevel` method](https://github.com/php/doc-en/pull/2792) on [php/doc-en](https://github.com/php/doc-en) (today)
 - ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/php-opencloud/openstack/pull/367) on [php-opencloud/openstack](https://github.com/php-opencloud/openstack) (today)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/php-amqplib/RabbitMqBundle/pull/713) on [php-amqplib/RabbitMqBundle](https://github.com/php-amqplib/RabbitMqBundle) (today)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/marcj/topsort.php/pull/13) on [marcj/topsort.php](https://github.com/marcj/topsort.php) (today)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[DoctrineBridge][Messenger] Always use `executeStatement` method](https://github.com/symfony/symfony/pull/51587) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [New rule: No footnotes](https://github.com/OskarStark/doctor-rst/pull/1494) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Doctrine][Messenger] Document middleware to log when transaction has been left open](https://github.com/symfony/symfony-docs/pull/18833) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Document session cookie in response](https://github.com/symfony/symfony-docs/pull/18832) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 
 #### 📫 How to reach me
 
