@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (today)
+- ![](./assets/pr-open.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [Update FormEvents Data and Form Data description](https://github.com/symfony/symfony-docs/pull/18934) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-open.svg) [Add documentation for the `Spoofchecker::setRestrictionLevel` method](https://github.com/php/doc-en/pull/2792) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
 - ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/php-opencloud/openstack/pull/367) on [php-opencloud/openstack](https://github.com/php-opencloud/openstack) (6 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[PropertyInfo] Remove checking if `AttributeMetadataInterface::setIgnore` method exists](https://github.com/symfony/symfony/pull/51607) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle][VarDumper] Remove checking if `OutputFormatterStyle::setHref` method exist](https://github.com/symfony/symfony/pull/51606) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[DebugBundle][HttpKernel] Remove checking if `CliDumper::setDisplayOptions` method exists](https://github.com/symfony/symfony/pull/51605) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[DoctrineBridge][Messenger] Always use `executeStatement` method](https://github.com/symfony/symfony/pull/51587) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [New rule: No footnotes](https://github.com/OskarStark/doctor-rst/pull/1494) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 
 #### 📫 How to reach me
 
