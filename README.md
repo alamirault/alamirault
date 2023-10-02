@@ -2,7 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (2 days ago)
+- ![](./assets/pr-open.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-merged.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - ![](./assets/pr-open.svg) [Update FormEvents Data and Form Data description](https://github.com/symfony/symfony-docs/pull/18934) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-open.svg) [Add documentation for the `Spoofchecker::setRestrictionLevel` method](https://github.com/php/doc-en/pull/2792) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [Multi reference same file](https://github.com/doctrine/rst-parser/pull/276) on [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[PropertyInfo] Remove checking if `AttributeMetadataInterface::setIgnore` method exists](https://github.com/symfony/symfony/pull/51607) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle][VarDumper] Remove checking if `OutputFormatterStyle::setHref` method exist](https://github.com/symfony/symfony/pull/51606) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[DebugBundle][HttpKernel] Remove checking if `CliDumper::setDisplayOptions` method exists](https://github.com/symfony/symfony/pull/51605) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 
 #### 📫 How to reach me
 
