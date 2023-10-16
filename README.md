@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Doctor RST ensure link definitions bottom](https://github.com/symfony/symfony-docs/pull/19028) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[SecurityBundle] Fix LogoutRouteLoader PHPDoc](https://github.com/symfony/symfony/pull/52068) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[AssetMapper] Automatically preload CSS files if WebLink available](https://github.com/symfony/symfony-docs/pull/19021) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure link are at the bottom of the file](https://github.com/OskarStark/doctor-rst/pull/1542) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Messenger] Add support for multiple Redis Sentinel hosts](https://github.com/symfony/symfony-docs/pull/18920) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.51.0](https://github.com/symfony/symfony-docs/pull/18918) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Deprecate `Kernel::stripComments()`](https://github.com/symfony/symfony/pull/51712) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [New rule: Ensure php reference syntax](https://github.com/OskarStark/doctor-rst/pull/1519) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 
 #### 📫 How to reach me
 
