@@ -2,11 +2,13 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Security] Update `InteractiveAuthenticatorInterface` description](https://github.com/symfony/symfony/pull/52082) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [[Security] Document `InteractiveLoginEvent`](https://github.com/symfony/symfony-docs/pull/19029) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Doctor RST ensure link definitions bottom](https://github.com/symfony/symfony-docs/pull/19028) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [[SecurityBundle] Fix LogoutRouteLoader PHPDoc](https://github.com/symfony/symfony/pull/52068) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[SecurityBundle] Fix LogoutRouteLoader PHPDoc](https://github.com/symfony/symfony/pull/52068) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[AssetMapper] Automatically preload CSS files if WebLink available](https://github.com/symfony/symfony-docs/pull/19021) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure link are at the bottom of the file](https://github.com/OskarStark/doctor-rst/pull/1542) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
-- ![](./assets/pr-open.svg) [feat: upgrade to PHP 8.3RC4](https://github.com/dunglas/frankenphp/pull/265) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (2 days ago)
+- ![](./assets/pr-merged.svg) [feat: upgrade to PHP 8.3RC4](https://github.com/dunglas/frankenphp/pull/265) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (2 days ago)
 - ![](./assets/pr-merged.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-closed.svg) [Symfony v6.4](https://github.com/twigphp/intl-extra/pull/9) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Test Symfony v6.4](https://github.com/KnpLabs/KnpPaginatorBundle/pull/773) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Messenger] Add support for multiple Redis Sentinel hosts](https://github.com/symfony/symfony-docs/pull/18920) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Use Doctor RST 1.51.0](https://github.com/symfony/symfony-docs/pull/18918) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Deprecate `Kernel::stripComments()`](https://github.com/symfony/symfony/pull/51712) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 
 #### 📫 How to reach me
 
