@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[SecurityBundle] Fix LogoutRouteLoader phpdoc](https://github.com/symfony/symfony/pull/52068) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- ![](./assets/pr-open.svg) [[AssetMapper] Automatically preload CSS files if WebLink available](https://github.com/symfony/symfony-docs/pull/19021) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [New rule: Ensure link are at the bottom of the file](https://github.com/OskarStark/doctor-rst/pull/1542) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
-- ![](./assets/pr-open.svg) [feat: upgrade to PHP 8.3RC4](https://github.com/dunglas/frankenphp/pull/265) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 day ago)
-- ![](./assets/pr-merged.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- ![](./assets/pr-open.svg) [[SecurityBundle] Fix LogoutRouteLoader phpdoc](https://github.com/symfony/symfony/pull/52068) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-open.svg) [[AssetMapper] Automatically preload CSS files if WebLink available](https://github.com/symfony/symfony-docs/pull/19021) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [New rule: Ensure link are at the bottom of the file](https://github.com/OskarStark/doctor-rst/pull/1542) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
+- ![](./assets/pr-open.svg) [feat: upgrade to PHP 8.3RC4](https://github.com/dunglas/frankenphp/pull/265) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (2 days ago)
+- ![](./assets/pr-merged.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Update FormEvents Data and Form Data description](https://github.com/symfony/symfony-docs/pull/18934) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
