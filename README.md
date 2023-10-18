@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [[WebProfilerBundle] Fix generated application link](https://github.com/symfony/symfony/pull/52152) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[Security] Update `InteractiveAuthenticatorInterface` description](https://github.com/symfony/symfony/pull/52082) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Security] Document `InteractiveLoginEvent`](https://github.com/symfony/symfony-docs/pull/19029) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Doctor RST ensure link definitions bottom](https://github.com/symfony/symfony-docs/pull/19028) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/liuggio/fastest/pull/190) on [liuggio/fastest](https://github.com/liuggio/fastest) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove `setAccessible` reflection call in tests](https://github.com/symfony/symfony/pull/51727) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [Symfony v6.4](https://github.com/twigphp/intl-extra/pull/9) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (3 weeks ago)
-- ![](./assets/pr-closed.svg) [Test Symfony v6.4](https://github.com/KnpLabs/KnpPaginatorBundle/pull/773) on [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Messenger] Add support for multiple Redis Sentinel hosts](https://github.com/symfony/symfony-docs/pull/18920) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 
 #### 📫 How to reach me
 
