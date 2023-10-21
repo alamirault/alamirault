@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Fix generated application link](https://github.com/symfony/symfony/pull/52152) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-open.svg) [[Security] Update `InteractiveAuthenticatorInterface` description](https://github.com/symfony/symfony/pull/52082) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/marcj/topsort.php/pull/13) on [marcj/topsort.php](https://github.com/marcj/topsort.php) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/liuggio/fastest/pull/190) on [liuggio/fastest](https://github.com/liuggio/fastest) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove `setAccessible` reflection call in tests](https://github.com/symfony/symfony/pull/51727) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
-- ![](./assets/pr-closed.svg) [Symfony v6.4](https://github.com/twigphp/intl-extra/pull/9) on [twigphp/intl-extra](https://github.com/twigphp/intl-extra) (4 weeks ago)
 
 #### 📫 How to reach me
 
