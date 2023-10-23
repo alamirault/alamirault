@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Use Doctor RST 1.54.0](https://github.com/symfony/symfony-docs/pull/19077) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Fix generated application link](https://github.com/symfony/symfony/pull/52152) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/php-amqplib/RabbitMqBundle/pull/713) on [php-amqplib/RabbitMqBundle](https://github.com/php-amqplib/RabbitMqBundle) (4 weeks ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/marcj/topsort.php/pull/13) on [marcj/topsort.php](https://github.com/marcj/topsort.php) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/liuggio/fastest/pull/190) on [liuggio/fastest](https://github.com/liuggio/fastest) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Remove `setAccessible` reflection call in tests](https://github.com/symfony/symfony/pull/51727) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
