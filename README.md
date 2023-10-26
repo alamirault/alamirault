@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Use Doctor RST 1.54.0](https://github.com/symfony/symfony-docs/pull/19077) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
+- ![](./assets/pr-merged.svg) [Use Doctor RST 1.54.0](https://github.com/symfony/symfony-docs/pull/19077) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Fix generated application link](https://github.com/symfony/symfony/pull/52152) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [[Security] Update `InteractiveAuthenticatorInterface` description](https://github.com/symfony/symfony/pull/52082) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
