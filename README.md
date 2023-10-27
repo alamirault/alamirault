@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Use Doctor RST 1.54.0](https://github.com/symfony/symfony-docs/pull/19077) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
+- ![](./assets/pr-merged.svg) [Use Doctor RST 1.54.0](https://github.com/symfony/symfony-docs/pull/19077) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (6 days ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Fix generated application link](https://github.com/symfony/symfony/pull/52152) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-open.svg) [[Security] Update `InteractiveAuthenticatorInterface` description](https://github.com/symfony/symfony/pull/52082) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -16,7 +16,7 @@
 - ![](./assets/pr-merged.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Form] Update FormEvents Data and Form Data description](https://github.com/symfony/symfony-docs/pull/18934) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Form] Update FormEvents Data and Form Data description](https://github.com/symfony/symfony-docs/pull/18934) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-open.svg) [Add documentation for the `Spoofchecker::setRestrictionLevel` method](https://github.com/php/doc-en/pull/2792) on [php/doc-en](https://github.com/php/doc-en) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/php-opencloud/openstack/pull/367) on [php-opencloud/openstack](https://github.com/php-opencloud/openstack) (1 month ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/php-amqplib/RabbitMqBundle/pull/713) on [php-amqplib/RabbitMqBundle](https://github.com/php-amqplib/RabbitMqBundle) (1 month ago)
