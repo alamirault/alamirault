@@ -20,7 +20,7 @@
 - ![](./assets/pr-merged.svg) [[Form] Update FormEvents Data and Form Data description](https://github.com/symfony/symfony-docs/pull/18934) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-open.svg) [Add documentation for the `Spoofchecker::setRestrictionLevel` method](https://github.com/php/doc-en/pull/2792) on [php/doc-en](https://github.com/php/doc-en) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/php-opencloud/openstack/pull/367) on [php-opencloud/openstack](https://github.com/php-opencloud/openstack) (1 month ago)
-- ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/php-amqplib/RabbitMqBundle/pull/713) on [php-amqplib/RabbitMqBundle](https://github.com/php-amqplib/RabbitMqBundle) (1 month ago)
+- ![](./assets/pr-merged.svg) [Add `.gitattributes` file](https://github.com/php-amqplib/RabbitMqBundle/pull/713) on [php-amqplib/RabbitMqBundle](https://github.com/php-amqplib/RabbitMqBundle) (1 month ago)
 - ![](./assets/pr-open.svg) [Add `.gitattributes` file](https://github.com/marcj/topsort.php/pull/13) on [marcj/topsort.php](https://github.com/marcj/topsort.php) (1 month ago)
 
 #### 📫 How to reach me
