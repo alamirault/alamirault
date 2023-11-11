@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [doc: Update static-php urls](https://github.com/dunglas/frankenphp/pull/277) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 week ago)
+- ![](./assets/pr-merged.svg) [doc: Update static-php urls](https://github.com/dunglas/frankenphp/pull/277) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.54.0](https://github.com/symfony/symfony-docs/pull/19077) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Fix generated application link](https://github.com/symfony/symfony/pull/52152) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-open.svg) [[Security] Update `InteractiveAuthenticatorInterface` description](https://github.com/symfony/symfony/pull/52082) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
@@ -13,7 +13,7 @@
 - ![](./assets/pr-merged.svg) [[SecurityBundle] Fix LogoutRouteLoader PHPDoc](https://github.com/symfony/symfony/pull/52068) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[AssetMapper] Automatically preload CSS files if WebLink available](https://github.com/symfony/symfony-docs/pull/19021) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure link are at the bottom of the file](https://github.com/OskarStark/doctor-rst/pull/1542) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [feat: upgrade to PHP 8.3RC4](https://github.com/dunglas/frankenphp/pull/265) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [feat: upgrade to PHP 8.3RC4](https://github.com/dunglas/frankenphp/pull/265) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
