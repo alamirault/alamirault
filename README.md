@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[DependencyInjection] Add urlencode function to EnvVarProcessor](https://github.com/symfony/symfony-docs/pull/19150) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[String] New locale aware casing methods](https://github.com/symfony/symfony-docs/pull/19149) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[Notifier][PropertyInfo][VarDumper] Remove unused code](https://github.com/symfony/symfony/pull/52619) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [Update README.md](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/2) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (4 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Form] Update FormEvents Data and Form Data description](https://github.com/symfony/symfony-docs/pull/18934) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
