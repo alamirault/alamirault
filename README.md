@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[DependencyInjection] Add urlencode function to EnvVarProcessor](https://github.com/symfony/symfony-docs/pull/19150) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [[DependencyInjection] Add `urlencode` function to `EnvVarProcessor`](https://github.com/symfony/symfony-docs/pull/19150) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[String] New locale aware casing methods](https://github.com/symfony/symfony-docs/pull/19149) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Notifier][PropertyInfo][VarDumper] Remove unused code](https://github.com/symfony/symfony/pull/52619) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [Update README.md](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/2) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (5 days ago)
