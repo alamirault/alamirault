@@ -2,6 +2,9 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [[Form] Clean unused code](https://github.com/symfony/symfony/pull/52660) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [[CssSelector][Serializer][Translation] [Command] Clean unused code](https://github.com/symfony/symfony/pull/52659) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Add `urlencode` function to `EnvVarProcessor`](https://github.com/symfony/symfony-docs/pull/19150) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[String] New locale aware casing methods](https://github.com/symfony/symfony-docs/pull/19149) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Notifier][PropertyInfo][VarDumper] Remove unused code](https://github.com/symfony/symfony/pull/52619) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [[AssetMapper] Automatically preload CSS files if WebLink available](https://github.com/symfony/symfony-docs/pull/19021) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [New rule: Ensure link are at the bottom of the file](https://github.com/OskarStark/doctor-rst/pull/1542) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [feat: upgrade to PHP 8.3RC4](https://github.com/dunglas/frankenphp/pull/265) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix duplicate component in UPGRADE-6.3.md](https://github.com/symfony/symfony/pull/51818) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix checkout version](https://github.com/github/docs/pull/28668) on [github/docs](https://github.com/github/docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Update `actions/checkout` version example](https://github.com/OskarStark/doctor-rst/pull/1523) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 
 #### 📫 How to reach me
 
