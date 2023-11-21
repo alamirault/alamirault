@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[Form] Clean unused code](https://github.com/symfony/symfony/pull/52660) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[CssSelector][Serializer][Translation] [Command] Clean unused code](https://github.com/symfony/symfony/pull/52659) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Add `urlencode` function to `EnvVarProcessor`](https://github.com/symfony/symfony-docs/pull/19150) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
