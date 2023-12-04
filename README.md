@@ -5,7 +5,7 @@
 - ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Clean unused code](https://github.com/symfony/symfony/pull/52660) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- ![](./assets/pr-open.svg) [[CssSelector][Serializer][Translation] [Command] Clean unused code](https://github.com/symfony/symfony/pull/52659) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[CssSelector][Serializer][Translation] [Command] Clean unused code](https://github.com/symfony/symfony/pull/52659) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add `urlencode` function to `EnvVarProcessor`](https://github.com/symfony/symfony-docs/pull/19150) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[String] New locale aware casing methods](https://github.com/symfony/symfony-docs/pull/19149) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Notifier][PropertyInfo][VarDumper] Remove unused code](https://github.com/symfony/symfony/pull/52619) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
