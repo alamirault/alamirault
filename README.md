@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Clean unused code](https://github.com/symfony/symfony/pull/52660) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[CssSelector][Serializer][Translation] [Command] Clean unused code](https://github.com/symfony/symfony/pull/52659) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
