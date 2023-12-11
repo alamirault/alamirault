@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix broken links in hompage documentation](https://github.com/gitlabform/gitlabform/pull/653) on [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) (today)
 - ![](./assets/pr-merged.svg) [[Cache][Messenger] make both options redis_sentinel and sentinel_mast…](https://github.com/symfony/symfony-docs/pull/19241) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Security] Document `InteractiveLoginEvent`](https://github.com/symfony/symfony-docs/pull/19029) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Doctor RST ensure link definitions bottom](https://github.com/symfony/symfony-docs/pull/19028) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[SecurityBundle] Fix LogoutRouteLoader PHPDoc](https://github.com/symfony/symfony/pull/52068) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[AssetMapper] Automatically preload CSS files if WebLink available](https://github.com/symfony/symfony-docs/pull/19021) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
