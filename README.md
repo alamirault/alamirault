@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix small typo in create_bsky_post.py](https://github.com/bluesky-social/atproto-website/pull/260) on [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) (today)
+- ![](./assets/pr-merged.svg) [Fix small typo in create_bsky_post.py](https://github.com/bluesky-social/atproto-website/pull/260) on [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) (today)
 - ![](./assets/pr-open.svg) [[VarDumper] Exclude some chars from user selection](https://github.com/symfony/symfony/pull/53009) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [docs: fix broken links to references in homepage](https://github.com/gitlabform/gitlabform/pull/653) on [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Cache][Messenger] make both options redis_sentinel and sentinel_mast…](https://github.com/symfony/symfony-docs/pull/19241) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
