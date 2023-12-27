@@ -15,7 +15,7 @@
 - ![](./assets/pr-open.svg) [[Notifier][PropertyInfo][VarDumper] Remove unused code](https://github.com/symfony/symfony/pull/52619) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Update README.md](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/2) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (1 month ago)
 - ![](./assets/pr-open.svg) [Fix indentation rule false positive](https://github.com/OskarStark/doctor-rst/pull/1563) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
-- ![](./assets/pr-merged.svg) [doc: Update static-php urls](https://github.com/dunglas/frankenphp/pull/277) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 month ago)
+- ![](./assets/pr-merged.svg) [doc: Update static-php urls](https://github.com/dunglas/frankenphp/pull/277) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (2 months ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.54.0](https://github.com/symfony/symfony-docs/pull/19077) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
