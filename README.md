@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Messenger] Amazon SQS Delay has a max of 15 minutes](https://github.com/symfony/symfony/pull/53441) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [[Serializer] Fix encoder options](https://github.com/symfony/symfony-docs/pull/19381) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix small typo in create_bsky_post.py](https://github.com/bluesky-social/atproto-website/pull/260) on [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [[VarDumper] Exclude some chars from user selection](https://github.com/symfony/symfony/pull/53009) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Add new violations to typo rule](https://github.com/OskarStark/doctor-rst/pull/1544) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Rewrite to avoid using request word when nothing found](https://github.com/symfony/symfony/pull/52155) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[WebProfilerBundle] Fix generated application link](https://github.com/symfony/symfony/pull/52152) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-open.svg) [[Security] Update `InteractiveAuthenticatorInterface` description](https://github.com/symfony/symfony/pull/52082) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### 📫 How to reach me
 
