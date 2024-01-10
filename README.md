@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Uid] Add `AbstractUid::toString()`](https://github.com/symfony/symfony-docs/pull/19386) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Validator] Add `MacAddress` constraint](https://github.com/symfony/symfony-docs/pull/19383) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Messenger] Amazon SQS Delay has a max of 15 minutes](https://github.com/symfony/symfony/pull/53441) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Fix encoder options](https://github.com/symfony/symfony-docs/pull/19381) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Uid] Add `AbstractUid::toString()`](https://github.com/symfony/symfony-docs/pull/19386) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Validator] Add `MacAddress` constraint](https://github.com/symfony/symfony-docs/pull/19383) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Messenger] Amazon SQS Delay has a max of 15 minutes](https://github.com/symfony/symfony/pull/53441) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Serializer] Fix encoder options](https://github.com/symfony/symfony-docs/pull/19381) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-merged.svg) [Fix small typo in create_bsky_post.py](https://github.com/bluesky-social/atproto-website/pull/260) on [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) (3 weeks ago)
 - ![](./assets/pr-closed.svg) [[VarDumper] Exclude some chars from user selection](https://github.com/symfony/symfony/pull/53009) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [docs: fix broken links to references in homepage](https://github.com/gitlabform/gitlabform/pull/653) on [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [docs: fix broken links to references in homepage](https://github.com/gitlabform/gitlabform/pull/653) on [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Cache][Messenger] make both options redis_sentinel and sentinel_mast…](https://github.com/symfony/symfony-docs/pull/19241) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
