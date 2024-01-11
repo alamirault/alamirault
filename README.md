@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Update README.md](https://github.com/symfony/symfony-docs/pull/19409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add `AbstractUid::toString()`](https://github.com/symfony/symfony-docs/pull/19386) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
