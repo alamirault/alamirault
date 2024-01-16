@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Update ElasticsearchLogstashHandler documentation](https://github.com/symfony/symfony-docs/pull/19417) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [Update README.md](https://github.com/symfony/symfony-docs/pull/19409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-open.svg) [Update ElasticsearchLogstashHandler documentation](https://github.com/symfony/symfony-docs/pull/19417) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [Update README.md](https://github.com/symfony/symfony-docs/pull/19409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add `AbstractUid::toString()`](https://github.com/symfony/symfony-docs/pull/19386) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Validator] Add `MacAddress` constraint](https://github.com/symfony/symfony-docs/pull/19383) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
