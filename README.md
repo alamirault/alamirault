@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Scheduler] Document hashed Cron expression](https://github.com/symfony/symfony-docs/pull/19441) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [Fix scheduler examples](https://github.com/symfony/symfony-docs/pull/19440) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Fix 404 link in scheduler.rst](https://github.com/symfony/symfony-docs/pull/19430) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Logger] Update ElasticsearchLogstashHandler documentation](https://github.com/symfony/symfony-docs/pull/19417) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Form] Clean unused code](https://github.com/symfony/symfony/pull/52660) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[CssSelector][Serializer][Translation] [Command] Clean unused code](https://github.com/symfony/symfony/pull/52659) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Add `urlencode` function to `EnvVarProcessor`](https://github.com/symfony/symfony-docs/pull/19150) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [[String] New locale aware casing methods](https://github.com/symfony/symfony-docs/pull/19149) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Notifier][PropertyInfo][VarDumper] Remove unused code](https://github.com/symfony/symfony/pull/52619) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### 📫 How to reach me
 
