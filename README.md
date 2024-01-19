@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Add the scheduler component](https://github.com/symfony-tools/symfony-application/pull/26) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (today)
+- ![](./assets/pr-merged.svg) [Add the scheduler component](https://github.com/symfony-tools/symfony-application/pull/26) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (today)
 - ![](./assets/pr-open.svg) [[Scheduler] Document hashed Cron expression](https://github.com/symfony/symfony-docs/pull/19441) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Fix scheduler examples](https://github.com/symfony/symfony-docs/pull/19440) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix 404 link in scheduler.rst](https://github.com/symfony/symfony-docs/pull/19430) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
