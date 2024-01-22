@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Scheduler] Document events](https://github.com/symfony/symfony-docs/pull/19450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Reword impersonnating event description](https://github.com/symfony/symfony-docs/pull/19448) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Ask to open PRs for new features in 7.x](https://github.com/symfony/symfony-docs/pull/19447) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add the scheduler component](https://github.com/symfony-tools/symfony-application/pull/26) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (3 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [docs: fix broken links to references in homepage](https://github.com/gitlabform/gitlabform/pull/653) on [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Cache][Messenger] make both options redis_sentinel and sentinel_mast…](https://github.com/symfony/symfony-docs/pull/19241) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Security] remove conflict with symfony/security-guard](https://github.com/symfony/symfony/pull/52661) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### 📫 How to reach me
 
