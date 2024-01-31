@@ -10,8 +10,8 @@
 - ![](./assets/pr-merged.svg) [[Scheduler] Fix scheduler examples](https://github.com/symfony/symfony-docs/pull/19440) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix 404 link in scheduler.rst](https://github.com/symfony/symfony-docs/pull/19430) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Logger] Update ElasticsearchLogstashHandler documentation](https://github.com/symfony/symfony-docs/pull/19417) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Update README.md](https://github.com/symfony/symfony-docs/pull/19409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Update README.md](https://github.com/symfony/symfony-docs/pull/19409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add `AbstractUid::toString()`](https://github.com/symfony/symfony-docs/pull/19386) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Validator] Add `MacAddress` constraint](https://github.com/symfony/symfony-docs/pull/19383) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
@@ -21,7 +21,7 @@
 - ![](./assets/pr-closed.svg) [[VarDumper] Exclude some chars from user selection](https://github.com/symfony/symfony/pull/53009) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [docs: fix broken links to references in homepage](https://github.com/gitlabform/gitlabform/pull/653) on [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Cache][Messenger] make both options redis_sentinel and sentinel_mast…](https://github.com/symfony/symfony-docs/pull/19241) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
+- ![](./assets/pr-merged.svg) [Add attribute configuration block for reusable locator](https://github.com/symfony/symfony-docs/pull/19209) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
