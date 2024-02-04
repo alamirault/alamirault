@@ -2,8 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Mailer][Webhook] Mailersend webhook remote event](https://github.com/symfony/symfony-docs/pull/19502) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [[ExpressionLanguage] Add `min` and `max` php functions](https://github.com/symfony/symfony-docs/pull/19501) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Validator] Add additional versions (`*_NO_PUBLIC`, `*_ONLY_PRIV` &amp; `*_ONLY_RES`) in IP address &amp; CIDR constraint](https://github.com/symfony/symfony-docs/pull/19503) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [[Mailer][Webhook] Mailersend webhook remote event](https://github.com/symfony/symfony-docs/pull/19502) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [[ExpressionLanguage] Add `min` and `max` php functions](https://github.com/symfony/symfony-docs/pull/19501) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Scheduler] Document events](https://github.com/symfony/symfony-docs/pull/19450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Security] Reword impersonnating event description](https://github.com/symfony/symfony-docs/pull/19448) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Ask to open PRs for new features in 7.x](https://github.com/symfony/symfony-docs/pull/19447) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Serializer] Fix encoder options](https://github.com/symfony/symfony-docs/pull/19381) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix small typo in create_bsky_post.py](https://github.com/bluesky-social/atproto-website/pull/260) on [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) (1 month ago)
 - ![](./assets/pr-closed.svg) [[VarDumper] Exclude some chars from user selection](https://github.com/symfony/symfony/pull/53009) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [docs: fix broken links to references in homepage](https://github.com/gitlabform/gitlabform/pull/653) on [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) (1 month ago)
 
 #### 📫 How to reach me
 
