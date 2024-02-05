@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Remove SchemeRequestMatcher duplication](https://github.com/symfony/symfony-docs/pull/19516) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [Fix broken reference links](https://github.com/symfony/symfony-docs/pull/19515) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Fix `IpsRequestMatcher` reference](https://github.com/symfony/symfony-docs/pull/19514) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Validator] Add additional versions (`*_NO_PUBLIC`, `*_ONLY_PRIV` &amp; `*_ONLY_RES`) in IP address &amp; CIDR constraint](https://github.com/symfony/symfony-docs/pull/19503) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Mailer][Webhook] Mailersend webhook remote event](https://github.com/symfony/symfony-docs/pull/19502) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] Add `MacAddress` constraint](https://github.com/symfony/symfony-docs/pull/19383) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Messenger] Amazon SQS Delay has a max of 15 minutes](https://github.com/symfony/symfony/pull/53441) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Fix encoder options](https://github.com/symfony/symfony-docs/pull/19381) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix small typo in create_bsky_post.py](https://github.com/bluesky-social/atproto-website/pull/260) on [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) (1 month ago)
 
 #### 📫 How to reach me
 
