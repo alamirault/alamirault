@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Validator] Add additional versions (`*_NO_PUBLIC`, `*_ONLY_PRIV` &amp; `*_ONLY_RES`) in IP address &amp; CIDR constraint](https://github.com/symfony/symfony-docs/pull/19503) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Validator] Add additional versions (`*_NO_PUBLIC`, `*_ONLY_PRIV` &amp; `*_ONLY_RES`) in IP address &amp; CIDR constraint](https://github.com/symfony/symfony-docs/pull/19503) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Mailer][Webhook] Mailersend webhook remote event](https://github.com/symfony/symfony-docs/pull/19502) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[ExpressionLanguage] Add `min` and `max` php functions](https://github.com/symfony/symfony-docs/pull/19501) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Scheduler] Document events](https://github.com/symfony/symfony-docs/pull/19450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
