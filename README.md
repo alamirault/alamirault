@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19523) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Remove SchemeRequestMatcher duplication](https://github.com/symfony/symfony-docs/pull/19516) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [Fix broken reference links](https://github.com/symfony/symfony-docs/pull/19515) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Fix `IpsRequestMatcher` reference](https://github.com/symfony/symfony-docs/pull/19514) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Uid] Add `AbstractUid::toString()`](https://github.com/symfony/symfony-docs/pull/19386) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] Add `MacAddress` constraint](https://github.com/symfony/symfony-docs/pull/19383) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Messenger] Amazon SQS Delay has a max of 15 minutes](https://github.com/symfony/symfony/pull/53441) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
