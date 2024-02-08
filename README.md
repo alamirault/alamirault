@@ -2,6 +2,11 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Security] Update CAS 2.0 AccessTokenHandler changelog version](https://github.com/symfony/symfony/pull/53871) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Asset] Replace `RemoteJsonManifestVersionStrategy` by `JsonManifestVersionStrategy`](https://github.com/symfony/symfony-docs/pull/19536) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Config] Allow custom meta location in `ConfigCache`](https://github.com/symfony/symfony/pull/53868) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19523) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove SchemeRequestMatcher duplication](https://github.com/symfony/symfony-docs/pull/19516) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [Fix broken reference links](https://github.com/symfony/symfony-docs/pull/19515) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
@@ -17,11 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Scheduler] Fix scheduler examples](https://github.com/symfony/symfony-docs/pull/19440) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix 404 link in scheduler.rst](https://github.com/symfony/symfony-docs/pull/19430) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Logger] Update ElasticsearchLogstashHandler documentation](https://github.com/symfony/symfony-docs/pull/19417) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Form] Add option `separator` to `ChoiceType` to use a custom separator after preferred choices](https://github.com/symfony/symfony-docs/pull/19410) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Update README.md](https://github.com/symfony/symfony-docs/pull/19409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [[Uid] Add `AbstractUid::toString()`](https://github.com/symfony/symfony-docs/pull/19386) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] add a private_ranges shortcut for trusted_proxies](https://github.com/symfony/symfony-docs/pull/19385) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Validator] Add `MacAddress` constraint](https://github.com/symfony/symfony-docs/pull/19383) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
