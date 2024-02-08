@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-open.svg) [[Security] Update CAS 2.0 AccessTokenHandler changelog version](https://github.com/symfony/symfony/pull/53871) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [[Asset] Replace `RemoteJsonManifestVersionStrategy` by `JsonManifestVersionStrategy`](https://github.com/symfony/symfony-docs/pull/19536) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [[Asset] Replace `RemoteJsonManifestVersionStrategy` by `JsonManifestVersionStrategy`](https://github.com/symfony/symfony-docs/pull/19536) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[Config] Allow custom meta location in `ConfigCache`](https://github.com/symfony/symfony/pull/53868) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19523) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
