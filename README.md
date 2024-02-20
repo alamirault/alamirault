@@ -11,7 +11,7 @@
 - ![](./assets/pr-merged.svg) [[Asset] Replace `RemoteJsonManifestVersionStrategy` by `JsonManifestVersionStrategy`](https://github.com/symfony/symfony-docs/pull/19536) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in `ConfigCache`](https://github.com/symfony/symfony/pull/53868) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19523) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
+- ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19523) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove SchemeRequestMatcher duplication](https://github.com/symfony/symfony-docs/pull/19516) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix broken reference links](https://github.com/symfony/symfony-docs/pull/19515) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Fix `IpsRequestMatcher` reference](https://github.com/symfony/symfony-docs/pull/19514) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -19,8 +19,8 @@
 - ![](./assets/pr-merged.svg) [[Mailer][Webhook] Mailersend webhook remote event](https://github.com/symfony/symfony-docs/pull/19502) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[ExpressionLanguage] Add `min` and `max` php functions](https://github.com/symfony/symfony-docs/pull/19501) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Scheduler] Document events](https://github.com/symfony/symfony-docs/pull/19450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [[Security] Reword impersonnating event description](https://github.com/symfony/symfony-docs/pull/19448) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Ask to open PRs for new features in 7.x](https://github.com/symfony/symfony-docs/pull/19447) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Security] Reword impersonnating event description](https://github.com/symfony/symfony-docs/pull/19448) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
+- ![](./assets/pr-merged.svg) [Ask to open PRs for new features in 7.x](https://github.com/symfony/symfony-docs/pull/19447) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add the scheduler component](https://github.com/symfony-tools/symfony-application/pull/26) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (1 month ago)
 
 #### 📫 How to reach me
