@@ -18,7 +18,7 @@
 - ![](./assets/pr-merged.svg) [[Validator] Add additional versions (`*_NO_PUBLIC`, `*_ONLY_PRIV` &amp; `*_ONLY_RES`) in IP address &amp; CIDR constraint](https://github.com/symfony/symfony-docs/pull/19503) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Mailer][Webhook] Mailersend webhook remote event](https://github.com/symfony/symfony-docs/pull/19502) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[ExpressionLanguage] Add `min` and `max` php functions](https://github.com/symfony/symfony-docs/pull/19501) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Scheduler] Document events](https://github.com/symfony/symfony-docs/pull/19450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Scheduler] Document events](https://github.com/symfony/symfony-docs/pull/19450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Security] Reword impersonnating event description](https://github.com/symfony/symfony-docs/pull/19448) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Ask to open PRs for new features in 7.x](https://github.com/symfony/symfony-docs/pull/19447) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add the scheduler component](https://github.com/symfony-tools/symfony-application/pull/26) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (1 month ago)
