@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-merged.svg) [Update PR link phpdoc_array_type](https://github.com/ergebnis/php-cs-fixer-config/pull/1024) on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) (today)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19548) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in ConfigCache](https://github.com/symfony/symfony-docs/pull/19543) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19542) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Scheduler] Document events](https://github.com/symfony/symfony-docs/pull/19450) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Security] Reword impersonnating event description](https://github.com/symfony/symfony-docs/pull/19448) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Ask to open PRs for new features in 7.x](https://github.com/symfony/symfony-docs/pull/19447) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add the scheduler component](https://github.com/symfony-tools/symfony-application/pull/26) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (1 month ago)
 
 #### 📫 How to reach me
 
