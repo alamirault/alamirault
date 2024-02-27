@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Update PR link phpdoc_array_type](https://github.com/ergebnis/php-cs-fixer-config/pull/1024) on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) (today)
+- ![](./assets/pr-merged.svg) [Update PR link phpdoc_array_type](https://github.com/ergebnis/php-cs-fixer-config/pull/1024) on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) (1 day ago)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19548) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in ConfigCache](https://github.com/symfony/symfony-docs/pull/19543) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19542) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -12,7 +12,7 @@
 - ![](./assets/pr-merged.svg) [[Asset] Replace `RemoteJsonManifestVersionStrategy` by `JsonManifestVersionStrategy`](https://github.com/symfony/symfony-docs/pull/19536) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in `ConfigCache`](https://github.com/symfony/symfony/pull/53868) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19523) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19523) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Remove SchemeRequestMatcher duplication](https://github.com/symfony/symfony-docs/pull/19516) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix broken reference links](https://github.com/symfony/symfony-docs/pull/19515) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Fix `IpsRequestMatcher` reference](https://github.com/symfony/symfony-docs/pull/19514) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
