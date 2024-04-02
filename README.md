@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[FrameworkBundle][HttpClient] Add ThrottlingHttpClient](https://github.com/symfony/symfony-docs/pull/19729) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[Validator] Update internal phpdoc](https://github.com/symfony/symfony/pull/54460) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [[Emoji] Update slack data](https://github.com/symfony/symfony/pull/54450) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-open.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony/pull/54441) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Remove SchemeRequestMatcher duplication](https://github.com/symfony/symfony-docs/pull/19516) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix broken reference links](https://github.com/symfony/symfony-docs/pull/19515) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Fix `IpsRequestMatcher` reference](https://github.com/symfony/symfony-docs/pull/19514) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Validator] Add additional versions (`*_NO_PUBLIC`, `*_ONLY_PRIV` &amp; `*_ONLY_RES`) in IP address &amp; CIDR constraint](https://github.com/symfony/symfony-docs/pull/19503) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
