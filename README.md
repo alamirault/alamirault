@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [[FrameworkBundle][HttpClient] Add ThrottlingHttpClient](https://github.com/symfony/symfony-docs/pull/19729) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [[Validator] Update internal phpdoc](https://github.com/symfony/symfony/pull/54460) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Validator] Update internal phpdoc](https://github.com/symfony/symfony/pull/54460) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Update slack data](https://github.com/symfony/symfony/pull/54450) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony/pull/54441) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - ![](./assets/pr-merged.svg) [Use DoctorRST 1.57.1](https://github.com/symfony/symfony-docs/pull/19677) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
