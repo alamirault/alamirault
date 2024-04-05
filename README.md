@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [Fix Github annotation for rule TitleUnderlineLengthMustMatchTitleLength](https://github.com/OskarStark/doctor-rst/pull/1705) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
-- ![](./assets/pr-open.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony-docs/pull/19736) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony-docs/pull/19736) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.59.0](https://github.com/symfony/symfony-docs/pull/19734) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle][HttpClient] Add ThrottlingHttpClient](https://github.com/symfony/symfony-docs/pull/19729) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Validator] Update internal phpdoc](https://github.com/symfony/symfony/pull/54460) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
