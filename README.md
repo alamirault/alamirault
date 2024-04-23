@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix french translation](https://github.com/symfony/symfony/pull/54708) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-merged.svg) [Fix french translation](https://github.com/symfony/symfony/pull/54708) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [Fix Github annotation for rule TitleUnderlineLengthMustMatchTitleLength](https://github.com/OskarStark/doctor-rst/pull/1705) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony-docs/pull/19736) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.59.0](https://github.com/symfony/symfony-docs/pull/19734) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
