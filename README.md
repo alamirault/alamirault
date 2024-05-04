@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix typo on &#34;Test your API&#34; guide page](https://github.com/api-platform/core/pull/6351) on [api-platform/core](https://github.com/api-platform/core) (today)
 - ![](./assets/pr-merged.svg) [Fix french translation](https://github.com/symfony/symfony/pull/54708) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix Github annotation for rule TitleUnderlineLengthMustMatchTitleLength](https://github.com/OskarStark/doctor-rst/pull/1705) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony-docs/pull/19736) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Asset] Replace `RemoteJsonManifestVersionStrategy` by `JsonManifestVersionStrategy`](https://github.com/symfony/symfony-docs/pull/19536) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in `ConfigCache`](https://github.com/symfony/symfony/pull/53868) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-merged.svg) [Fix broken class links](https://github.com/symfony/symfony-docs/pull/19535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
