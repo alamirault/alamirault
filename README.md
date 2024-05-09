@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Security] Add support for dynamic CSRF id with Expression in `#[IsCsrfTokenValid]`](https://github.com/symfony/symfony-docs/pull/19870) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [[Routing] Add `{foo:bar}` syntax to define a mapping between a route parameter and its corresponding request attribute](https://github.com/symfony/symfony-docs/pull/19869) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-merged.svg) [Fix typo on &#34;Test your API&#34; guide page](https://github.com/api-platform/core/pull/6351) on [api-platform/core](https://github.com/api-platform/core) (4 days ago)
+- ![](./assets/pr-open.svg) [[Security] Add support for dynamic CSRF id with Expression in `#[IsCsrfTokenValid]`](https://github.com/symfony/symfony-docs/pull/19870) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-open.svg) [[Routing] Add `{foo:bar}` syntax to define a mapping between a route parameter and its corresponding request attribute](https://github.com/symfony/symfony-docs/pull/19869) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [Fix typo on &#34;Test your API&#34; guide page](https://github.com/api-platform/core/pull/6351) on [api-platform/core](https://github.com/api-platform/core) (5 days ago)
 - ![](./assets/pr-merged.svg) [Fix french translation](https://github.com/symfony/symfony/pull/54708) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix Github annotation for rule TitleUnderlineLengthMustMatchTitleLength](https://github.com/OskarStark/doctor-rst/pull/1705) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony-docs/pull/19736) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
@@ -17,8 +17,8 @@
 - ![](./assets/pr-merged.svg) [Fix `EnsureGithubDirectiveStartWithPrefix` rule with named directive](https://github.com/OskarStark/doctor-rst/pull/1676) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [Update PR link phpdoc_array_type](https://github.com/ergebnis/php-cs-fixer-config/pull/1024) on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) (2 months ago)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19548) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in ConfigCache](https://github.com/symfony/symfony-docs/pull/19543) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19542) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
+- ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in ConfigCache](https://github.com/symfony/symfony-docs/pull/19543) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
+- ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19542) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-open.svg) [[Security] add CAS 2.0 AccessToken handler](https://github.com/symfony/symfony-docs/pull/19538) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Security] Update CAS 2.0 AccessTokenHandler changelog version](https://github.com/symfony/symfony/pull/53871) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
