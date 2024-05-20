@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19899) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19898) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Fix singular phpdoc](https://github.com/symfony/symfony/pull/56828) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Fix CharsetValidator with string encoding](https://github.com/symfony/symfony/pull/56827) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [Fix README.md example](https://github.com/thephpleague/html-to-markdown/pull/251) on [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) (5 days ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Fix `EnsureGithubDirectiveStartWithPrefix` rule with named directive](https://github.com/OskarStark/doctor-rst/pull/1676) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
 - ![](./assets/pr-merged.svg) [Update PR link phpdoc_array_type](https://github.com/ergebnis/php-cs-fixer-config/pull/1024) on [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) (2 months ago)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19548) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
-- ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in ConfigCache](https://github.com/symfony/symfony-docs/pull/19543) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
-- ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19542) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 
 #### 📫 How to reach me
 
