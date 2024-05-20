@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix singular phpdoc](https://github.com/symfony/symfony/pull/56828) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [Fix CharsetValidator with string encoding](https://github.com/symfony/symfony/pull/56827) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [Fix README.md example](https://github.com/thephpleague/html-to-markdown/pull/251) on [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) (5 days ago)
 - ![](./assets/pr-merged.svg) [[Security] Add support for dynamic CSRF id with Expression in `#[IsCsrfTokenValid]`](https://github.com/symfony/symfony-docs/pull/19870) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19548) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Config] Allow custom meta location in ConfigCache](https://github.com/symfony/symfony-docs/pull/19543) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-merged.svg) [Minor: remove duplicated lines](https://github.com/symfony/symfony-docs/pull/19542) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
-- ![](./assets/pr-open.svg) [[Security] add CAS 2.0 AccessToken handler](https://github.com/symfony/symfony-docs/pull/19538) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 
 #### 📫 How to reach me
 
