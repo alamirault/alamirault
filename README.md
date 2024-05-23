@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-open.svg) [[Stopwatch] Add getLastPeriod method to StopwatchEvent](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Stopwatch] Add `ROOT` constant to make it easier to reference](https://github.com/symfony/symfony-docs/pull/19912) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-open.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
+- ![](./assets/pr-merged.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19899) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19898) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [Fix singular phpdoc](https://github.com/symfony/symfony/pull/56828) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
