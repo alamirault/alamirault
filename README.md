@@ -2,14 +2,14 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Prepare 7.2 branch](https://github.com/symfony/symfony-docs/pull/19915) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Stopwatch] Add `getLastPeriodà method to `StopwatchEvent`](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Stopwatch] Add `ROOT` constant to make it easier to reference](https://github.com/symfony/symfony-docs/pull/19912) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19899) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19898) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [Fix singular phpdoc](https://github.com/symfony/symfony/pull/56828) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
-- ![](./assets/pr-merged.svg) [Fix CharsetValidator with string encoding](https://github.com/symfony/symfony/pull/56827) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-open.svg) [Prepare 7.2 branch](https://github.com/symfony/symfony-docs/pull/19915) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Stopwatch] Add `getLastPeriodà method to `StopwatchEvent`](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Stopwatch] Add `ROOT` constant to make it easier to reference](https://github.com/symfony/symfony-docs/pull/19912) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
+- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19899) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19898) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [Fix singular phpdoc](https://github.com/symfony/symfony/pull/56828) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-merged.svg) [Fix CharsetValidator with string encoding](https://github.com/symfony/symfony/pull/56827) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-merged.svg) [Fix README.md example](https://github.com/thephpleague/html-to-markdown/pull/251) on [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Security] Add support for dynamic CSRF id with Expression in `#[IsCsrfTokenValid]`](https://github.com/symfony/symfony-docs/pull/19870) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Routing] Add `{foo:bar}` syntax to define a mapping between a route parameter and its corresponding request attribute](https://github.com/symfony/symfony-docs/pull/19869) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
