@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Emoji] Add the text locale](https://github.com/symfony/symfony-docs/pull/19919) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.61.1](https://github.com/symfony/symfony-docs/pull/19917) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Prepare 7.2 branch](https://github.com/symfony/symfony-docs/pull/19915) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Stopwatch] Add `getLastPeriodà method to `StopwatchEvent`](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.59.0](https://github.com/symfony/symfony-docs/pull/19734) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle][HttpClient] Add ThrottlingHttpClient](https://github.com/symfony/symfony-docs/pull/19729) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] Update internal phpdoc](https://github.com/symfony/symfony/pull/54460) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Emoji] Update slack data](https://github.com/symfony/symfony/pull/54450) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
