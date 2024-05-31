@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Console] Improve `AsCommand` DX for simple arguments and options](https://github.com/symfony/symfony/pull/57225) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-merged.svg) [[Emoji] Add the text locale](https://github.com/symfony/symfony-docs/pull/19919) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [Use Doctor RST 1.61.1](https://github.com/symfony/symfony-docs/pull/19917) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
-- ![](./assets/pr-open.svg) [Prepare 7.2 branch](https://github.com/symfony/symfony-docs/pull/19915) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-open.svg) [[Console] Improve `AsCommand` DX for simple arguments and options](https://github.com/symfony/symfony/pull/57225) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-merged.svg) [[Emoji] Add the text locale](https://github.com/symfony/symfony-docs/pull/19919) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [Use Doctor RST 1.61.1](https://github.com/symfony/symfony-docs/pull/19917) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-open.svg) [Prepare 7.2 branch](https://github.com/symfony/symfony-docs/pull/19915) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Stopwatch] Add `getLastPeriodà method to `StopwatchEvent`](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Stopwatch] Add `ROOT` constant to make it easier to reference](https://github.com/symfony/symfony-docs/pull/19912) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
