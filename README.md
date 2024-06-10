@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix endpoint in subresource guide](https://github.com/api-platform/core/pull/6420) on [api-platform/core](https://github.com/api-platform/core) (today)
 - ![](./assets/pr-open.svg) [[DependencyInjection] Fix ternary in `AutowireCallable` attribute](https://github.com/symfony/symfony/pull/57310) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-open.svg) [[Console] Improve `AsCommand` DX for simple arguments and options](https://github.com/symfony/symfony/pull/57225) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the text locale](https://github.com/symfony/symfony-docs/pull/19919) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Fix french translation](https://github.com/symfony/symfony/pull/54708) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix Github annotation for rule TitleUnderlineLengthMustMatchTitleLength](https://github.com/OskarStark/doctor-rst/pull/1705) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the gitlab locale](https://github.com/symfony/symfony-docs/pull/19736) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [Use Doctor RST 1.59.0](https://github.com/symfony/symfony-docs/pull/19734) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
