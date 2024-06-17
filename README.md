@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix broken link example in README.md](https://github.com/i18next/i18next-multiload-backend-adapter/pull/9) on [i18next/i18next-multiload-backend-adapter](https://github.com/i18next/i18next-multiload-backend-adapter) (today)
 - ![](./assets/pr-merged.svg) [[Translation] Add link translation provider](https://github.com/symfony/symfony-docs/pull/19962) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [Fix endpoint in subresource guide](https://github.com/api-platform/core/pull/6420) on [api-platform/core](https://github.com/api-platform/core) (1 week ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix ternary in `AutowireCallable` attribute](https://github.com/symfony/symfony/pull/57310) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [[Routing] Add `{foo:bar}` syntax to define a mapping between a route parameter and its corresponding request attribute](https://github.com/symfony/symfony-docs/pull/19869) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix typo on &#34;Test your API&#34; guide page](https://github.com/api-platform/core/pull/6351) on [api-platform/core](https://github.com/api-platform/core) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix french translation](https://github.com/symfony/symfony/pull/54708) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix Github annotation for rule TitleUnderlineLengthMustMatchTitleLength](https://github.com/OskarStark/doctor-rst/pull/1705) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
 
 #### 📫 How to reach me
 
