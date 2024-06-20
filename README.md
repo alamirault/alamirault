@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add trait for compatibility with 3.59.2 and 3.59.3](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/14) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (today)
 - ![](./assets/pr-merged.svg) [Fix broken link example in README.md](https://github.com/i18next/i18next-multiload-backend-adapter/pull/9) on [i18next/i18next-multiload-backend-adapter](https://github.com/i18next/i18next-multiload-backend-adapter) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Translation] Add link translation provider](https://github.com/symfony/symfony-docs/pull/19962) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix endpoint in subresource guide](https://github.com/api-platform/core/pull/6420) on [api-platform/core](https://github.com/api-platform/core) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Security] Add support for dynamic CSRF id with Expression in `#[IsCsrfTokenValid]`](https://github.com/symfony/symfony-docs/pull/19870) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-open.svg) [[Routing] Add `{foo:bar}` syntax to define a mapping between a route parameter and its corresponding request attribute](https://github.com/symfony/symfony-docs/pull/19869) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix typo on &#34;Test your API&#34; guide page](https://github.com/api-platform/core/pull/6351) on [api-platform/core](https://github.com/api-platform/core) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix french translation](https://github.com/symfony/symfony/pull/54708) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 
 #### 📫 How to reach me
 
