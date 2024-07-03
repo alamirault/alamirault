@@ -21,7 +21,7 @@
 - ![](./assets/pr-merged.svg) [Fix README.md example](https://github.com/thephpleague/html-to-markdown/pull/251) on [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Security] Add support for dynamic CSRF id with Expression in `#[IsCsrfTokenValid]`](https://github.com/symfony/symfony-docs/pull/19870) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-open.svg) [[Routing] Add `{foo:bar}` syntax to define a mapping between a route parameter and its corresponding request attribute](https://github.com/symfony/symfony-docs/pull/19869) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix typo on &#34;Test your API&#34; guide page](https://github.com/api-platform/core/pull/6351) on [api-platform/core](https://github.com/api-platform/core) (1 month ago)
+- ![](./assets/pr-merged.svg) [Fix typo on &#34;Test your API&#34; guide page](https://github.com/api-platform/core/pull/6351) on [api-platform/core](https://github.com/api-platform/core) (2 months ago)
 
 #### 📫 How to reach me
 
