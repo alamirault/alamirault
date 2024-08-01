@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Update push-webhook.mdx](https://github.com/novuhq/docs/pull/657) on [novuhq/docs](https://github.com/novuhq/docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Update push-webhook.mdx](https://github.com/novuhq/docs/pull/657) on [novuhq/docs](https://github.com/novuhq/docs) (1 day ago)
 - ![](./assets/pr-open.svg) [Update nullable.rst](https://github.com/janephp/janephp/pull/824) on [janephp/janephp](https://github.com/janephp/janephp) (1 day ago)
 - ![](./assets/pr-closed.svg) [Update nullable.rst](https://github.com/janephp/documentation/pull/14) on [janephp/documentation](https://github.com/janephp/documentation) (1 day ago)
 - ![](./assets/pr-merged.svg) [Add trait for compatibility with 3.59.2 and 3.59.3](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/14) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (1 month ago)
