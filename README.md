@@ -7,7 +7,7 @@
 - ![](./assets/pr-closed.svg) [Update nullable.rst](https://github.com/janephp/documentation/pull/14) on [janephp/documentation](https://github.com/janephp/documentation) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add trait for compatibility with 3.59.2 and 3.59.3](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/14) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix broken link example in README.md](https://github.com/i18next/i18next-multiload-backend-adapter/pull/9) on [i18next/i18next-multiload-backend-adapter](https://github.com/i18next/i18next-multiload-backend-adapter) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Translation] Add link translation provider](https://github.com/symfony/symfony-docs/pull/19962) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
+- ![](./assets/pr-merged.svg) [[Translation] Add link translation provider](https://github.com/symfony/symfony-docs/pull/19962) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [Fix endpoint in subresource guide](https://github.com/api-platform/core/pull/6420) on [api-platform/core](https://github.com/api-platform/core) (2 months ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix ternary in `AutowireCallable` attribute](https://github.com/symfony/symfony/pull/57310) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-open.svg) [[Console] Improve `AsCommand` DX for simple arguments and options](https://github.com/symfony/symfony/pull/57225) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
