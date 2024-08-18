@@ -17,10 +17,10 @@
 - ![](./assets/pr-merged.svg) [[Stopwatch] Add `getLastPeriodà method to `StopwatchEvent`](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Stopwatch] Add `ROOT` constant to make it easier to reference](https://github.com/symfony/symfony-docs/pull/19912) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
-- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19899) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19898) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [Fix singular phpdoc](https://github.com/symfony/symfony/pull/56828) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-merged.svg) [Fix CharsetValidator with string encoding](https://github.com/symfony/symfony/pull/56827) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
+- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19899) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
+- ![](./assets/pr-merged.svg) [Remove redundant parenthesis on attribute](https://github.com/symfony/symfony-docs/pull/19898) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
+- ![](./assets/pr-merged.svg) [Fix singular phpdoc](https://github.com/symfony/symfony/pull/56828) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
+- ![](./assets/pr-merged.svg) [Fix CharsetValidator with string encoding](https://github.com/symfony/symfony/pull/56827) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - ![](./assets/pr-merged.svg) [Fix README.md example](https://github.com/thephpleague/html-to-markdown/pull/251) on [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) (3 months ago)
 
 #### 📫 How to reach me
