@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/kenchan0130/docker-simplesamlphp/pull/72) on [kenchan0130/docker-simplesamlphp](https://github.com/kenchan0130/docker-simplesamlphp) (today)
-- ![](./assets/pr-open.svg) [Replace strict by stay in login documentation](https://github.com/SAML-Toolkits/php-saml/pull/595) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 day ago)
+- ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/kenchan0130/docker-simplesamlphp/pull/72) on [kenchan0130/docker-simplesamlphp](https://github.com/kenchan0130/docker-simplesamlphp) (1 day ago)
+- ![](./assets/pr-open.svg) [Replace strict by stay in login documentation](https://github.com/SAML-Toolkits/php-saml/pull/595) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 days ago)
 - ![](./assets/pr-merged.svg) [Update push-webhook.mdx](https://github.com/novuhq/docs/pull/657) on [novuhq/docs](https://github.com/novuhq/docs) (1 month ago)
 - ![](./assets/pr-open.svg) [Update nullable.rst](https://github.com/janephp/janephp/pull/824) on [janephp/janephp](https://github.com/janephp/janephp) (1 month ago)
 - ![](./assets/pr-closed.svg) [Update nullable.rst](https://github.com/janephp/documentation/pull/14) on [janephp/documentation](https://github.com/janephp/documentation) (1 month ago)
