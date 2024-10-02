@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/kenchan0130/docker-simplesamlphp/pull/72) on [kenchan0130/docker-simplesamlphp](https://github.com/kenchan0130/docker-simplesamlphp) (1 week ago)
-- ![](./assets/pr-merged.svg) [Replace strict by stay in login documentation](https://github.com/SAML-Toolkits/php-saml/pull/595) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 week ago)
+- ![](./assets/pr-merged.svg) [Replace strict by stay in login documentation](https://github.com/SAML-Toolkits/php-saml/pull/595) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Update push-webhook.mdx](https://github.com/novuhq/docs/pull/657) on [novuhq/docs](https://github.com/novuhq/docs) (2 months ago)
 - ![](./assets/pr-open.svg) [Update nullable.rst](https://github.com/janephp/janephp/pull/824) on [janephp/janephp](https://github.com/janephp/janephp) (2 months ago)
 - ![](./assets/pr-closed.svg) [Update nullable.rst](https://github.com/janephp/documentation/pull/14) on [janephp/documentation](https://github.com/janephp/documentation) (2 months ago)
@@ -11,7 +11,7 @@
 - ![](./assets/pr-merged.svg) [Fix broken link example in README.md](https://github.com/i18next/i18next-multiload-backend-adapter/pull/9) on [i18next/i18next-multiload-backend-adapter](https://github.com/i18next/i18next-multiload-backend-adapter) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Translation] Add link translation provider](https://github.com/symfony/symfony-docs/pull/19962) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-merged.svg) [Fix endpoint in subresource guide](https://github.com/api-platform/core/pull/6420) on [api-platform/core](https://github.com/api-platform/core) (3 months ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix ternary in `AutowireCallable` attribute](https://github.com/symfony/symfony/pull/57310) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
+- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix ternary in `AutowireCallable` attribute](https://github.com/symfony/symfony/pull/57310) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - ![](./assets/pr-open.svg) [[Console] Improve `AsCommand` DX for simple arguments and options](https://github.com/symfony/symfony/pull/57225) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the text locale](https://github.com/symfony/symfony-docs/pull/19919) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.61.1](https://github.com/symfony/symfony-docs/pull/19917) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
