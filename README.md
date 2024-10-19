@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Serializer] Rename annotations to attributes in `AttributeLoader`](https://github.com/symfony/symfony/pull/58585) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- ![](./assets/pr-open.svg) [[Routing] Rename annotations to attribute in `AttributeClassLoader`](https://github.com/symfony/symfony/pull/58584) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[Serializer] Rename annotations to attributes in `AttributeLoader`](https://github.com/symfony/symfony/pull/58585) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- ![](./assets/pr-open.svg) [[Routing] Rename annotations to attribute in `AttributeClassLoader`](https://github.com/symfony/symfony/pull/58584) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Lock] Add NullStore](https://github.com/symfony/symfony-docs/pull/20315) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/kenchan0130/docker-simplesamlphp/pull/72) on [kenchan0130/docker-simplesamlphp](https://github.com/kenchan0130/docker-simplesamlphp) (4 weeks ago)
+- ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/kenchan0130/docker-simplesamlphp/pull/72) on [kenchan0130/docker-simplesamlphp](https://github.com/kenchan0130/docker-simplesamlphp) (1 month ago)
 - ![](./assets/pr-merged.svg) [Replace strict by stay in login documentation](https://github.com/SAML-Toolkits/php-saml/pull/595) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 month ago)
 - ![](./assets/pr-merged.svg) [Update push-webhook.mdx](https://github.com/novuhq/docs/pull/657) on [novuhq/docs](https://github.com/novuhq/docs) (2 months ago)
 - ![](./assets/pr-open.svg) [Update nullable.rst](https://github.com/janephp/janephp/pull/824) on [janephp/janephp](https://github.com/janephp/janephp) (2 months ago)
@@ -19,9 +19,9 @@
 - ![](./assets/pr-merged.svg) [[Emoji] Add the text locale](https://github.com/symfony/symfony-docs/pull/19919) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
 - ![](./assets/pr-merged.svg) [Use Doctor RST 1.61.1](https://github.com/symfony/symfony-docs/pull/19917) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
 - ![](./assets/pr-merged.svg) [Prepare 7.2 branch](https://github.com/symfony/symfony-docs/pull/19915) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [[Stopwatch] Add `getLastPeriodà method to `StopwatchEvent`](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [[Stopwatch] Add `ROOT` constant to make it easier to reference](https://github.com/symfony/symfony-docs/pull/19912) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 months ago)
+- ![](./assets/pr-merged.svg) [[Stopwatch] Add `getLastPeriodà method to `StopwatchEvent`](https://github.com/symfony/symfony-docs/pull/19913) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 months ago)
+- ![](./assets/pr-merged.svg) [[Stopwatch] Add `ROOT` constant to make it easier to reference](https://github.com/symfony/symfony-docs/pull/19912) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 months ago)
+- ![](./assets/pr-merged.svg) [New Rule: Ensure there is no redundant parenthesis on attribute](https://github.com/OskarStark/doctor-rst/pull/1742) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 months ago)
 
 #### 📫 How to reach me
 
