@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix typo and unused import](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute/pull/1) on [GregoireHebert/circuit-breaker-ganesha-attribute](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute) (3 days ago)
+- ![](./assets/pr-open.svg) [Fix typo and unused import](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute/pull/1) on [GregoireHebert/circuit-breaker-ganesha-attribute](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute) (4 days ago)
 - ![](./assets/pr-open.svg) [Rename annotations to attributes in `AttributeLoader`](https://github.com/symfony/symfony/pull/58585) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-open.svg) [[Routing] Rename annotations to attribute in `AttributeClassLoader`](https://github.com/symfony/symfony/pull/58584) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Lock] Add NullStore](https://github.com/symfony/symfony-docs/pull/20315) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
