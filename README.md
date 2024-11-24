@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Symfony 7.2] Add SetLList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - ![](./assets/pr-open.svg) [[WIP] Enhancement: Require PHP `8.4`](https://github.com/OskarStark/doctor-rst/pull/1886) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [[Routing] Add example of Requirement enum](https://github.com/symfony/symfony-docs/pull/20409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Replace annotation to attribute in form unit testing comment](https://github.com/symfony/symfony-docs/pull/20408) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Fix ternary in `AutowireCallable` attribute](https://github.com/symfony/symfony/pull/57310) on [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
 - ![](./assets/pr-open.svg) [[Console] Improve `AsCommand` DX for simple arguments and options](https://github.com/symfony/symfony/pull/57225) on [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
 - ![](./assets/pr-merged.svg) [[Emoji] Add the text locale](https://github.com/symfony/symfony-docs/pull/19919) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 months ago)
-- ![](./assets/pr-merged.svg) [Use Doctor RST 1.61.1](https://github.com/symfony/symfony-docs/pull/19917) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 months ago)
 
 #### 📫 How to reach me
 
