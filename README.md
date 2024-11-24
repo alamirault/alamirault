@@ -2,7 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (today)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (today)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (today)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (today)
+- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (today)
 - ![](./assets/pr-open.svg) [[WIP] Upgrade to symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-open.svg) [[Symfony 7.2] Add SetList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - ![](./assets/pr-open.svg) [[WIP] Enhancement: Require PHP `8.4`](https://github.com/OskarStark/doctor-rst/pull/1886) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-closed.svg) [Update nullable.rst](https://github.com/janephp/documentation/pull/14) on [janephp/documentation](https://github.com/janephp/documentation) (3 months ago)
 - ![](./assets/pr-merged.svg) [Add trait for compatibility with 3.59.2 and 3.59.3](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/14) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (5 months ago)
 - ![](./assets/pr-merged.svg) [Fix broken link example in README.md](https://github.com/i18next/i18next-multiload-backend-adapter/pull/9) on [i18next/i18next-multiload-backend-adapter](https://github.com/i18next/i18next-multiload-backend-adapter) (5 months ago)
-- ![](./assets/pr-merged.svg) [[Translation] Add link translation provider](https://github.com/symfony/symfony-docs/pull/19962) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 months ago)
-- ![](./assets/pr-merged.svg) [Fix endpoint in subresource guide](https://github.com/api-platform/core/pull/6420) on [api-platform/core](https://github.com/api-platform/core) (5 months ago)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Fix ternary in `AutowireCallable` attribute](https://github.com/symfony/symfony/pull/57310) on [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
 
 #### 📫 How to reach me
 
