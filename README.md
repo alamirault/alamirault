@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/SAML-Toolkits/php-saml/pull/601) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (today)
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/myclabs/DeepCopy/pull/198) on [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) (2 days ago)
 - ![](./assets/pr-closed.svg) [Run tests on PHP 8.4](https://github.com/alamirault/DeepCopy/pull/1) on [alamirault/DeepCopy](https://github.com/alamirault/DeepCopy) (2 days ago)
 - ![](./assets/pr-closed.svg) [Feature/add tests php 84](https://github.com/alamirault/php-cs-fixer-custom-fixers/pull/1) on [alamirault/php-cs-fixer-custom-fixers](https://github.com/alamirault/php-cs-fixer-custom-fixers) (2 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/kenchan0130/docker-simplesamlphp/pull/72) on [kenchan0130/docker-simplesamlphp](https://github.com/kenchan0130/docker-simplesamlphp) (2 months ago)
 - ![](./assets/pr-merged.svg) [Replace strict by stay in login documentation](https://github.com/SAML-Toolkits/php-saml/pull/595) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 months ago)
 - ![](./assets/pr-merged.svg) [Update push-webhook.mdx](https://github.com/novuhq/docs/pull/657) on [novuhq/docs](https://github.com/novuhq/docs) (3 months ago)
-- ![](./assets/pr-open.svg) [Update nullable.rst](https://github.com/janephp/janephp/pull/824) on [janephp/janephp](https://github.com/janephp/janephp) (3 months ago)
 
 #### 📫 How to reach me
 
