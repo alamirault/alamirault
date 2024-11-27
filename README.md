@@ -12,7 +12,7 @@
 - ![](./assets/pr-open.svg) [[WIP] Upgrade to symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Symfony 7.2] Add SetList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
 - ![](./assets/pr-open.svg) [[WIP] Enhancement: Require PHP `8.4`](https://github.com/OskarStark/doctor-rst/pull/1886) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- ![](./assets/pr-open.svg) [[Routing] Add example of Requirement enum](https://github.com/symfony/symfony-docs/pull/20409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Routing] Add example of Requirement enum](https://github.com/symfony/symfony-docs/pull/20409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [Replace annotation to attribute in form unit testing comment](https://github.com/symfony/symfony-docs/pull/20408) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-open.svg) [Fix typo and unused import](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute/pull/1) on [GregoireHebert/circuit-breaker-ganesha-attribute](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Rename annotations to attributes in `AttributeLoader`](https://github.com/symfony/symfony/pull/58585) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
