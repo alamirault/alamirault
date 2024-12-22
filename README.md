@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[JsonEncoder] Reuse decodeString in NativeDecoder](https://github.com/symfony/symfony/pull/59203) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Replace http by https](https://github.com/alamirault/fftt-api-src/pull/21) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix typo in README.md](https://github.com/SAML-Toolkits/php-saml/pull/601) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (3 weeks ago)
@@ -12,7 +13,7 @@
 - ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (4 weeks ago)
 - ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (4 weeks ago)
-- ![](./assets/pr-open.svg) [Require Symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 weeks ago)
+- ![](./assets/pr-closed.svg) [Require Symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Symfony 7.2] Add SetList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (4 weeks ago)
 - ![](./assets/pr-open.svg) [[WIP] Enhancement: Require PHP `8.4`](https://github.com/OskarStark/doctor-rst/pull/1886) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Routing] Add example of Requirement enum](https://github.com/symfony/symfony-docs/pull/20409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Rename annotations to attributes in `AttributeLoader`](https://github.com/symfony/symfony/pull/58585) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Routing] Rename annotations to attribute in `AttributeClassLoader`](https://github.com/symfony/symfony/pull/58584) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Lock] Add NullStore](https://github.com/symfony/symfony-docs/pull/20315) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-open.svg) [Fix typo in README.md](https://github.com/kenchan0130/docker-simplesamlphp/pull/72) on [kenchan0130/docker-simplesamlphp](https://github.com/kenchan0130/docker-simplesamlphp) (3 months ago)
 
 #### 📫 How to reach me
 
