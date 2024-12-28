@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-open.svg) [Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [[JsonEncoder] Reuse decodeString in NativeDecoder](https://github.com/symfony/symfony/pull/59203) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Replace http by https](https://github.com/alamirault/fftt-api-src/pull/21) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix typo in README.md](https://github.com/SAML-Toolkits/php-saml/pull/601) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 month ago)
