@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[OptionsResolver] Support union of types](https://github.com/symfony/symfony-docs/pull/20537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [[Mailer] Add missing retry_period DSN option](https://github.com/symfony/symfony/pull/59380) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-closed.svg) [[OptionsResolver] Support union of types](https://github.com/symfony/symfony-docs/pull/20537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Mailer] Add missing `retry_period` DSN option](https://github.com/symfony/symfony/pull/59380) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-open.svg) [[Mailer] Add `retry_period` option for email transport](https://github.com/symfony/symfony-docs/pull/20535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[PropertyInfo] Add `PropertyDescriptionExtractorInterface` to `PhpStanExtractor`](https://github.com/symfony/symfony-docs/pull/20534) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Validator] Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
