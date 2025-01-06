@@ -2,6 +2,9 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[OptionsResolver] Support union of types](https://github.com/symfony/symfony-docs/pull/20537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Mailer] Add missing retry_period DSN option](https://github.com/symfony/symfony/pull/59380) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [[Mailer] Add `retry_period` option for email transport](https://github.com/symfony/symfony-docs/pull/20535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[PropertyInfo] Add `PropertyDescriptionExtractorInterface` to `PhpStanExtractor`](https://github.com/symfony/symfony-docs/pull/20534) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Validator] Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[JsonEncoder] Reuse decodeString in NativeDecoder](https://github.com/symfony/symfony/pull/59203) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-open.svg) [[WIP] Enhancement: Require PHP `8.4`](https://github.com/OskarStark/doctor-rst/pull/1886) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Routing] Add example of Requirement enum](https://github.com/symfony/symfony-docs/pull/20409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Replace annotation to attribute in form unit testing comment](https://github.com/symfony/symfony-docs/pull/20408) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-open.svg) [Fix typo and unused import](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute/pull/1) on [GregoireHebert/circuit-breaker-ganesha-attribute](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute) (2 months ago)
-- ![](./assets/pr-merged.svg) [Rename annotations to attributes in `AttributeLoader`](https://github.com/symfony/symfony/pull/58585) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Routing] Rename annotations to attribute in `AttributeClassLoader`](https://github.com/symfony/symfony/pull/58584) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### 📫 How to reach me
 
