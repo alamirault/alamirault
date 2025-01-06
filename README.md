@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[PropertyInfo] Add `PropertyDescriptionExtractorInterface` to `PhpStanExtractor`](https://github.com/symfony/symfony-docs/pull/20534) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Validator] Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[JsonEncoder] Reuse decodeString in NativeDecoder](https://github.com/symfony/symfony/pull/59203) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Replace http by https](https://github.com/alamirault/fftt-api-src/pull/21) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 month ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [Fix typo and unused import](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute/pull/1) on [GregoireHebert/circuit-breaker-ganesha-attribute](https://github.com/GregoireHebert/circuit-breaker-ganesha-attribute) (2 months ago)
 - ![](./assets/pr-merged.svg) [Rename annotations to attributes in `AttributeLoader`](https://github.com/symfony/symfony/pull/58585) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Routing] Rename annotations to attribute in `AttributeClassLoader`](https://github.com/symfony/symfony/pull/58584) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Lock] Add NullStore](https://github.com/symfony/symfony-docs/pull/20315) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
