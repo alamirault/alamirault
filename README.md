@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-closed.svg) [[OptionsResolver] Support union of types](https://github.com/symfony/symfony-docs/pull/20537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Mailer] Add missing `retry_period` DSN option](https://github.com/symfony/symfony/pull/59380) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- ![](./assets/pr-open.svg) [[Mailer] Add `retry_period` option for email transport](https://github.com/symfony/symfony-docs/pull/20535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Mailer] Add `retry_period` option for email transport](https://github.com/symfony/symfony-docs/pull/20535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[PropertyInfo] Add `PropertyDescriptionExtractorInterface` to `PhpStanExtractor`](https://github.com/symfony/symfony-docs/pull/20534) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Validator] Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[JsonEncoder] Reuse decodeString in NativeDecoder](https://github.com/symfony/symfony/pull/59203) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
