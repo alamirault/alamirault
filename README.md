@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[OptionsResolver] Add missing support of union type in changelog](https://github.com/symfony/symfony/pull/59483) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-closed.svg) [[OptionsResolver] Support union of types](https://github.com/symfony/symfony-docs/pull/20537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Add missing `retry_period` DSN option](https://github.com/symfony/symfony/pull/59380) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Mailer] Add `retry_period` option for email transport](https://github.com/symfony/symfony-docs/pull/20535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Symfony 7.2] Add SetList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 month ago)
 - ![](./assets/pr-open.svg) [[WIP] Enhancement: Require PHP `8.4`](https://github.com/OskarStark/doctor-rst/pull/1886) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Routing] Add example of Requirement enum](https://github.com/symfony/symfony-docs/pull/20409) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Replace annotation to attribute in form unit testing comment](https://github.com/symfony/symfony-docs/pull/20408) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
