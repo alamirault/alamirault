@@ -17,7 +17,7 @@
 - ![](./assets/pr-closed.svg) [Feature/add tests php 84](https://github.com/alamirault/php-cs-fixer-custom-fixers/pull/1) on [alamirault/php-cs-fixer-custom-fixers](https://github.com/alamirault/php-cs-fixer-custom-fixers) (1 month ago)
 - ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (1 month ago)
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (1 month ago)
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php-legacy/pull/74) on [novuhq/novu-php-legacy](https://github.com/novuhq/novu-php-legacy) (1 month ago)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (1 month ago)
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (1 month ago)
 - ![](./assets/pr-closed.svg) [Require Symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Symfony 7.2] Add SetList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 month ago)
