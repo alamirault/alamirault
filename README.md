@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix windows build](https://github.com/alamirault/joking-jira-chrome-extension/pull/4) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (1 day ago)
+- ![](./assets/pr-open.svg) [Fix windows build](https://github.com/alamirault/joking-jira-chrome-extension/pull/4) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (2 days ago)
 - ![](./assets/pr-merged.svg) [Remove build spelling world list](https://github.com/symfony/symfony-docs/pull/20563) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[OptionsResolver] Add missing support of union type in changelog](https://github.com/symfony/symfony/pull/59483) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-closed.svg) [[OptionsResolver] Support union of types](https://github.com/symfony/symfony-docs/pull/20537) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -16,12 +16,12 @@
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/myclabs/DeepCopy/pull/198) on [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) (1 month ago)
 - ![](./assets/pr-closed.svg) [Run tests on PHP 8.4](https://github.com/alamirault/DeepCopy/pull/1) on [alamirault/DeepCopy](https://github.com/alamirault/DeepCopy) (1 month ago)
 - ![](./assets/pr-closed.svg) [Feature/add tests php 84](https://github.com/alamirault/php-cs-fixer-custom-fixers/pull/1) on [alamirault/php-cs-fixer-custom-fixers](https://github.com/alamirault/php-cs-fixer-custom-fixers) (1 month ago)
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (1 month ago)
-- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (1 month ago)
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (1 month ago)
-- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (1 month ago)
-- ![](./assets/pr-closed.svg) [Require Symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Symfony 7.2] Add SetList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 month ago)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (2 months ago)
+- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (2 months ago)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (2 months ago)
+- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (2 months ago)
+- ![](./assets/pr-closed.svg) [Require Symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
+- ![](./assets/pr-merged.svg) [[Symfony 7.2] Add SetList](https://github.com/rectorphp/rector-symfony/pull/684) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 months ago)
 
 #### 📫 How to reach me
 
