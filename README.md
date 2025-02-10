@@ -10,7 +10,7 @@
 - ![](./assets/pr-merged.svg) [[Mailer] Add `retry_period` option for email transport](https://github.com/symfony/symfony-docs/pull/20535) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[PropertyInfo] Add `PropertyDescriptionExtractorInterface` to `PhpStanExtractor`](https://github.com/symfony/symfony-docs/pull/20534) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] Constraints cache with private properties](https://github.com/symfony/symfony-docs/pull/20488) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[JsonEncoder] Reuse decodeString in NativeDecoder](https://github.com/symfony/symfony/pull/59203) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
+- ![](./assets/pr-merged.svg) [[JsonEncoder] Reuse decodeString in NativeDecoder](https://github.com/symfony/symfony/pull/59203) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [Replace http by https](https://github.com/alamirault/fftt-api-src/pull/21) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (2 months ago)
 - ![](./assets/pr-merged.svg) [Fix typo in README.md](https://github.com/SAML-Toolkits/php-saml/pull/601) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 months ago)
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/myclabs/DeepCopy/pull/198) on [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) (2 months ago)
