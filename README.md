@@ -17,11 +17,11 @@
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/myclabs/DeepCopy/pull/198) on [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) (2 months ago)
 - ![](./assets/pr-closed.svg) [Run tests on PHP 8.4](https://github.com/alamirault/DeepCopy/pull/1) on [alamirault/DeepCopy](https://github.com/alamirault/DeepCopy) (2 months ago)
 - ![](./assets/pr-closed.svg) [Feature/add tests php 84](https://github.com/alamirault/php-cs-fixer-custom-fixers/pull/1) on [alamirault/php-cs-fixer-custom-fixers](https://github.com/alamirault/php-cs-fixer-custom-fixers) (2 months ago)
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (2 months ago)
-- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (2 months ago)
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (2 months ago)
-- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (2 months ago)
-- ![](./assets/pr-closed.svg) [Require Symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (3 months ago)
+- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (3 months ago)
+- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (3 months ago)
+- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/hamcrest/hamcrest-php/pull/84) on [hamcrest/hamcrest-php](https://github.com/hamcrest/hamcrest-php) (3 months ago)
+- ![](./assets/pr-closed.svg) [Require Symfony 7.2](https://github.com/OskarStark/doctor-rst/pull/1887) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 months ago)
 
 #### 📫 How to reach me
 
