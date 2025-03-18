@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Replace TaggedIterator and TaggedLocator by Au*towireIterator and AutowireLocator](https://github.com/symfony/symfony-docs/pull/20775) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Serializer] Add SnakeCaseToCamelCaseNameConverter](https://github.com/symfony/symfony-docs/pull/20774) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Yaml] Add the `Yaml::DUMP_FORCE_DOUBLE_QUOTES_ON_VALUES` flag to enforce double quotes around string values](https://github.com/symfony/symfony-docs/pull/20758) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [Add Twig `field_id()` form helper](https://github.com/symfony/symfony-docs/pull/20757) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [Fix manifest filename case](https://github.com/alamirault/joking-jira-chrome-extension/pull/5) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (1 month ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-closed.svg) [Run tests on PHP 8.4](https://github.com/alamirault/DeepCopy/pull/1) on [alamirault/DeepCopy](https://github.com/alamirault/DeepCopy) (3 months ago)
 - ![](./assets/pr-closed.svg) [Feature/add tests php 84](https://github.com/alamirault/php-cs-fixer-custom-fixers/pull/1) on [alamirault/php-cs-fixer-custom-fixers](https://github.com/alamirault/php-cs-fixer-custom-fixers) (3 months ago)
 - ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (3 months ago)
-- ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/ackintosh/ganesha/pull/119) on [ackintosh/ganesha](https://github.com/ackintosh/ganesha) (3 months ago)
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/novuhq/novu-php/pull/74) on [novuhq/novu-php](https://github.com/novuhq/novu-php) (3 months ago)
 
 #### 📫 How to reach me
 
