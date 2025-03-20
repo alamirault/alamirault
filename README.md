@@ -2,6 +2,9 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Serializer] Add `NumberNormalizer`](https://github.com/symfony/symfony-docs/pull/20782) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [Add support for phpclass reference with namespace](https://github.com/symfony-tools/docs-builder/pull/190) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (today)
+- ![](./assets/pr-open.svg) [[TypeInfo] Add `TypeFactoryTrait::fromValue` method](https://github.com/symfony/symfony-docs/pull/20781) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Replace `TaggedIterator` and `TaggedLocator` by `AutowireIterator` and `AutowireLocator`](https://github.com/symfony/symfony-docs/pull/20775) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Add SnakeCaseToCamelCaseNameConverter](https://github.com/symfony/symfony-docs/pull/20774) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Add the `Yaml::DUMP_FORCE_DOUBLE_QUOTES_ON_VALUES` flag to enforce double quotes around string values](https://github.com/symfony/symfony-docs/pull/20758) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [Replace http by https](https://github.com/alamirault/fftt-api-src/pull/21) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 months ago)
 - ![](./assets/pr-merged.svg) [Fix typo in README.md](https://github.com/SAML-Toolkits/php-saml/pull/601) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (3 months ago)
 - ![](./assets/pr-merged.svg) [Run tests on PHP 8.4](https://github.com/myclabs/DeepCopy/pull/198) on [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) (3 months ago)
-- ![](./assets/pr-closed.svg) [Run tests on PHP 8.4](https://github.com/alamirault/DeepCopy/pull/1) on [alamirault/DeepCopy](https://github.com/alamirault/DeepCopy) (3 months ago)
-- ![](./assets/pr-closed.svg) [Feature/add tests php 84](https://github.com/alamirault/php-cs-fixer-custom-fixers/pull/1) on [alamirault/php-cs-fixer-custom-fixers](https://github.com/alamirault/php-cs-fixer-custom-fixers) (3 months ago)
-- ![](./assets/pr-open.svg) [Run tests on PHP 8.4](https://github.com/janephp/janephp/pull/836) on [janephp/janephp](https://github.com/janephp/janephp) (3 months ago)
 
 #### 📫 How to reach me
 
