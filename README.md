@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[HttpKernel] Support Uid in `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20784) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [Document supported types `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20783) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [[Serializer] Add `NumberNormalizer`](https://github.com/symfony/symfony-docs/pull/20782) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [Add support for phpclass reference with namespace](https://github.com/symfony-tools/docs-builder/pull/190) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (today)
-- ![](./assets/pr-open.svg) [[TypeInfo] Add `TypeFactoryTrait::fromValue` method](https://github.com/symfony/symfony-docs/pull/20781) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [[DependencyInjection] Replace `TaggedIterator` and `TaggedLocator` by `AutowireIterator` and `AutowireLocator`](https://github.com/symfony/symfony-docs/pull/20775) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Add SnakeCaseToCamelCaseNameConverter](https://github.com/symfony/symfony-docs/pull/20774) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
+- ![](./assets/pr-open.svg) [[HttpKernel] Support Uid in `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20784) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Document supported types `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20783) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [[Serializer] Add `NumberNormalizer`](https://github.com/symfony/symfony-docs/pull/20782) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Add support for phpclass reference with namespace](https://github.com/symfony-tools/docs-builder/pull/190) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (1 day ago)
+- ![](./assets/pr-open.svg) [[TypeInfo] Add `TypeFactoryTrait::fromValue` method](https://github.com/symfony/symfony-docs/pull/20781) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[DependencyInjection] Replace `TaggedIterator` and `TaggedLocator` by `AutowireIterator` and `AutowireLocator`](https://github.com/symfony/symfony-docs/pull/20775) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Serializer] Add SnakeCaseToCamelCaseNameConverter](https://github.com/symfony/symfony-docs/pull/20774) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[Yaml] Add the `Yaml::DUMP_FORCE_DOUBLE_QUOTES_ON_VALUES` flag to enforce double quotes around string values](https://github.com/symfony/symfony-docs/pull/20758) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add Twig `field_id()` form helper](https://github.com/symfony/symfony-docs/pull/20757) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix manifest filename case](https://github.com/alamirault/joking-jira-chrome-extension/pull/5) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (1 month ago)
