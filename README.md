@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (today)
-- ![](./assets/pr-merged.svg) [[Scheduler] Add MessageHandler result to the PostRunEvent](https://github.com/symfony/symfony-docs/pull/20804) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-open.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (1 day ago)
+- ![](./assets/pr-merged.svg) [[Scheduler] Add MessageHandler result to the PostRunEvent](https://github.com/symfony/symfony-docs/pull/20804) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [[TypeInfo] Add missing semi colons](https://github.com/symfony/symfony-docs/pull/20788) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Support Uid in `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20784) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Document supported types `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20783) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
