@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (1 week ago)
+- ![](./assets/pr-merged.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Scheduler] Add MessageHandler result to the PostRunEvent](https://github.com/symfony/symfony-docs/pull/20804) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[TypeInfo] Add missing semi colons](https://github.com/symfony/symfony-docs/pull/20788) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[TypeInfo] Add missing semi colons](https://github.com/symfony/symfony-docs/pull/20788) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Support Uid in `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20784) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Document supported types `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20783) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Add `NumberNormalizer`](https://github.com/symfony/symfony-docs/pull/20782) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
@@ -12,8 +12,8 @@
 - ![](./assets/pr-merged.svg) [[TypeInfo] Add `TypeFactoryTrait::fromValue` method](https://github.com/symfony/symfony-docs/pull/20781) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[DependencyInjection] Replace `TaggedIterator` and `TaggedLocator` by `AutowireIterator` and `AutowireLocator`](https://github.com/symfony/symfony-docs/pull/20775) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Add SnakeCaseToCamelCaseNameConverter](https://github.com/symfony/symfony-docs/pull/20774) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [[Yaml] Add the `Yaml::DUMP_FORCE_DOUBLE_QUOTES_ON_VALUES` flag to enforce double quotes around string values](https://github.com/symfony/symfony-docs/pull/20758) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
-- ![](./assets/pr-merged.svg) [Add Twig `field_id()` form helper](https://github.com/symfony/symfony-docs/pull/20757) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [[Yaml] Add the `Yaml::DUMP_FORCE_DOUBLE_QUOTES_ON_VALUES` flag to enforce double quotes around string values](https://github.com/symfony/symfony-docs/pull/20758) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
+- ![](./assets/pr-merged.svg) [Add Twig `field_id()` form helper](https://github.com/symfony/symfony-docs/pull/20757) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix manifest filename case](https://github.com/alamirault/joking-jira-chrome-extension/pull/5) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix windows build](https://github.com/alamirault/joking-jira-chrome-extension/pull/4) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (2 months ago)
 - ![](./assets/pr-merged.svg) [Remove build spelling world list](https://github.com/symfony/symfony-docs/pull/20563) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
