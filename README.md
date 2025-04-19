@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix glamour link in README.md](https://github.com/dlvhdr/gh-dash/pull/564) on [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) (today)
+- ![](./assets/pr-merged.svg) [Fix glamour link in README.md](https://github.com/dlvhdr/gh-dash/pull/564) on [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) (today)
 - ![](./assets/pr-open.svg) [[Validator] Add `filenameCharset` and `filenameCountUnit` options to `File` constraint](https://github.com/symfony/symfony-docs/pull/20906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Scheduler] Add MessageHandler result to the PostRunEvent](https://github.com/symfony/symfony-docs/pull/20804) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
