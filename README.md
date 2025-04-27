@@ -2,11 +2,11 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Notifier] Document Notifier Mercure options in README file](https://github.com/symfony/symfony/pull/60259) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- ![](./assets/pr-open.svg) [Missing space form-data.md](https://github.com/api-platform/docs/pull/2157) on [api-platform/docs](https://github.com/api-platform/docs) (3 days ago)
+- ![](./assets/pr-open.svg) [[Notifier] Document Notifier Mercure options in README file](https://github.com/symfony/symfony/pull/60259) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-open.svg) [Missing space form-data.md](https://github.com/api-platform/docs/pull/2157) on [api-platform/docs](https://github.com/api-platform/docs) (4 days ago)
 - ![](./assets/pr-merged.svg) [Fix glamour link in README.md](https://github.com/dlvhdr/gh-dash/pull/564) on [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Validator] Add `filenameCharset` and `filenameCountUnit` options to `File` constraint](https://github.com/symfony/symfony-docs/pull/20906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- ![](./assets/pr-merged.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (4 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Scheduler] Add MessageHandler result to the PostRunEvent](https://github.com/symfony/symfony-docs/pull/20804) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[TypeInfo] Add missing semi colons](https://github.com/symfony/symfony-docs/pull/20788) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Support Uid in `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20784) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
