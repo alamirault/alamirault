@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add PHP config support for routing](https://github.com/symfony/symfony-docs/pull/20923) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [[Notifier] Document Notifier Mercure options in README file](https://github.com/symfony/symfony/pull/60259) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - ![](./assets/pr-open.svg) [Missing space form-data.md](https://github.com/api-platform/docs/pull/2157) on [api-platform/docs](https://github.com/api-platform/docs) (5 days ago)
 - ![](./assets/pr-merged.svg) [Fix glamour link in README.md](https://github.com/dlvhdr/gh-dash/pull/564) on [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) (1 week ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Fix manifest filename case](https://github.com/alamirault/joking-jira-chrome-extension/pull/5) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (2 months ago)
 - ![](./assets/pr-merged.svg) [Fix windows build](https://github.com/alamirault/joking-jira-chrome-extension/pull/4) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (3 months ago)
 - ![](./assets/pr-merged.svg) [Remove build spelling world list](https://github.com/symfony/symfony-docs/pull/20563) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
-- ![](./assets/pr-merged.svg) [[OptionsResolver] Add missing support of union type in changelog](https://github.com/symfony/symfony/pull/59483) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 
 #### 📫 How to reach me
 
