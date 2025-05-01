@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [Update Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20927) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Add PHP config support for routing](https://github.com/symfony/symfony-docs/pull/20923) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-open.svg) [[Notifier] Document Notifier Mercure options in README file](https://github.com/symfony/symfony/pull/60259) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Missing space form-data.md](https://github.com/api-platform/docs/pull/2157) on [api-platform/docs](https://github.com/api-platform/docs) (1 week ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Yaml] Add the `Yaml::DUMP_FORCE_DOUBLE_QUOTES_ON_VALUES` flag to enforce double quotes around string values](https://github.com/symfony/symfony-docs/pull/20758) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add Twig `field_id()` form helper](https://github.com/symfony/symfony-docs/pull/20757) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix manifest filename case](https://github.com/alamirault/joking-jira-chrome-extension/pull/5) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (2 months ago)
-- ![](./assets/pr-merged.svg) [Fix windows build](https://github.com/alamirault/joking-jira-chrome-extension/pull/4) on [alamirault/joking-jira-chrome-extension](https://github.com/alamirault/joking-jira-chrome-extension) (3 months ago)
-- ![](./assets/pr-merged.svg) [Remove build spelling world list](https://github.com/symfony/symfony-docs/pull/20563) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 
 #### 📫 How to reach me
 
