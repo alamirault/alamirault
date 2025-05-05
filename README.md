@@ -2,12 +2,12 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-open.svg) [Use phpunit 11 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20930) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-open.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-open.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-open.svg) [Update Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20927) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [Add PHP config support for routing](https://github.com/symfony/symfony-docs/pull/20923) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-open.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [Use phpunit 11 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20930) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-open.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-open.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-open.svg) [Update Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20927) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [Add PHP config support for routing](https://github.com/symfony/symfony-docs/pull/20923) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-open.svg) [[Notifier] Document Notifier Mercure options in README file](https://github.com/symfony/symfony/pull/60259) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [Missing space form-data.md](https://github.com/api-platform/docs/pull/2157) on [api-platform/docs](https://github.com/api-platform/docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix glamour link in README.md](https://github.com/dlvhdr/gh-dash/pull/564) on [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) (2 weeks ago)
