@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- ![](./assets/pr-merged.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
+- ![](./assets/pr-merged.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
 - ![](./assets/pr-open.svg) [Use phpunit 11 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20930) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
