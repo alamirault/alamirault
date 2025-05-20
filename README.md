@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-closed.svg) [[make:user] Dont generate `UserInterface::eraseCredentials` with symfony &gt;= 7.3](https://github.com/symfony/maker-bundle/pull/1701) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Use PHPUnit 11 in &#34;Create Framework&#34; tutorial](https://github.com/symfony/symfony-docs/pull/20930) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
@@ -16,7 +16,7 @@
 - ![](./assets/pr-merged.svg) [[Validator] Add `filenameCharset` and `filenameCountUnit` options to `File` constraint](https://github.com/symfony/symfony-docs/pull/20906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Scheduler] Add MessageHandler result to the PostRunEvent](https://github.com/symfony/symfony-docs/pull/20804) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[TypeInfo] Add missing semi colons](https://github.com/symfony/symfony-docs/pull/20788) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
+- ![](./assets/pr-merged.svg) [[TypeInfo] Add missing semi colons](https://github.com/symfony/symfony-docs/pull/20788) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Support Uid in `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20784) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Document supported types `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20783) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Add `NumberNormalizer`](https://github.com/symfony/symfony-docs/pull/20782) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
