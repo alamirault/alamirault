@@ -4,7 +4,7 @@
 
 - ![](./assets/pr-closed.svg) [[make:user] Dont generate `UserInterface::eraseCredentials` with symfony &gt;= 7.3](https://github.com/symfony/maker-bundle/pull/1701) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- ![](./assets/pr-merged.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Use PHPUnit 11 in &#34;Create Framework&#34; tutorial](https://github.com/symfony/symfony-docs/pull/20930) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
