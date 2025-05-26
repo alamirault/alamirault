@@ -9,7 +9,7 @@
 - ![](./assets/pr-merged.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Update Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20927) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-merged.svg) [Add PHP config support for routing](https://github.com/symfony/symfony-docs/pull/20923) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Add PHP config support for routing](https://github.com/symfony/symfony-docs/pull/20923) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-open.svg) [[Notifier][Mercure] Document options in README file](https://github.com/symfony/symfony/pull/60259) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Missing space form-data.md](https://github.com/api-platform/docs/pull/2157) on [api-platform/docs](https://github.com/api-platform/docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix glamour link in README.md](https://github.com/dlvhdr/gh-dash/pull/564) on [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) (1 month ago)
