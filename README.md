@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony-docs/pull/21016) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony-docs/pull/21016) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-open.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony/pull/60581) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [[EventDispatcher] Document event name is optional](https://github.com/symfony/symfony-docs/pull/21015) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-closed.svg) [[EventDispatcher] Document event name is optionnal](https://github.com/symfony/symfony-docs/pull/21014) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
