@@ -2,6 +2,11 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony-docs/pull/21016) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony/pull/60581) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [[EventDispatcher] Document event name is optionnal](https://github.com/symfony/symfony-docs/pull/21015) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-closed.svg) [[EventDispatcher] Document event name is optionnal](https://github.com/symfony/symfony-docs/pull/21014) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Serializer] Fix YAML normalizationContext and denormalizationContext names](https://github.com/symfony/symfony-docs/pull/21013) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-closed.svg) [[make:user] Dont generate `UserInterface::eraseCredentials` with symfony &gt;= 7.3](https://github.com/symfony/maker-bundle/pull/1701) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
@@ -17,11 +22,6 @@
 - ![](./assets/pr-merged.svg) [Fix lyrixx slides link](https://github.com/SymfonyLive/paris-2025-talks/pull/1) on [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Scheduler] Add MessageHandler result to the PostRunEvent](https://github.com/symfony/symfony-docs/pull/20804) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[TypeInfo] Add missing semi colons](https://github.com/symfony/symfony-docs/pull/20788) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [[HttpKernel] Support Uid in `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20784) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [[HttpKernel] Document supported types `#[MapQueryParameter]`](https://github.com/symfony/symfony-docs/pull/20783) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Add `NumberNormalizer`](https://github.com/symfony/symfony-docs/pull/20782) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
-- ![](./assets/pr-merged.svg) [Add support for phpclass reference with namespace](https://github.com/symfony-tools/docs-builder/pull/190) on [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) (2 months ago)
-- ![](./assets/pr-merged.svg) [[TypeInfo] Add `TypeFactoryTrait::fromValue` method](https://github.com/symfony/symfony-docs/pull/20781) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
