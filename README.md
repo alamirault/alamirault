@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [New rule: EnsureCodeBlockIndentation](https://github.com/OskarStark/doctor-rst/pull/2028) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Replace session.storage service](https://github.com/symfony/symfony-docs/pull/21032) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler] Replace `parents()` by `ancestors()`](https://github.com/symfony/symfony-docs/pull/21031) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[Security] Remove `is_anonymous` expesssion language function](https://github.com/symfony/symfony-docs/pull/21030) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-open.svg) [[Notifier][Mercure] Document options in README file](https://github.com/symfony/symfony/pull/60259) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [Missing space form-data.md](https://github.com/api-platform/docs/pull/2157) on [api-platform/docs](https://github.com/api-platform/docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix glamour link in README.md](https://github.com/dlvhdr/gh-dash/pull/564) on [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Validator] Add `filenameCharset` and `filenameCountUnit` options to `File` constraint](https://github.com/symfony/symfony-docs/pull/20906) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
