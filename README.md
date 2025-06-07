@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [New rule: EnsureCodeBlockIndentation](https://github.com/OskarStark/doctor-rst/pull/2028) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] Replace session.storage service](https://github.com/symfony/symfony-docs/pull/21032) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-merged.svg) [[DomCrawler] Replace `parents()` by `ancestors()`](https://github.com/symfony/symfony-docs/pull/21031) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
-- ![](./assets/pr-open.svg) [[Security] Remove `is_anonymous` expesssion language function](https://github.com/symfony/symfony-docs/pull/21030) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-open.svg) [New rule: EnsureCodeBlockIndentation](https://github.com/OskarStark/doctor-rst/pull/2028) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] Replace session.storage service](https://github.com/symfony/symfony-docs/pull/21032) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-merged.svg) [[DomCrawler] Replace `parents()` by `ancestors()`](https://github.com/symfony/symfony-docs/pull/21031) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
+- ![](./assets/pr-open.svg) [[Security] Remove `is_anonymous` expesssion language function](https://github.com/symfony/symfony-docs/pull/21030) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony-docs/pull/21016) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony/pull/60581) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[EventDispatcher] Document event name is optional](https://github.com/symfony/symfony-docs/pull/21015) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
