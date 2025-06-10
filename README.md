@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Remove 7.x versionadded directives](https://github.com/symfony/symfony-docs/pull/21072) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [Add references to rules.md](https://github.com/OskarStark/doctor-rst/pull/2031) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
 - ![](./assets/pr-merged.svg) [[VarExporter] Remove `LazyGhostTrait` and `LazyProxyTrait` in favor of native lazy objects](https://github.com/symfony/symfony-docs/pull/21067) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
 - ![](./assets/pr-merged.svg) [[PHPUnitBridge] Add `strtotime()` to ClockMock](https://github.com/symfony/symfony-docs/pull/21066) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-merged.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Update Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20927) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Add PHP config support for routing](https://github.com/symfony/symfony-docs/pull/20923) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
