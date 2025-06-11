@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Remove 7.x versionadded directives](https://github.com/symfony/symfony-docs/pull/21072) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
-- ![](./assets/pr-merged.svg) [Add references to rules.md](https://github.com/OskarStark/doctor-rst/pull/2031) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- ![](./assets/pr-merged.svg) [[VarExporter] Remove `LazyGhostTrait` and `LazyProxyTrait` in favor of native lazy objects](https://github.com/symfony/symfony-docs/pull/21067) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
-- ![](./assets/pr-merged.svg) [[PHPUnitBridge] Add `strtotime()` to ClockMock](https://github.com/symfony/symfony-docs/pull/21066) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 days ago)
+- ![](./assets/pr-open.svg) [Remove 7.x versionadded directives](https://github.com/symfony/symfony-docs/pull/21072) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [Add references to rules.md](https://github.com/OskarStark/doctor-rst/pull/2031) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 days ago)
+- ![](./assets/pr-merged.svg) [[VarExporter] Remove `LazyGhostTrait` and `LazyProxyTrait` in favor of native lazy objects](https://github.com/symfony/symfony-docs/pull/21067) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
+- ![](./assets/pr-merged.svg) [[PHPUnitBridge] Add `strtotime()` to ClockMock](https://github.com/symfony/symfony-docs/pull/21066) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 days ago)
 - ![](./assets/pr-open.svg) [New rule: EnsureCodeBlockIndentation](https://github.com/OskarStark/doctor-rst/pull/2028) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Replace session.storage service](https://github.com/symfony/symfony-docs/pull/21032) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler] Replace `parents()` by `ancestors()`](https://github.com/symfony/symfony-docs/pull/21031) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
