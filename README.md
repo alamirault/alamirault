@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (today)
+- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/ably/ably-php/pull/213) on [ably/ably-php](https://github.com/ably/ably-php) (today)
 - ![](./assets/pr-merged.svg) [Add `symfony/json-path`](https://github.com/symfony-tools/symfony-application/pull/36) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (1 week ago)
 - ![](./assets/pr-merged.svg) [Remove 7.x versionadded directives](https://github.com/symfony/symfony-docs/pull/21072) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Add references to rules.md](https://github.com/OskarStark/doctor-rst/pull/2031) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Mailer][Mime] Refactor S/MIME encryption handling in `SMimeEncryptionListener`](https://github.com/symfony/symfony-docs/pull/20935) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Use PHPUnit 11 in &#34;Create Framework&#34; tutorial](https://github.com/symfony/symfony-docs/pull/20930) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Use phpunit 10 in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20929) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Fix setParameter for RouteCollection in Create Framework tutorial](https://github.com/symfony/symfony-docs/pull/20928) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 
 #### 📫 How to reach me
 
