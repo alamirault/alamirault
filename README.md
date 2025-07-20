@@ -2,6 +2,7 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (4 weeks ago)
@@ -21,7 +22,6 @@
 - ![](./assets/pr-closed.svg) [[EventDispatcher] Document event name is optionnal](https://github.com/symfony/symfony-docs/pull/21014) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Fix YAML normalizationContext and denormalizationContext names](https://github.com/symfony/symfony-docs/pull/21013) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-closed.svg) [[make:user] Dont generate `UserInterface::eraseCredentials` with symfony &gt;= 7.3](https://github.com/symfony/maker-bundle/pull/1701) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 months ago)
-- ![](./assets/pr-merged.svg) [[Console] Set description as first parameter to `Argument` and `Option` attributes](https://github.com/symfony/symfony/pull/60366) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 
 #### 📫 How to reach me
 
