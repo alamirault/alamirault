@@ -2,6 +2,8 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- ![](./assets/pr-open.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
@@ -20,8 +22,6 @@
 - ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony/pull/60581) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - ![](./assets/pr-merged.svg) [[EventDispatcher] Document event name is optional](https://github.com/symfony/symfony-docs/pull/21015) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-closed.svg) [[EventDispatcher] Document event name is optionnal](https://github.com/symfony/symfony-docs/pull/21014) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Fix YAML normalizationContext and denormalizationContext names](https://github.com/symfony/symfony-docs/pull/21013) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-closed.svg) [[make:user] Dont generate `UserInterface::eraseCredentials` with symfony &gt;= 7.3](https://github.com/symfony/maker-bundle/pull/1701) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (2 months ago)
 
 #### 📫 How to reach me
 
