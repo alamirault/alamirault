@@ -2,13 +2,13 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- ![](./assets/pr-open.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (today)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-open.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-open.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 days ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
-- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (4 weeks ago)
-- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/ably/ably-php/pull/213) on [ably/ably-php](https://github.com/ably/ably-php) (4 weeks ago)
+- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (1 month ago)
+- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/ably/ably-php/pull/213) on [ably/ably-php](https://github.com/ably/ably-php) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add `symfony/json-path`](https://github.com/symfony-tools/symfony-application/pull/36) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (1 month ago)
 - ![](./assets/pr-merged.svg) [Remove 7.x versionadded directives](https://github.com/symfony/symfony-docs/pull/21072) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add references to rules.md](https://github.com/OskarStark/doctor-rst/pull/2031) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
