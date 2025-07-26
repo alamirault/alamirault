@@ -2,10 +2,10 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 days ago)
+- ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 days ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (1 month ago)
