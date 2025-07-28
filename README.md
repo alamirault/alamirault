@@ -2,9 +2,9 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
-- ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- ![](./assets/pr-merged.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- ![](./assets/pr-merged.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 weeks ago)
@@ -19,9 +19,9 @@
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Replace session.storage service](https://github.com/symfony/symfony-docs/pull/21032) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler] Replace `parents()` by `ancestors()`](https://github.com/symfony/symfony-docs/pull/21031) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Security] Remove `is_anonymous` expesssion language function](https://github.com/symfony/symfony-docs/pull/21030) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony-docs/pull/21016) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony/pull/60581) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
-- ![](./assets/pr-merged.svg) [[EventDispatcher] Document event name is optional](https://github.com/symfony/symfony-docs/pull/21015) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
+- ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony-docs/pull/21016) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
+- ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony/pull/60581) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
+- ![](./assets/pr-merged.svg) [[EventDispatcher] Document event name is optional](https://github.com/symfony/symfony-docs/pull/21015) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 
 #### 📫 How to reach me
 
