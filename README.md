@@ -8,7 +8,7 @@
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (1 month ago)
+- ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (1 month ago)
 - ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/ably/ably-php/pull/213) on [ably/ably-php](https://github.com/ably/ably-php) (1 month ago)
 - ![](./assets/pr-merged.svg) [Add `symfony/json-path`](https://github.com/symfony-tools/symfony-application/pull/36) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (1 month ago)
 - ![](./assets/pr-merged.svg) [Remove 7.x versionadded directives](https://github.com/symfony/symfony-docs/pull/21072) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
