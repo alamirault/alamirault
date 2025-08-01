@@ -15,7 +15,7 @@
 - ![](./assets/pr-merged.svg) [Add references to rules.md](https://github.com/OskarStark/doctor-rst/pull/2031) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - ![](./assets/pr-merged.svg) [[VarExporter] Remove `LazyGhostTrait` and `LazyProxyTrait` in favor of native lazy objects](https://github.com/symfony/symfony-docs/pull/21067) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[PHPUnitBridge] Add `strtotime()` to ClockMock](https://github.com/symfony/symfony-docs/pull/21066) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
-- ![](./assets/pr-open.svg) [New rule: EnsureCodeBlockIndentation](https://github.com/OskarStark/doctor-rst/pull/2028) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
+- ![](./assets/pr-open.svg) [New rule: EnsureCodeBlockIndentation](https://github.com/OskarStark/doctor-rst/pull/2028) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 months ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Replace session.storage service](https://github.com/symfony/symfony-docs/pull/21032) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[DomCrawler] Replace `parents()` by `ancestors()`](https://github.com/symfony/symfony-docs/pull/21031) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Security] Remove `is_anonymous` expesssion language function](https://github.com/symfony/symfony-docs/pull/21030) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
