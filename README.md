@@ -2,6 +2,9 @@
 
 #### 👷 My recent pull requests
 
+- ![](./assets/pr-open.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[HttpFoundation] Remove deprecated Request::get() in favor of using properties](https://github.com/symfony/symfony-docs/pull/21469) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
+- ![](./assets/pr-open.svg) [[Framework] Fix missing framework options not_compromised_password](https://github.com/symfony/symfony-docs/pull/21468) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (today)
 - ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [Replace Normalizer naming by UriVariableTransformer](https://github.com/api-platform/docs/pull/2194) on [api-platform/docs](https://github.com/api-platform/docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
@@ -19,9 +22,6 @@
 - ![](./assets/pr-merged.svg) [[PHPUnitBridge] Add `strtotime()` to ClockMock](https://github.com/symfony/symfony-docs/pull/21066) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
 - ![](./assets/pr-open.svg) [New rule: EnsureCodeBlockIndentation](https://github.com/OskarStark/doctor-rst/pull/2028) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (4 months ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Replace session.storage service](https://github.com/symfony/symfony-docs/pull/21032) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [[DomCrawler] Replace `parents()` by `ancestors()`](https://github.com/symfony/symfony-docs/pull/21031) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [[Security] Remove `is_anonymous` expesssion language function](https://github.com/symfony/symfony-docs/pull/21030) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [Replace `get_class()` calls by `::class`](https://github.com/symfony/symfony-docs/pull/21016) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (4 months ago)
 
 #### 📫 How to reach me
 
