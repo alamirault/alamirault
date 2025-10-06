@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-open.svg) [[HttpFoundation] Remove deprecated Request::get() in favor of using properties](https://github.com/symfony/symfony-docs/pull/21469) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Framework] Fix missing framework options not_compromised_password](https://github.com/symfony/symfony-docs/pull/21468) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 day ago)
 - ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
