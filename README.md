@@ -5,7 +5,7 @@
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Remove deprecated Request::get() in favor of using properties](https://github.com/symfony/symfony-docs/pull/21469) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
 - ![](./assets/pr-merged.svg) [[Framework] Fix missing framework options not_compromised_password](https://github.com/symfony/symfony-docs/pull/21468) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 week ago)
-- ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Replace Normalizer naming by UriVariableTransformer](https://github.com/api-platform/docs/pull/2194) on [api-platform/docs](https://github.com/api-platform/docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
