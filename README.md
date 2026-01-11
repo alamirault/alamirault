@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [Fix variable name](https://github.com/anthropics/prompt-eng-interactive-tutorial/pull/59) on [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (3 days ago)
-- ![](./assets/pr-closed.svg) [wip](https://github.com/alamirault/fftt-api-src/pull/23) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (5 days ago)
+- ![](./assets/pr-open.svg) [Fix variable name](https://github.com/anthropics/prompt-eng-interactive-tutorial/pull/59) on [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (4 days ago)
+- ![](./assets/pr-closed.svg) [wip](https://github.com/alamirault/fftt-api-src/pull/23) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (6 days ago)
 - ![](./assets/pr-merged.svg) [Fix compatibility with php-cs-fixer 3.90.0, do not rely on PhpCsFixer finder](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/16) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Security] add missing `Clear-Site-Data` directives](https://github.com/symfony/symfony-docs/pull/21589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 month ago)
 - ![](./assets/pr-merged.svg) [[Validator] Deprecate implicit constraint option names in YAML/XML mapping files](https://github.com/symfony/symfony-docs/pull/21513) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
@@ -20,7 +20,7 @@
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 months ago)
 - ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (6 months ago)
 - ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/ably/ably-php/pull/213) on [ably/ably-php](https://github.com/ably/ably-php) (6 months ago)
-- ![](./assets/pr-merged.svg) [Add `symfony/json-path`](https://github.com/symfony-tools/symfony-application/pull/36) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (6 months ago)
+- ![](./assets/pr-merged.svg) [Add `symfony/json-path`](https://github.com/symfony-tools/symfony-application/pull/36) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (7 months ago)
 - ![](./assets/pr-merged.svg) [Remove 7.x versionadded directives](https://github.com/symfony/symfony-docs/pull/21072) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (7 months ago)
 
 #### 📫 How to reach me
