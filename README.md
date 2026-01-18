@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [[Process] Adjust Process mustRun method phpdoc](https://github.com/symfony/symfony/pull/63096) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
+- ![](./assets/pr-open.svg) [[Process] Adjust Process mustRun method phpdoc](https://github.com/symfony/symfony/pull/63096) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - ![](./assets/pr-open.svg) [Fix variable name](https://github.com/anthropics/prompt-eng-interactive-tutorial/pull/59) on [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (1 week ago)
 - ![](./assets/pr-closed.svg) [wip](https://github.com/alamirault/fftt-api-src/pull/23) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 week ago)
 - ![](./assets/pr-merged.svg) [Fix compatibility with php-cs-fixer 3.90.0, do not rely on PhpCsFixer finder](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/16) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (1 month ago)
@@ -13,14 +13,14 @@
 - ![](./assets/pr-merged.svg) [[Framework] Fix missing framework options not_compromised_password](https://github.com/symfony/symfony-docs/pull/21468) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - ![](./assets/pr-merged.svg) [Replace Normalizer naming by UriVariableTransformer](https://github.com/api-platform/docs/pull/2194) on [api-platform/docs](https://github.com/api-platform/docs) (4 months ago)
-- ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
+- ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 months ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 months ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (6 months ago)
-- ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (6 months ago)
-- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/ably/ably-php/pull/213) on [ably/ably-php](https://github.com/ably/ably-php) (6 months ago)
+- ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (7 months ago)
+- ![](./assets/pr-open.svg) [Add .gitattributes file](https://github.com/ably/ably-php/pull/213) on [ably/ably-php](https://github.com/ably/ably-php) (7 months ago)
 - ![](./assets/pr-merged.svg) [Add `symfony/json-path`](https://github.com/symfony-tools/symfony-application/pull/36) on [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (7 months ago)
 
 #### 📫 How to reach me
