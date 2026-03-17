@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Fix typo mongodb driver manager option](https://github.com/php/doc-fr/pull/2632) on [php/doc-fr](https://github.com/php/doc-fr) (6 days ago)
-- ![](./assets/pr-open.svg) [Replace annotation by attribute wording](https://github.com/api-platform/docs/pull/2254) on [api-platform/docs](https://github.com/api-platform/docs) (2 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix typo mongodb driver manager option](https://github.com/php/doc-fr/pull/2632) on [php/doc-fr](https://github.com/php/doc-fr) (1 week ago)
+- ![](./assets/pr-open.svg) [Replace annotation by attribute wording](https://github.com/api-platform/docs/pull/2254) on [api-platform/docs](https://github.com/api-platform/docs) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [[Process] Adjust Process mustRun method phpdoc](https://github.com/symfony/symfony/pull/63096) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - ![](./assets/pr-open.svg) [Fix variable name](https://github.com/anthropics/prompt-eng-interactive-tutorial/pull/59) on [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (2 months ago)
 - ![](./assets/pr-closed.svg) [wip](https://github.com/alamirault/fftt-api-src/pull/23) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (2 months ago)
@@ -18,7 +18,7 @@
 - ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Update phpdoc description](https://github.com/symfony/symfony/pull/61188) on [symfony/symfony](https://github.com/symfony/symfony) (7 months ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (7 months ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] [TwigBundle] Remove options session.sid_length session.sid_bits_per_character router.cache_dir validation.cache and base_template_class](https://github.com/symfony/symfony-docs/pull/21222) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (8 months ago)
 - ![](./assets/pr-merged.svg) [[Uid] Add microsecond precision to UUIDv7 and optimize on x64](https://github.com/symfony/symfony-docs/pull/21158) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (8 months ago)
 - ![](./assets/pr-merged.svg) [[Form] Change `UrlType` default protocol](https://github.com/symfony/symfony-docs/pull/21157) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (8 months ago)
 - ![](./assets/pr-merged.svg) [Add .gitattributes file](https://github.com/alcaeus/mongo-php-adapter/pull/319) on [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) (8 months ago)
