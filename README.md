@@ -3,7 +3,7 @@
 #### 👷 My recent pull requests
 
 - ![](./assets/pr-merged.svg) [Fix build_downgraded pipeline](https://github.com/alamirault/fftt-api-src/pull/26) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 week ago)
-- ![](./assets/pr-merged.svg) [Fix actualite date format](https://github.com/alamirault/fftt-api-src/pull/25) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 week ago)
+- ![](./assets/pr-merged.svg) [Fix actualite date format](https://github.com/alamirault/fftt-api-src/pull/25) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (2 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix typo mongodb driver manager option](https://github.com/php/doc-fr/pull/2632) on [php/doc-fr](https://github.com/php/doc-fr) (3 months ago)
 - ![](./assets/pr-open.svg) [Replace annotation by attribute wording](https://github.com/api-platform/docs/pull/2254) on [api-platform/docs](https://github.com/api-platform/docs) (4 months ago)
 - ![](./assets/pr-merged.svg) [[Process] Adjust Process mustRun method phpdoc](https://github.com/symfony/symfony/pull/63096) on [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
