@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-merged.svg) [Fix build_downgraded pipeline](https://github.com/alamirault/fftt-api-src/pull/26) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 weeks ago)
+- ![](./assets/pr-merged.svg) [Fix build_downgraded pipeline](https://github.com/alamirault/fftt-api-src/pull/26) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (4 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix actualite date format](https://github.com/alamirault/fftt-api-src/pull/25) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix typo mongodb driver manager option](https://github.com/php/doc-fr/pull/2632) on [php/doc-fr](https://github.com/php/doc-fr) (4 months ago)
 - ![](./assets/pr-open.svg) [Replace annotation by attribute wording](https://github.com/api-platform/docs/pull/2254) on [api-platform/docs](https://github.com/api-platform/docs) (4 months ago)
@@ -15,7 +15,7 @@
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (9 months ago)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Remove deprecated Request::get() in favor of using properties](https://github.com/symfony/symfony-docs/pull/21469) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (9 months ago)
 - ![](./assets/pr-merged.svg) [[Framework] Fix missing framework options not_compromised_password](https://github.com/symfony/symfony-docs/pull/21468) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (9 months ago)
-- ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (9 months ago)
+- ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (10 months ago)
 - ![](./assets/pr-merged.svg) [Replace Normalizer naming by UriVariableTransformer](https://github.com/api-platform/docs/pull/2194) on [api-platform/docs](https://github.com/api-platform/docs) (10 months ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (1 year ago)
 - ![](./assets/pr-merged.svg) [[Serializer] Remove require php version in tests](https://github.com/symfony/symfony/pull/61189) on [symfony/symfony](https://github.com/symfony/symfony) (1 year ago)
