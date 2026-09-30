@@ -2,8 +2,8 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [style: remplacer les couleurs noires par des tons bleutés](https://github.com/alamirault/webhook.site/pull/1) on [alamirault/webhook.site](https://github.com/alamirault/webhook.site) (1 day ago)
-- ![](./assets/pr-merged.svg) [Fix missing parenthesis README.md](https://github.com/webhooksite/webhook.site/pull/199) on [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) (4 days ago)
+- ![](./assets/pr-open.svg) [style: remplacer les couleurs noires par des tons bleutés](https://github.com/alamirault/webhook.site/pull/1) on [alamirault/webhook.site](https://github.com/alamirault/webhook.site) (2 days ago)
+- ![](./assets/pr-merged.svg) [Fix missing parenthesis README.md](https://github.com/webhooksite/webhook.site/pull/199) on [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) (5 days ago)
 - ![](./assets/pr-merged.svg) [Fix build_downgraded pipeline](https://github.com/alamirault/fftt-api-src/pull/26) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 months ago)
 - ![](./assets/pr-merged.svg) [Fix actualite date format](https://github.com/alamirault/fftt-api-src/pull/25) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 months ago)
 - ![](./assets/pr-merged.svg) [Fix typo mongodb driver manager option](https://github.com/php/doc-fr/pull/2632) on [php/doc-fr](https://github.com/php/doc-fr) (6 months ago)
@@ -14,9 +14,9 @@
 - ![](./assets/pr-merged.svg) [Fix compatibility with php-cs-fixer 3.90.0, do not rely on PhpCsFixer finder](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/16) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (10 months ago)
 - ![](./assets/pr-merged.svg) [[Security] add missing `Clear-Site-Data` directives](https://github.com/symfony/symfony-docs/pull/21589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (10 months ago)
 - ![](./assets/pr-merged.svg) [[Validator] Deprecate implicit constraint option names in YAML/XML mapping files](https://github.com/symfony/symfony-docs/pull/21513) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (11 months ago)
-- ![](./assets/pr-merged.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (11 months ago)
-- ![](./assets/pr-merged.svg) [[HttpFoundation] Remove deprecated Request::get() in favor of using properties](https://github.com/symfony/symfony-docs/pull/21469) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (11 months ago)
-- ![](./assets/pr-merged.svg) [[Framework] Fix missing framework options not_compromised_password](https://github.com/symfony/symfony-docs/pull/21468) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (11 months ago)
+- ![](./assets/pr-merged.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 year ago)
+- ![](./assets/pr-merged.svg) [[HttpFoundation] Remove deprecated Request::get() in favor of using properties](https://github.com/symfony/symfony-docs/pull/21469) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 year ago)
+- ![](./assets/pr-merged.svg) [[Framework] Fix missing framework options not_compromised_password](https://github.com/symfony/symfony-docs/pull/21468) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 year ago)
 - ![](./assets/pr-merged.svg) [[Console] Fix invokable command running other commands](https://github.com/symfony/symfony-docs/pull/21400) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 year ago)
 - ![](./assets/pr-merged.svg) [Replace Normalizer naming by UriVariableTransformer](https://github.com/api-platform/docs/pull/2194) on [api-platform/docs](https://github.com/api-platform/docs) (1 year ago)
 - ![](./assets/pr-merged.svg) [[HttpKernel] Remove outdated phpdoc](https://github.com/symfony/symfony/pull/61206) on [symfony/symfony](https://github.com/symfony/symfony) (1 year ago)
