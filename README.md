@@ -2,7 +2,7 @@
 
 #### 👷 My recent pull requests
 
-- ![](./assets/pr-open.svg) [style: remplacer les couleurs noires par des tons bleutés](https://github.com/alamirault/webhook.site/pull/1) on [alamirault/webhook.site](https://github.com/alamirault/webhook.site) (2 weeks ago)
+- ![](./assets/pr-open.svg) [style: remplacer les couleurs noires par des tons bleutés](https://github.com/alamirault/webhook.site/pull/1) on [alamirault/webhook.site](https://github.com/alamirault/webhook.site) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix missing parenthesis README.md](https://github.com/webhooksite/webhook.site/pull/199) on [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) (3 weeks ago)
 - ![](./assets/pr-merged.svg) [Fix build_downgraded pipeline](https://github.com/alamirault/fftt-api-src/pull/26) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (3 months ago)
 - ![](./assets/pr-merged.svg) [Fix actualite date format](https://github.com/alamirault/fftt-api-src/pull/25) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (4 months ago)
@@ -12,7 +12,7 @@
 - ![](./assets/pr-open.svg) [Fix variable name](https://github.com/anthropics/prompt-eng-interactive-tutorial/pull/59) on [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (9 months ago)
 - ![](./assets/pr-closed.svg) [wip](https://github.com/alamirault/fftt-api-src/pull/23) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (9 months ago)
 - ![](./assets/pr-merged.svg) [Fix compatibility with php-cs-fixer 3.90.0, do not rely on PhpCsFixer finder](https://github.com/erickskrauch/php-cs-fixer-custom-fixers/pull/16) on [erickskrauch/php-cs-fixer-custom-fixers](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) (10 months ago)
-- ![](./assets/pr-merged.svg) [[Security] add missing `Clear-Site-Data` directives](https://github.com/symfony/symfony-docs/pull/21589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (10 months ago)
+- ![](./assets/pr-merged.svg) [[Security] add missing `Clear-Site-Data` directives](https://github.com/symfony/symfony-docs/pull/21589) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (11 months ago)
 - ![](./assets/pr-merged.svg) [[Validator] Deprecate implicit constraint option names in YAML/XML mapping files](https://github.com/symfony/symfony-docs/pull/21513) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 year ago)
 - ![](./assets/pr-merged.svg) [[FrameworkBundle] Add support for union types on `#[AsEventListener]`](https://github.com/symfony/symfony-docs/pull/21470) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 year ago)
 - ![](./assets/pr-merged.svg) [[HttpFoundation] Remove deprecated Request::get() in favor of using properties](https://github.com/symfony/symfony-docs/pull/21469) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (1 year ago)
