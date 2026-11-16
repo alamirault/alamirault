@@ -5,7 +5,7 @@
 - ![](./assets/pr-open.svg) [style: remplacer les couleurs noires par des tons bleutés](https://github.com/alamirault/webhook.site/pull/1) on [alamirault/webhook.site](https://github.com/alamirault/webhook.site) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix missing parenthesis README.md](https://github.com/webhooksite/webhook.site/pull/199) on [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) (1 month ago)
 - ![](./assets/pr-merged.svg) [Fix build_downgraded pipeline](https://github.com/alamirault/fftt-api-src/pull/26) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (4 months ago)
-- ![](./assets/pr-merged.svg) [Fix actualite date format](https://github.com/alamirault/fftt-api-src/pull/25) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (4 months ago)
+- ![](./assets/pr-merged.svg) [Fix actualite date format](https://github.com/alamirault/fftt-api-src/pull/25) on [alamirault/fftt-api-src](https://github.com/alamirault/fftt-api-src) (5 months ago)
 - ![](./assets/pr-merged.svg) [Fix typo mongodb driver manager option](https://github.com/php/doc-fr/pull/2632) on [php/doc-fr](https://github.com/php/doc-fr) (8 months ago)
 - ![](./assets/pr-open.svg) [Replace annotation by attribute wording](https://github.com/api-platform/docs/pull/2254) on [api-platform/docs](https://github.com/api-platform/docs) (8 months ago)
 - ![](./assets/pr-merged.svg) [[Process] Adjust Process mustRun method phpdoc](https://github.com/symfony/symfony/pull/63096) on [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
